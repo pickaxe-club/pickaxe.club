@@ -1,32 +1,35 @@
-[15:51:42] [Server thread/INFO]: Starting minecraft server version 1.8.1
-[15:51:42] [Server thread/INFO]: Loading properties
-[15:51:42] [Server thread/INFO]: Default game type: SURVIVAL
-[15:51:42] [Server thread/INFO]: Generating keypair
-[15:51:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:51:42] [Server thread/INFO]: Using epoll channel type
-[15:51:42] [Server thread/INFO]: Preparing level "world"
-[15:51:42] [Server thread/INFO]: Preparing start region for level 0
-[15:51:43] [Server thread/INFO]: Preparing spawn area: 32%
-[15:51:44] [Server thread/INFO]: Done (2.112s)! For help, type "help" or "?"
-[15:51:44] [Server thread/INFO]: Starting remote control listener
-[15:51:44] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
-[15:51:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2556ms behind, skipping 51 tick(s)
-[15:52:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6536ms behind, skipping 130 tick(s)
-[15:53:09] [User Authenticator #1/INFO]: UUID of player therobert is d2186379-72a5-4005-8208-180e025ac377
-[15:53:09] [Server thread/INFO]: therobert[/107.216.112.80:64386] logged in with entity id 987 at (-172.27848228776983, 71.0, 228.12747039494445)
-[15:53:09] [Server thread/INFO]: therobert joined the game
-[15:53:23] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[15:53:28] [Server thread/INFO]: [Server] hey about to restart the server
-[15:53:32] [Server thread/INFO]: <therobert> okay!
-[15:53:36] [Server thread/INFO]: therobert lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[15:53:36] [Server thread/INFO]: therobert left the game
-[15:53:44] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[15:53:45] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[15:53:46] [Server thread/INFO]: Stopping the server
-[15:53:46] [Server thread/INFO]: Stopping server
-[15:53:46] [Server thread/INFO]: Saving players
-[15:53:46] [Server thread/INFO]: Saving worlds
-[15:53:46] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[15:53:47] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[15:53:47] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[15:53:47] [Server Shutdown Thread/INFO]: Stopping server
+[12:27:50] [Server thread/INFO]: Starting minecraft server version 1.8.1
+[12:27:50] [Server thread/INFO]: Loading properties
+[12:27:50] [Server thread/INFO]: Default game type: SURVIVAL
+[12:27:50] [Server thread/INFO]: Generating keypair
+[12:27:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:27:51] [Server thread/INFO]: Using epoll channel type
+[12:27:51] [Server thread/INFO]: Preparing level "world"
+[12:27:51] [Server thread/ERROR]: Exception reading ./world/level.dat
+java.io.EOFException
+	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:264) ~[?:1.7.0_65]
+	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:254) ~[?:1.7.0_65]
+	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:163) ~[?:1.7.0_65]
+	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:78) ~[?:1.7.0_65]
+	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:90) ~[?:1.7.0_65]
+	at fz.a(SourceFile:13) ~[minecraft_server.jar:?]
+	at bql.c(SourceFile:62) [minecraft_server.jar:?]
+	at bqh.b(SourceFile:94) [minecraft_server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:182) [minecraft_server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:224) [minecraft_server.jar:?]
+	at pp.i(SourceFile:211) [minecraft_server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:418) [minecraft_server.jar:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_65]
+[12:27:51] [Server thread/INFO]: Preparing start region for level 0
+[12:27:52] [Server thread/INFO]: Preparing spawn area: 33%
+[12:27:53] [Server thread/INFO]: Preparing spawn area: 86%
+[12:27:53] [Server thread/INFO]: Done (2.484s)! For help, type "help" or "?"
+[12:27:53] [Server thread/INFO]: Starting remote control listener
+[12:27:53] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
+[12:28:09] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[12:30:13] [Server thread/INFO]: There are 0/20 players online:
+[12:30:13] [Server thread/INFO]: 
+[12:32:52] [Server Shutdown Thread/INFO]: Stopping server
+[12:32:52] [Server Shutdown Thread/INFO]: Saving players
+[12:32:52] [Server Shutdown Thread/INFO]: Saving worlds
+[12:32:52] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
