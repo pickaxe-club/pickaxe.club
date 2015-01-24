@@ -1,261 +1,246 @@
-[20:41:47] [Server thread/INFO]: Starting minecraft server version 1.8.1
-[20:41:47] [Server thread/INFO]: Loading properties
-[20:41:47] [Server thread/INFO]: Default game type: SURVIVAL
-[20:41:47] [Server thread/INFO]: Generating keypair
-[20:41:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:41:47] [Server thread/INFO]: Using epoll channel type
-[20:41:47] [Server thread/INFO]: Preparing level "world"
-[20:41:47] [Server thread/ERROR]: Exception reading ./world/level.dat
-java.io.EOFException
-	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:264) ~[?:1.7.0_76]
-	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:254) ~[?:1.7.0_76]
-	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:163) ~[?:1.7.0_76]
-	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:78) ~[?:1.7.0_76]
-	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:90) ~[?:1.7.0_76]
-	at fz.a(SourceFile:13) ~[minecraft_server.jar:?]
-	at bql.c(SourceFile:62) [minecraft_server.jar:?]
-	at bqh.b(SourceFile:94) [minecraft_server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:182) [minecraft_server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:224) [minecraft_server.jar:?]
-	at pp.i(SourceFile:211) [minecraft_server.jar:?]
-	at net.minecraft.server.MinecraftServer.run(SourceFile:418) [minecraft_server.jar:?]
-	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_76]
-[20:41:47] [Server thread/INFO]: Preparing start region for level 0
-[20:41:48] [Server thread/INFO]: Preparing spawn area: 5%
-[20:41:49] [Server thread/INFO]: Preparing spawn area: 90%
-[20:41:49] [Server thread/INFO]: Done (2.236s)! For help, type "help" or "?"
-[20:41:49] [Server thread/INFO]: Starting remote control listener
-[20:41:49] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
-[20:42:38] [User Authenticator #1/INFO]: UUID of player tyrosinase is efb6fc35-604e-4dd8-93f9-ccdd1593ff69
-[20:42:38] [Server thread/WARN]: Failed to load player data for tyrosinase
-[20:42:38] [Server thread/INFO]: tyrosinase[/108.200.108.174:59816] logged in with entity id 404 at (-146.5, 70.0, 259.5)
-[20:42:38] [Server thread/INFO]: tyrosinase joined the game
-[20:42:51] [User Authenticator #2/INFO]: UUID of player shekibobo is 347bf42b-3684-4d39-ade0-9bb464f03d44
-[20:42:51] [Server thread/WARN]: Failed to load player data for shekibobo
-[20:42:51] [Server thread/INFO]: shekibobo[/99.62.253.97:60556] logged in with entity id 3520 at (-165.5, 70.0, 260.5)
-[20:42:51] [Server thread/INFO]: shekibobo joined the game
-[20:42:51] [User Authenticator #3/INFO]: UUID of player bensawyer is 52ce3fba-1aa1-4548-8841-15b7e942687d
-[20:42:51] [Server thread/WARN]: Failed to load player data for bensawyer
-[20:42:51] [Server thread/INFO]: bensawyer[/76.23.222.194:40981] logged in with entity id 4062 at (-146.5, 70.0, 249.5)
-[20:42:51] [Server thread/INFO]: bensawyer joined the game
-[20:42:55] [Server thread/INFO]: <tyrosinase> Uh oh.
-[20:43:10] [Server thread/INFO]: <bensawyer> oh no
-[20:43:14] [Server thread/INFO]: <shekibobo> what?
-[20:43:20] [Server thread/INFO]: <bensawyer> I lost all my stuff
-[20:43:21] [Server thread/INFO]: <tyrosinase> WE'RE NAKED
-[20:43:28] [Server thread/INFO]: [Server] wtf
-[20:43:32] [Server thread/INFO]: <shekibobo> yeah, I don't remember being here either
-[20:43:39] [Server thread/INFO]: <tyrosinase> And back at spawn.
-[20:43:43] [Server thread/INFO]: <bensawyer> same
-[20:43:45] [Server thread/INFO]: [Server] did e
-[20:43:48] [Server thread/INFO]: [Server] sigh
-[20:43:53] [Server thread/INFO]: <tyrosinase> Yep, the player files went away.
-[20:44:03] [User Authenticator #4/INFO]: UUID of player qrush is 806ecb0a-663b-4783-850b-87dcb53ffb04
-[20:44:03] [Server thread/INFO]: qrush[/69.204.121.154:46167] logged in with entity id 10946 at (-19.434106235467752, 49.0, 322.7321435962633)
-[20:44:03] [Server thread/INFO]: qrush joined the game
-[20:44:03] [Server thread/INFO]: <bensawyer> crap
-[20:44:07] [Server thread/INFO]: qrush lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[20:44:07] [Server thread/INFO]: qrush left the game
-[20:44:11] [Server thread/INFO]: [Server] i have my stuff.
-[20:44:22] [Server thread/INFO]: <bensawyer> you weren't online when it died maybe?
-[20:44:37] [Server thread/INFO]: shekibobo lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[20:44:37] [Server thread/INFO]: shekibobo left the game
-[20:44:40] [Server thread/INFO]: bensawyer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[20:44:40] [Server thread/INFO]: bensawyer left the game
-[20:44:45] [User Authenticator #5/INFO]: UUID of player bensawyer is 52ce3fba-1aa1-4548-8841-15b7e942687d
-[20:44:45] [Server thread/INFO]: bensawyer[/76.23.222.194:36787] logged in with entity id 16240 at (-276.74495282266747, 63.0, 405.4837932315346)
-[20:44:45] [Server thread/INFO]: bensawyer joined the game
-[20:44:57] [Server thread/INFO]: <bensawyer> tried logging back in - didn't help
-[20:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[20:45:07] [User Authenticator #6/INFO]: UUID of player shekibobo is 347bf42b-3684-4d39-ade0-9bb464f03d44
-[20:45:07] [Server thread/INFO]: shekibobo[/99.62.253.97:60858] logged in with entity id 17040 at (-164.6744144673456, 70.0, 254.862880957053)
-[20:45:07] [Server thread/INFO]: shekibobo joined the game
-[20:45:07] [User Authenticator #7/INFO]: UUID of player evsawyer is def678e7-5e95-4128-9252-29ad69b42014
-[20:45:07] [Server thread/WARN]: Failed to load player data for evsawyer
-[20:45:07] [Server thread/INFO]: evsawyer[/76.23.222.194:45072] logged in with entity id 17812 at (-151.5, 70.0, 253.5)
-[20:45:07] [Server thread/INFO]: evsawyer joined the game
-[20:45:08] [Server thread/INFO]: <tyrosinase> Nope, this happened last time too.
-[20:45:15] [Server thread/INFO]: <shekibobo> is your entire inventory empty?
-[20:45:21] [Server thread/INFO]: <evsawyer> yea
-[20:45:21] [Server thread/INFO]: <bensawyer> yes
-[20:45:27] [Server thread/INFO]: <shekibobo> hmmm
-[20:45:28] [Server thread/INFO]: <evsawyer> crap
-[20:45:31] [Server thread/INFO]: [Server] because linode hhard rebooted th einstance.
-[20:45:31] [Server thread/INFO]: <tyrosinase> Anybody's was, who was logged in. Files were corrupted.
-[20:45:50] [Server thread/INFO]: <bensawyer> I was 4000 blocks out and now at spawn and starting over... oh well
-[20:46:20] [Server thread/INFO]: <shekibobo> that hour-rollback isn't sounding so bad now, huh
-[20:46:26] [Server thread/INFO]: <bensawyer> yep :)
-[20:46:31] [Server thread/INFO]: [Server] i dont have backups.
-[20:46:32] [Server thread/INFO]: <evsawyer> yea
-[20:46:38] [Server thread/INFO]: <shekibobo> hmmm
-[20:46:53] [Server thread/INFO]: <shekibobo> well, there goes a few blocks of diamond :(
-[20:46:59] [Server thread/INFO]: <shekibobo> and enchantments...
-[20:47:02] [Server thread/INFO]: <shekibobo> ugh
-[20:47:08] [Server thread/INFO]: <shekibobo> this might be bad
-[20:47:28] [Server thread/INFO]: [Server] we will go to a different host next week
-[20:47:30] [Server thread/INFO]: <bensawyer> it's one of these things where 4 hours later it won't feel that way
-[20:47:32] [Server thread/INFO]: [Server] i have asked for a refund
-[20:48:01] [Server thread/INFO]: <shekibobo> well, I had a super-enchanted pickaxe that I'd worked very hard to keep maintained
-[20:48:03] [Server thread/INFO]: evsawyer fell from a high place
-[20:48:13] [Server thread/INFO]: bensawyer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[20:48:13] [Server thread/INFO]: bensawyer left the game
-[20:48:32] [Server thread/INFO]: <shekibobo> omg
-[20:48:35] [Server thread/INFO]: <shekibobo> ender chest is empty
-[20:48:41] [Server thread/INFO]: <tyrosinase> That's part of your player file.
-[20:48:57] [Server thread/INFO]: <evsawyer> noooooooooooooo
-[20:49:02] [Server thread/INFO]: <shekibobo> NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-[20:49:41] [Server thread/INFO]: <evsawyer> well fresh new start i guess
-[20:49:46] [Server thread/INFO]: <shekibobo> *sigh*
-[20:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[20:50:04] [Server thread/INFO]: Given [Diamond Pickaxe] * 1 to shekibobo
-[20:50:15] [Server thread/INFO]: Given [Diamond Pickaxe] * 1 to tyrosinase
-[20:50:34] [Server thread/INFO]: Given [Diamond Pickaxe] * 1 to evsawyer
-[20:50:37] [Server thread/INFO]: There are 3/20 players online:
-[20:50:37] [Server thread/INFO]: tyrosinase, shekibobo, evsawyer
-[20:50:40] [Server thread/INFO]: tyrosinase lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[20:50:40] [Server thread/INFO]: tyrosinase left the game
-[20:50:45] [User Authenticator #8/INFO]: UUID of player tyrosinase is efb6fc35-604e-4dd8-93f9-ccdd1593ff69
-[20:50:45] [Server thread/INFO]: tyrosinase[/108.200.108.174:59833] logged in with entity id 65362 at (-196.43986892130854, 71.875, 233.00021296011354)
-[20:50:45] [Server thread/INFO]: tyrosinase joined the game
-[20:50:50] [Server thread/INFO]: <evsawyer> i got a dimomd pick
-[20:51:11] [Server thread/INFO]: <evsawyer> from no some one
-[20:51:17] [Server thread/INFO]: <evsawyer> werid
-[20:51:19] [Server thread/INFO]: [Server] trying to make up for it :)
-[20:51:20] [Server thread/INFO]: <tyrosinase> Thanks, qrush.
-[20:51:24] [Server thread/INFO]: <evsawyer> ok
-[20:51:26] [Server thread/INFO]: <evsawyer> thanks
-[20:51:27] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[20:51:35] [Server thread/INFO]: Given [Diamond Sword] * 1 to tyrosinase
-[20:51:43] [Server thread/INFO]: There is no such item with name minecraft:diamond_Sword
-[20:51:53] [Server thread/INFO]: That player cannot be found
-[20:52:00] [Server thread/INFO]: Given [Diamond Sword] * 1 to shekibobo
-[20:52:02] [Server thread/INFO]: <tyrosinase> Enchantment books? Bottles o' enchantment?
-[20:52:09] [Server thread/INFO]: Usage: /give <player> <item> [amount] [data] [dataTag]
-[20:52:28] [Server thread/INFO]: Given [Diamond Sword] * 1 to evsawyer
-[20:52:39] [User Authenticator #9/INFO]: UUID of player CobyR is e931627c-d0f1-44bd-99d8-e7e6e9128859
-[20:52:39] [Server thread/INFO]: CobyR[/208.100.161.128:49985] logged in with entity id 75986 at (-700.3607296189294, 11.0, 1537.300000011921)
-[20:52:39] [Server thread/INFO]: CobyR joined the game
-[20:53:00] [Server thread/INFO]: <shekibobo> it's a start
-[20:53:05] [Server thread/INFO]: <evsawyer> yea
-[20:53:23] [Server thread/INFO]: <shekibobo> that lost ender chest is pretty rough, though
-[20:53:28] [Server thread/INFO]: <tyrosinase> The villagers have some pretty decent enchantment books. One guy at spawn gives Looting II.
-[20:53:34] [Server thread/INFO]: <tyrosinase> (I had one in my enderchest...)
-[20:53:41] [Server thread/INFO]: <shekibobo> yeah, but you need a ton of emeralds
-[20:53:49] [Server thread/INFO]: <shekibobo> which I used to have
-[20:53:54] [Server thread/INFO]: Given [Emerald] * 64 to shekibobo
-[20:53:55] [Server thread/INFO]: <evsawyer> same
-[20:54:01] [Server thread/INFO]: Given [Emerald] * 64 to evsawyer
-[20:54:03] [Server thread/INFO]: <shekibobo> oohh, thanks SERVER!!!
-[20:54:08] [Server thread/INFO]: <evsawyer> thanks
-[20:54:09] [Server thread/INFO]: Given [Emerald] * 64 to tyrosinase
-[20:54:11] [Server thread/INFO]: <tyrosinase> I had just spent all mine on Looting II. :}
-[20:54:25] [Server thread/INFO]: [Server] i haven't figured out enchantments yet, hopefully that helps
-[20:54:37] [Server thread/INFO]: <tyrosinase> You can usually get enchantment books in creative.
-[20:54:45] [Server thread/INFO]: <evsawyer> yea
-[20:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[20:55:05] [Server thread/INFO]: <shekibobo> cooked steak?
-[20:55:28] [Server thread/INFO]: <shekibobo> and maybe a few blocks of diamond?
-[20:55:34] [User Authenticator #10/INFO]: UUID of player xcasio is e822ff77-e4a1-45ae-b564-6067ab089744
-[20:55:34] [Server thread/WARN]: Failed to load player data for xcasio
-[20:55:34] [Server thread/INFO]: xcasio[/90.192.160.230:49547] logged in with entity id 87235 at (-157.5, 70.0, 260.5)
-[20:55:34] [Server thread/INFO]: xcasio joined the game
-[20:55:47] [Server thread/INFO]: <tyrosinase> Dude, what were you doing that you got BLOCKS of diamond?!
-[20:55:54] [Server thread/INFO]: <shekibobo> I was saving up
-[20:55:59] [Server thread/INFO]: <CobyR> whats this about a lost ender's chest?
-[20:56:18] [Server thread/INFO]: <shekibobo> ender chests are empty if you were on the server when it crashed
-[20:56:21] [Server thread/WARN]: shekibobo moved wrongly!
-[20:56:22] [User Authenticator #11/INFO]: UUID of player bensawyer is 52ce3fba-1aa1-4548-8841-15b7e942687d
-[20:56:22] [Server thread/INFO]: bensawyer[/76.23.222.194:43569] logged in with entity id 90556 at (-363.53345816746526, 64.0, 474.7951648994966)
-[20:56:22] [Server thread/INFO]: bensawyer joined the game
-[20:56:26] [Server thread/INFO]: tyrosinase lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[20:56:26] [Server thread/INFO]: tyrosinase left the game
-[20:56:32] [User Authenticator #12/INFO]: UUID of player tyrosinase is efb6fc35-604e-4dd8-93f9-ccdd1593ff69
-[20:56:32] [Server thread/INFO]: tyrosinase[/108.200.108.174:59849] logged in with entity id 90780 at (-209.69058843675424, 71.0, 227.49302725032157)
-[20:56:32] [Server thread/INFO]: tyrosinase joined the game
-[20:56:39] [Server thread/INFO]: <CobyR> ah heading to where I have one but I should be ok - crossing fingers
-[20:56:58] [Server thread/INFO]: <shekibobo> if you are where you were when you last logged in, not at spawn, you should be okay
-[20:57:11] [Server thread/INFO]: <bensawyer> did I miss the handouts?
-[20:57:14] [Server thread/INFO]: <bensawyer> :)
-[20:57:18] [Server thread/INFO]: <xcasio> what the
-[20:57:18] [Server thread/INFO]: <shekibobo> I think so
-[20:57:19] [Server thread/INFO]: <CobyR> good :)
-[20:57:22] [Server thread/INFO]: <xcasio> i logged in with nothing o.o
-[20:57:35] [Server thread/INFO]: <bensawyer> that's what I get for doing laundry :)
-[20:57:46] [Server thread/INFO]: <xcasio> what happened to the server?
-[20:57:54] [Server thread/INFO]: <shekibobo> crashed
-[20:58:00] [Server thread/INFO]: <tyrosinase> Crashed. Anybody who was logged in, the player files were corrupted.
-[20:58:01] [Server thread/INFO]: <shekibobo> hardware failure, I think
-[20:58:06] [Server thread/INFO]: <xcasio> aw :(
-[20:58:39] [Server thread/INFO]: <shekibobo> there was a stack of books by the library before...
-[20:58:59] [Server thread/INFO]: <tyrosinase> I used those to make bookshelves in the desert, sorry. Left a couple.
-[20:59:01] [Server thread/INFO]: <shekibobo> ugh, I had almost a full stack of lapiz blocks, too
-[20:59:08] [Server thread/INFO]: <shekibobo> *cries*
-[20:59:23] [Server thread/INFO]: <bensawyer> I lost a fortune pick
-[20:59:31] [Server thread/INFO]: <bensawyer> before it made me a fortune
-[20:59:37] [Server thread/INFO]: <evsawyer> fortune 3\
-[20:59:43] [Server thread/INFO]: <tyrosinase> There are a few blocks of lapis around the spawn enchanting room. You can take 'em.
-[20:59:58] [Server thread/INFO]: <bensawyer> and I lost an entire stack of looted pyramid blocks can you make those? or are they finds only?
-[20:59:59] [Server thread/INFO]: <tyrosinase> Harvesting veggies at spawn, if anybody needs 'em.
-[21:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[21:01:49] [Server thread/INFO]: <shekibobo> had a full stack of iron blocks, too
-[21:01:57] [Server thread/INFO]: <shekibobo> man
-[21:03:24] [Server thread/INFO]: <shekibobo> obsidian, two stacks fo charcoal blocks
-[21:04:05] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[21:04:11] [Server thread/INFO]: [Server] pickaxe.club is not responsible for our provider being....awful :)
-[21:04:18] [Server thread/INFO]: <bensawyer> haha
-[21:04:24] [Server thread/INFO]: <tyrosinase> Um. The anvil is gone.
-[21:04:30] [Server thread/INFO]: <bensawyer> it was gone before
-[21:04:34] [Server thread/INFO]: <shekibobo> normally, not a problem
-[21:04:39] [Server thread/INFO]: Given [Anvil] * 1 to tyrosinase
-[21:04:44] [Server thread/INFO]: <tyrosinase> Yeah, but then I had iron to replace it. There's one in the desert tower.
-[21:04:51] [Server thread/INFO]: Given [Diamond Pickaxe] * 1 to bensawyer
-[21:05:01] [Server thread/INFO]: Given [Diamond Sword] * 1 to bensawyer
-[21:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[21:05:03] [Server thread/INFO]: evsawyer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[21:05:03] [Server thread/INFO]: evsawyer left the game
-[21:05:08] [Server thread/INFO]: Given [Emerald] * 64 to bensawyer
-[21:05:17] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[21:05:18] [Server thread/INFO]: <tyrosinase> And there's one in my inventory. :}
-[21:05:18] [Server thread/INFO]: There are 5/20 players online:
-[21:05:18] [Server thread/INFO]: shekibobo, CobyR, xcasio, bensawyer, tyrosinase
-[21:06:43] [Server thread/INFO]: <tyrosinase> Steak and potatoes are cooking at spawn.
-[21:08:25] [Server thread/INFO]: <shekibobo> so is there a proper chain of request to get savings regenerated? Like, insurance style?
-[21:08:42] [Server thread/INFO]: <bensawyer> where's flo?
-[21:08:43] [Server thread/INFO]: <shekibobo> or are we just starting over?
-[21:08:52] [Server thread/INFO]: <tyrosinase> 11 books, sheki, if you need any.
-[21:09:11] [Server thread/INFO]: <shekibobo> thanks
-[21:09:14] [Server thread/INFO]: <tyrosinase> np
-[21:09:38] [Server thread/INFO]: <tyrosinase> There's also plenty of coal in the chest by the furnaces.
-[21:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[21:12:56] [Server thread/INFO]: <shekibobo> yeah, that's not 64 blocks worth, though :(
-[21:13:17] [Server thread/INFO]: <tyrosinase> Aw c'mon, what were you gonna do with 64 blocks worth of coal anyway?
-[21:13:19] [Server thread/INFO]: <shekibobo> I had a few smelters going on in various parts of the map
-[21:13:32] [Server thread/INFO]: <tyrosinase> Well that's why you leave your coal *in* those smelters.
-[21:13:48] [Server thread/INFO]: <shekibobo> they were in the ender chest because I travel a lot
-[21:14:01] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[21:14:10] [Server thread/INFO]: [Server] thinking again, how about i take a backup of the server now
-[21:14:17] [Server thread/INFO]: [Server] going to shut down for a few to push it to github
-[21:14:25] [Server thread/INFO]: <shekibobo> k
-[21:14:27] [Server thread/INFO]: <tyrosinase> Okay, let us all log off this time. :}
-[21:14:28] [Server thread/INFO]: [Server] should be back momentarily.
-[21:14:29] [Server thread/INFO]: <bensawyer> k
-[21:14:30] [Server thread/INFO]: tyrosinase lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[21:14:30] [Server thread/INFO]: tyrosinase left the game
-[21:14:31] [Server thread/INFO]: bensawyer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[21:14:31] [Server thread/INFO]: bensawyer left the game
-[21:14:32] [Server thread/INFO]: shekibobo lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[21:14:32] [Server thread/INFO]: shekibobo left the game
-[21:14:44] [Server thread/INFO]: There are 2/20 players online:
-[21:14:44] [Server thread/INFO]: CobyR, xcasio
-[21:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[21:15:07] [Server thread/INFO]: Stopping the server
-[21:15:07] [Server thread/INFO]: Stopping server
-[21:15:07] [Server thread/INFO]: Saving players
-[21:15:07] [Server thread/INFO]: CobyR lost connection: TextComponent{text='Server closed', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[21:15:07] [Server thread/INFO]: CobyR left the game
-[21:15:07] [Server thread/INFO]: Saving worlds
-[21:15:07] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[21:15:07] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[21:15:07] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[21:15:07] [Server Shutdown Thread/INFO]: Stopping server
-[21:15:07] [Server Shutdown Thread/INFO]: Saving players
+[21:17:13] [Server thread/INFO]: Starting minecraft server version 1.8.1
+[21:17:13] [Server thread/INFO]: Loading properties
+[21:17:13] [Server thread/INFO]: Default game type: SURVIVAL
+[21:17:13] [Server thread/INFO]: Generating keypair
+[21:17:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:17:13] [Server thread/INFO]: Using epoll channel type
+[21:17:13] [Server thread/INFO]: Preparing level "world"
+[21:17:13] [Server thread/INFO]: Preparing start region for level 0
+[21:17:14] [Server thread/INFO]: Preparing spawn area: 9%
+[21:17:15] [Server thread/INFO]: Done (2.031s)! For help, type "help" or "?"
+[21:17:15] [Server thread/INFO]: Starting remote control listener
+[21:17:15] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
+[21:17:37] [User Authenticator #1/INFO]: UUID of player jrmehle is d0902489-25ca-4931-99fc-70378de79404
+[21:17:37] [Server thread/INFO]: jrmehle[/75.168.53.135:60785] logged in with entity id 406 at (78.09078401929195, 72.5, 1817.185422511123)
+[21:17:37] [Server thread/INFO]: jrmehle joined the game
+[21:17:58] [User Authenticator #2/INFO]: UUID of player bensawyer is 52ce3fba-1aa1-4548-8841-15b7e942687d
+[21:17:58] [Server thread/INFO]: bensawyer[/76.23.222.194:36558] logged in with entity id 938 at (719.5230653128343, 62.26363088059406, 2590.47543335443)
+[21:17:58] [Server thread/INFO]: bensawyer joined the game
+[21:18:00] [Server thread/WARN]: jrmehle moved wrongly!
+[21:18:06] [User Authenticator #3/INFO]: UUID of player CobyR is e931627c-d0f1-44bd-99d8-e7e6e9128859
+[21:18:06] [Server thread/INFO]: CobyR[/208.100.161.128:50174] logged in with entity id 1610 at (-707.9809865476046, 60.0, 614.7774102311394)
+[21:18:06] [Server thread/INFO]: CobyR joined the game
+[21:18:16] [Server thread/INFO]: <bensawyer> did you do the backup?
+[21:18:30] [Server thread/INFO]: [Server] yup
+[21:18:33] [Server thread/INFO]: <bensawyer> ok cool
+[21:18:51] [User Authenticator #4/INFO]: UUID of player tyrosinase is efb6fc35-604e-4dd8-93f9-ccdd1593ff69
+[21:18:51] [Server thread/INFO]: tyrosinase[/108.200.108.174:59894] logged in with entity id 3151 at (-185.34507044116282, 71.0, 229.908280331264)
+[21:18:51] [Server thread/INFO]: tyrosinase joined the game
+[21:19:25] [User Authenticator #5/INFO]: UUID of player qrush is 806ecb0a-663b-4783-850b-87dcb53ffb04
+[21:19:25] [Server thread/INFO]: qrush[/69.204.121.154:45676] logged in with entity id 5605 at (-19.434106235467752, 49.0, 322.7321435962633)
+[21:19:25] [Server thread/INFO]: qrush joined the game
+[21:19:54] [Server thread/INFO]: <qrush> dont remember who asked about the pyramid blocks
+[21:19:58] [Server thread/INFO]: <bensawyer> I did
+[21:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[21:20:03] [Server thread/INFO]: <qrush> but its possible the pyramid will appear as never been mined
+[21:20:11] [Server thread/INFO]: <bensawyer> that would be good
+[21:21:28] [User Authenticator #6/INFO]: UUID of player AmesSawyer is 31cd6b6b-4b71-4b85-8e71-28e4b26a7152
+[21:21:28] [Server thread/INFO]: AmesSawyer[/76.23.222.194:38562] logged in with entity id 13291 at (-104.65310576013921, 72.0, 291.30000001192093)
+[21:21:28] [Server thread/INFO]: AmesSawyer joined the game
+[21:21:54] [Server thread/INFO]: <AmesSawyer> i have all my stuff
+[21:22:03] [Server thread/INFO]: <bensawyer> thanks!
+[21:22:18] [Server thread/INFO]: <AmesSawyer> i have all my stuff ok
+[21:22:25] [Server thread/INFO]: qrush lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:22:25] [Server thread/INFO]: qrush left the game
+[21:22:33] [User Authenticator #7/INFO]: UUID of player shekibobo is 347bf42b-3684-4d39-ade0-9bb464f03d44
+[21:22:33] [Server thread/INFO]: shekibobo[/99.62.253.97:64471] logged in with entity id 18757 at (-162.7496458706437, 71.0, 223.01253863152937)
+[21:22:33] [Server thread/INFO]: shekibobo joined the game
+[21:22:54] [Server thread/INFO]: <shekibobo> alright, I made a list
+[21:23:21] [Server thread/INFO]: AmesSawyer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:23:21] [Server thread/INFO]: AmesSawyer left the game
+[21:23:37] [User Authenticator #8/INFO]: UUID of player AmesSawyer is 31cd6b6b-4b71-4b85-8e71-28e4b26a7152
+[21:23:37] [Server thread/INFO]: AmesSawyer[/76.23.222.194:33637] logged in with entity id 24796 at (-235.07499998807907, 67.51633689983593, 213.07499998807907)
+[21:23:37] [Server thread/INFO]: AmesSawyer joined the game
+[21:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[21:25:55] [Server thread/INFO]: AmesSawyer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:25:55] [Server thread/INFO]: AmesSawyer left the game
+[21:26:51] [User Authenticator #9/INFO]: UUID of player AmesSawyer is 31cd6b6b-4b71-4b85-8e71-28e4b26a7152
+[21:26:51] [Server thread/INFO]: AmesSawyer[/76.23.222.194:43997] logged in with entity id 53866 at (-427.2065870748908, 59.80899072895269, 303.6566392268873)
+[21:26:51] [Server thread/INFO]: AmesSawyer joined the game
+[21:28:52] [Server thread/INFO]: AmesSawyer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:28:52] [Server thread/INFO]: AmesSawyer left the game
+[21:29:41] [Server thread/WARN]: shekibobo moved wrongly!
+[21:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[21:31:03] [User Authenticator #10/INFO]: UUID of player AmesSawyer is 31cd6b6b-4b71-4b85-8e71-28e4b26a7152
+[21:31:03] [Server thread/INFO]: AmesSawyer[/76.23.222.194:44003] logged in with entity id 82731 at (-622.3057888133335, 98.0, 346.14307508944574)
+[21:31:03] [Server thread/INFO]: AmesSawyer joined the game
+[21:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[21:36:07] [User Authenticator #11/INFO]: UUID of player xcasio is e822ff77-e4a1-45ae-b564-6067ab089744
+[21:36:07] [Server thread/INFO]: xcasio[/90.192.160.230:51543] logged in with entity id 117535 at (-51.898347159370765, 70.0, 197.79418340721318)
+[21:36:07] [Server thread/INFO]: xcasio joined the game
+[21:36:40] [Server thread/INFO]: <xcasio> Lost everything I had twice today D: #ToughLife
+[21:36:45] [Server thread/INFO]: <shekibobo> werd
+[21:37:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2329ms behind, skipping 46 tick(s)
+[21:37:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2556ms behind, skipping 51 tick(s)
+[21:37:44] [Server thread/INFO]: <shekibobo> was gonna do some building today, but it looks like I'm gonna have to go back to mining
+[21:37:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2290ms behind, skipping 45 tick(s)
+[21:39:02] [Server thread/INFO]: <tyrosinase> Nothing like the sound of bubbling lava to remind you you need to get a water bucket again.
+[21:39:16] [Server thread/INFO]: <shekibobo> ugh, thanks for reminding me
+[21:39:24] [Server thread/INFO]: <shekibobo> hope I can find some iron soon
+[21:39:25] [User Authenticator #12/INFO]: UUID of player Tonyrox1995 is 2b9798fd-956e-4fd1-8b0a-a1264cea882e
+[21:39:25] [Server thread/INFO]: Tonyrox1995[/72.1.18.78:55553] logged in with entity id 137325 at (-494.3673110170868, 61.0, 158.26892966001222)
+[21:39:25] [Server thread/INFO]: Tonyrox1995 joined the game
+[21:39:26] [User Authenticator #13/INFO]: UUID of player Si_Does_MC is 18087f4c-45ad-4ec1-afbf-4958fe354c1b
+[21:39:26] [Server thread/INFO]: Si_Does_MC[/72.1.18.78:53880] logged in with entity id 138322 at (-258.7852896648152, 103.0, 524.807707625674)
+[21:39:26] [Server thread/INFO]: Si_Does_MC joined the game
+[21:39:46] [Server thread/WARN]: Tonyrox1995 moved wrongly!
+[21:39:54] [Server thread/INFO]: <Si_Does_MC> Hey
+[21:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[21:40:04] [Server thread/INFO]: <shekibobo> o/
+[21:40:06] [Server thread/INFO]: <tyrosinase> I just threw 17 in the furnace. If you're down near desert fortress, I'll share.
+[21:40:47] [Server thread/INFO]: <Tonyrox1995> w=
+[21:41:24] [Server thread/INFO]: Tonyrox1995 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:41:24] [Server thread/INFO]: Tonyrox1995 left the game
+[21:41:59] [Server thread/INFO]: AmesSawyer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:41:59] [Server thread/INFO]: AmesSawyer left the game
+[21:42:16] [User Authenticator #14/INFO]: UUID of player Tonyrox1995 is 2b9798fd-956e-4fd1-8b0a-a1264cea882e
+[21:42:16] [Server thread/INFO]: Tonyrox1995[/72.1.18.78:55556] logged in with entity id 163254 at (-564.3653699351665, 64.02159999847397, 210.44656868262152)
+[21:42:16] [Server thread/INFO]: Tonyrox1995 joined the game
+[21:42:20] [Server thread/WARN]: Tonyrox1995 moved wrongly!
+[21:42:21] [Server thread/WARN]: Tonyrox1995 moved wrongly!
+[21:42:21] [Server thread/WARN]: Tonyrox1995 moved wrongly!
+[21:43:20] [Server thread/INFO]: Tonyrox1995 was blown up by Creeper
+[21:43:29] [Server thread/INFO]: <tyrosinase> :(
+[21:43:30] [Server thread/WARN]: Si_Does_MC moved wrongly!
+[21:43:39] [Server thread/INFO]: shekibobo lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:43:39] [Server thread/INFO]: shekibobo left the game
+[21:43:42] [User Authenticator #15/INFO]: UUID of player shekibobo is 347bf42b-3684-4d39-ade0-9bb464f03d44
+[21:43:42] [Server thread/INFO]: shekibobo[/99.62.253.97:50059] logged in with entity id 173460 at (-208.86912551747736, 11.0, 566.6999999880791)
+[21:43:42] [Server thread/INFO]: shekibobo joined the game
+[21:44:54] [Server thread/INFO]: Tonyrox1995 was shot by Skeleton
+[21:45:00] [Server thread/INFO]: <Si_Does_MC> OHH NOOO
+[21:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[21:45:03] [Server thread/INFO]: <tyrosinase> Tony's not having a good day.
+[21:45:21] [Server thread/INFO]: <shekibobo> survival's a lot harder when all your armor is gone
+[21:45:42] [Server thread/INFO]: <bensawyer> and xp goes up so much faster when you're not level 45
+[21:46:33] [Server thread/INFO]: <Si_Does_MC> I CANT BREAK ANY BLOCKS
+[21:46:46] [Server thread/INFO]: <tyrosinase> Relog.
+[21:46:54] [Server thread/INFO]: <Si_Does_MC> OK
+[21:46:56] [Server thread/INFO]: Si_Does_MC lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:46:56] [Server thread/INFO]: Si_Does_MC left the game
+[21:47:02] [User Authenticator #16/INFO]: UUID of player Si_Does_MC is 18087f4c-45ad-4ec1-afbf-4958fe354c1b
+[21:47:02] [Server thread/INFO]: Si_Does_MC[/72.1.18.78:53904] logged in with entity id 209226 at (-673.5212341319423, 75.0, 296.06701227563065)
+[21:47:02] [Server thread/INFO]: Si_Does_MC joined the game
+[21:47:36] [Server thread/INFO]: <Si_Does_MC> All better
+[21:48:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2077ms behind, skipping 41 tick(s)
+[21:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[21:50:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3666ms behind, skipping 73 tick(s)
+[21:50:26] [Server thread/WARN]: Si_Does_MC moved wrongly!
+[21:50:32] [Server thread/WARN]: Si_Does_MC moved wrongly!
+[21:53:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2155ms behind, skipping 43 tick(s)
+[21:54:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2585ms behind, skipping 51 tick(s)
+[21:54:48] [Server thread/INFO]: jrmehle has just earned the achievement [Librarian]
+[21:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[21:55:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2132ms behind, skipping 42 tick(s)
+[21:55:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2329ms behind, skipping 46 tick(s)
+[21:55:44] [User Authenticator #17/INFO]: UUID of player bubba_nate is de479628-6cf0-4a4e-90c7-33089d1ea31d
+[21:55:44] [Server thread/WARN]: Failed to load player data for bubba_nate
+[21:55:44] [Server thread/INFO]: bubba_nate[/108.200.108.174:60037] logged in with entity id 320366 at (-161.5, 70.0, 251.5)
+[21:55:44] [Server thread/INFO]: bubba_nate joined the game
+[21:55:48] [Server thread/INFO]: <Si_Does_MC> Hi
+[21:55:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2647ms behind, skipping 52 tick(s)
+[21:56:04] [Server thread/INFO]: <bensawyer> I found a water temple near a good land mass
+[21:56:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3532ms behind, skipping 70 tick(s)
+[21:56:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4479ms behind, skipping 89 tick(s)
+[21:56:45] [Server thread/INFO]: <bubba_nate> QRUSH FIX IT ITS BROKEN I HAVE NOTHING
+[21:56:49] [Server thread/INFO]: <tyrosinase> Heh.
+[21:56:51] [Server thread/INFO]: <bubba_nate> *ragequit*
+[21:57:03] [Server thread/INFO]: <Si_Does_MC> Ok?
+[21:57:05] [Server thread/INFO]: <bubba_nate> *is kidding*
+[21:57:21] [Server thread/INFO]: <bubba_nate> I have iron (lots of iron) at swamp fort.
+[21:57:31] [Server thread/INFO]: <Si_Does_MC> Awesome
+[21:57:37] [Server thread/INFO]: <bubba_nate> all I cared about in that chest was the three diamonds.
+[21:57:49] [Server thread/INFO]: <tyrosinase> This is why you don't put *everything* in your enderchest.
+[21:57:58] [Server thread/INFO]: <bubba_nate> I already lost all my stuff in the temple, sooooo...
+[21:58:03] [Server thread/INFO]: <shekibobo> I thought they were safe
+[21:58:12] [Server thread/INFO]: <bubba_nate> my files were corrupted. I have no inventory.
+[21:58:14] [Server thread/INFO]: <tyrosinase> Yeah, they usually are.
+[21:59:20] [User Authenticator #18/INFO]: UUID of player qrush is 806ecb0a-663b-4783-850b-87dcb53ffb04
+[21:59:20] [Server thread/INFO]: qrush[/69.204.121.154:38529] logged in with entity id 348642 at (1791.699999988079, 67.0, 4378.300000011921)
+[21:59:20] [Server thread/INFO]: qrush joined the game
+[21:59:39] [Server thread/INFO]: <bubba_nate> I just realized: You have backups from the beginning of the weekend, right?
+[21:59:45] [Server thread/INFO]: <bubba_nate> Player files are separate.
+[21:59:52] [Server thread/INFO]: <qrush> yeah
+[21:59:58] [Server thread/INFO]: <qrush> did someone else lose stuff?
+[21:59:59] [Server thread/INFO]: <bubba_nate> could you restore player files to the people who lost stuff?
+[22:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[22:00:03] [Server thread/INFO]: <bubba_nate> yeah, me.
+[22:00:10] [Server thread/INFO]: <xcasio> i lost everything i had on me
+[22:00:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2883ms behind, skipping 57 tick(s)
+[22:00:17] [Server thread/INFO]: jrmehle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:00:17] [Server thread/INFO]: jrmehle left the game
+[22:00:18] [Server thread/INFO]: <shekibobo> lost my life savings :(
+[22:00:19] [Server thread/INFO]: <bubba_nate> although, half of it I lost in the Ocean Monument, so I only lost 3 diamonds.
+[22:00:25] [Server thread/INFO]: <Si_Does_MC> Did somethimg happen/
+[22:00:30] [Server thread/INFO]: <xcasio> although i didnt have that much anyway
+[22:00:31] [Server thread/INFO]: <xcasio> just some iron
+[22:00:41] [Server thread/INFO]: <bubba_nate> anyone who was on when the server crashed lost all their stuff in enderchests/inventory
+[22:00:44] [Server thread/INFO]: <shekibobo> I have a list of the important stuff I lost from my enderchest
+[22:00:52] [Server thread/INFO]: qrush lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:00:52] [Server thread/INFO]: qrush left the game
+[22:00:54] [Server thread/INFO]: <bubba_nate> I lost 3 diamonds. That's all I care about.
+[22:01:09] [Server thread/INFO]: <xcasio> I
+[22:01:27] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[22:01:28] [Server thread/INFO]: There are 8/20 players online:
+[22:01:28] [Server thread/INFO]: bensawyer, CobyR, tyrosinase, xcasio, shekibobo, Tonyrox1995, Si_Does_MC, bubba_nate
+[22:01:37] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[22:02:41] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[22:03:31] [Server thread/INFO]: [Server] ok i like that idea.
+[22:03:39] [Server thread/INFO]: [Server] i need to restart the server though.
+[22:03:44] [Server thread/INFO]: <Si_Does_MC> OK
+[22:03:45] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[22:03:46] [Server thread/INFO]: tyrosinase hit the ground too hard
+[22:03:48] [Server thread/INFO]: <bubba_nate> okay.
+[22:03:54] [Server thread/INFO]: [Server] Si did you lose stuff too?
+[22:03:56] [Server thread/INFO]: <tyrosinase> Don't accidentally shoot the iron golem.
+[22:03:58] [Server thread/INFO]: [Server] or anyone else online righ tnow
+[22:03:59] [Server thread/INFO]: <bensawyer> wait if you do that though I'll lose everything I have now
+[22:04:02] [Server thread/INFO]: <Si_Does_MC> No
+[22:04:05] [Server thread/INFO]: <xcasio> wait don't reset me please
+[22:04:07] [Server thread/INFO]: bubba_nate lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:04:07] [Server thread/INFO]: bubba_nate left the game
+[22:04:09] [Server thread/INFO]: <xcasio> i already have more than i lost
+[22:04:10] [Server thread/INFO]: <xcasio> lol
+[22:04:16] [Server thread/INFO]: [Server] ok i can skip you.
+[22:04:17] [Server thread/INFO]: <shekibobo> gimme a minute
+[22:04:18] [Server thread/INFO]: <xcasio> thanks
+[22:04:33] [Server thread/INFO]: <bensawyer> or can you teleport me back to spawn and let me put stuff in a chest?
+[22:04:35] [Server thread/INFO]: [Server] can give a few minutes but hurry, little dude will be up at any moment
+[22:04:48] [Server thread/INFO]: [Server] is anyone at spawn
+[22:04:51] [Server thread/INFO]: <bensawyer> not me
+[22:04:55] [Server thread/INFO]: <bensawyer> I need to be
+[22:04:57] [Server thread/INFO]: <tyrosinase> I am.
+[22:05:00] [Server thread/INFO]: <bensawyer> I'm 5000 blocks out
+[22:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[22:05:03] [Server thread/INFO]: Teleported bensawyer to tyrosinase
+[22:05:07] [Server thread/INFO]: <bensawyer> thx
+[22:05:10] [Server thread/INFO]: <shekibobo> can you tp me to spawn?
+[22:05:13] [Server thread/INFO]: <bensawyer> ok let me put this loot in a chest
+[22:05:35] [Server thread/INFO]: Tonyrox1995 fell from a high place
+[22:05:48] [Server thread/INFO]: There are 7/20 players online:
+[22:05:48] [Server thread/INFO]: bensawyer, CobyR, xcasio, shekibobo, Si_Does_MC, tyrosinase, Tonyrox1995
+[22:05:49] [Server thread/INFO]: <Si_Does_MC> WHAT?
+[22:05:50] [Server thread/INFO]: <shekibobo> nm
+[22:06:49] [Server thread/INFO]: <shekibobo> k, I'm ready for reload
+[22:06:54] [Server thread/INFO]: [Server] all good? tyro you ok to reset?
+[22:06:54] [Server thread/INFO]: tyrosinase lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:06:54] [Server thread/INFO]: tyrosinase left the game
+[22:07:01] [Server thread/INFO]: shekibobo lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:07:01] [Server thread/INFO]: shekibobo left the game
+[22:07:02] [Server thread/INFO]: <bensawyer> good
+[22:07:03] [Server thread/INFO]: bensawyer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:07:03] [Server thread/INFO]: bensawyer left the game
+[22:07:09] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[22:07:11] [Server thread/INFO]: Stopping the server
+[22:07:11] [Server thread/INFO]: Stopping server
+[22:07:11] [Server thread/INFO]: Saving players
+[22:07:11] [Server thread/INFO]: CobyR lost connection: TextComponent{text='Server closed', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:07:11] [Server thread/INFO]: CobyR left the game
+[22:07:11] [Server thread/INFO]: Tonyrox1995 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.lang.StackOverflowError], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:07:11] [Server thread/INFO]: Tonyrox1995 left the game
+[22:07:11] [Server thread/INFO]: Saving worlds
+[22:07:11] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[22:07:11] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[22:07:11] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[22:07:13] [Server Shutdown Thread/INFO]: Stopping server
+[22:07:13] [Server Shutdown Thread/INFO]: Saving players
