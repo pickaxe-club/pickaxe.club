@@ -18,5 +18,10 @@
     "uuid": "efb6fc35-604e-4dd8-93f9-ccdd1593ff69",
     "name": "tyrosinase",
     "level": 3
+  },
+  {
+    "uuid": "a3f11e73-45e1-4de2-801d-e2c6ea1dc19e",
+    "name": "McPhage",
+    "level": 4
   }
 ]

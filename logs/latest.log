@@ -1,958 +1,724 @@
-[00:00:00] [Server thread/INFO]: <jyurek> oh we'll need to move this into the big 3-floor room. This is too cool to be in such a small floor :
-[00:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:00:03] [Server thread/INFO]: <jyurek> :)
-[00:00:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10887ms behind, skipping 217 tick(s)
-[00:00:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5128ms behind, skipping 102 tick(s)
-[00:00:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6087ms behind, skipping 121 tick(s)
-[00:01:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4386ms behind, skipping 87 tick(s)
-[00:01:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4108ms behind, skipping 82 tick(s)
-[00:01:25] [Server thread/INFO]: <tyrosinase> Who let a zombie into city hall?
-[00:01:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4750ms behind, skipping 95 tick(s)
-[00:01:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3550ms behind, skipping 71 tick(s)
-[00:02:00] [Server thread/INFO]: xcave lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:02:00] [Server thread/INFO]: xcave left the game
-[00:02:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3136ms behind, skipping 62 tick(s)
-[00:02:14] [Server thread/INFO]: <jyurek> guess I should get started on a zoom 3 one :)
-[00:02:20] [Server thread/INFO]: <npdoty> hell yeah
-[00:02:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2784ms behind, skipping 55 tick(s)
-[00:02:29] [User Authenticator #395/INFO]: UUID of player xcave is a622e5a1-e4f2-4011-94dc-d0580de911e9
-[00:02:29] [Server thread/INFO]: xcave[/74.222.193.10:53359] logged in with entity id 21802266 at (8.488037633938244, 127.0, 198.70672736419172)
-[00:02:29] [Server thread/INFO]: xcave joined the game
-[00:02:34] [Server thread/INFO]: <jyurek> so many compasses :)
-[00:02:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4469ms behind, skipping 89 tick(s)
-[00:03:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6339ms behind, skipping 126 tick(s)
-[00:03:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6899ms behind, skipping 137 tick(s)
-[00:03:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8247ms behind, skipping 164 tick(s)
-[00:03:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7089ms behind, skipping 141 tick(s)
-[00:04:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6944ms behind, skipping 138 tick(s)
-[00:04:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5217ms behind, skipping 104 tick(s)
-[00:04:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7065ms behind, skipping 141 tick(s)
-[00:04:57] [Server thread/INFO]: <qrush> its always funny to come up from a big dig and find that you are really not far from where you start
-[00:05:01] [Server thread/INFO]: <qrush> Started.
-[00:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:05:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4746ms behind, skipping 94 tick(s)
-[00:05:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5037ms behind, skipping 100 tick(s)
-[00:05:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5051ms behind, skipping 101 tick(s)
-[00:05:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3771ms behind, skipping 75 tick(s)
-[00:06:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3205ms behind, skipping 64 tick(s)
-[00:06:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2793ms behind, skipping 55 tick(s)
-[00:06:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2071ms behind, skipping 41 tick(s)
-[00:07:07] [Server thread/WARN]: p1agu3 moved wrongly!
-[00:07:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2919ms behind, skipping 58 tick(s)
-[00:07:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2096ms behind, skipping 41 tick(s)
-[00:07:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2544ms behind, skipping 50 tick(s)
-[00:08:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3562ms behind, skipping 71 tick(s)
-[00:08:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5489ms behind, skipping 109 tick(s)
-[00:08:32] [Server thread/WARN]: jyurek moved wrongly!
-[00:08:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6806ms behind, skipping 136 tick(s)
-[00:08:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4647ms behind, skipping 92 tick(s)
-[00:09:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4059ms behind, skipping 81 tick(s)
-[00:09:17] [Server thread/WARN]: turtlr moved wrongly!
-[00:09:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4119ms behind, skipping 82 tick(s)
-[00:09:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4476ms behind, skipping 89 tick(s)
-[00:09:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3745ms behind, skipping 74 tick(s)
-[00:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:10:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6758ms behind, skipping 135 tick(s)
-[00:10:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8480ms behind, skipping 169 tick(s)
-[00:10:42] [Server thread/INFO]: qrush lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:10:42] [Server thread/INFO]: qrush left the game
-[00:10:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4887ms behind, skipping 97 tick(s)
-[00:11:00] [Server thread/INFO]: xcave lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:11:00] [Server thread/INFO]: xcave left the game
-[00:11:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3139ms behind, skipping 62 tick(s)
-[00:11:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2123ms behind, skipping 42 tick(s)
-[00:11:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2071ms behind, skipping 41 tick(s)
-[00:11:52] [User Authenticator #396/INFO]: UUID of player Spicy_Monkey is d5a21785-2873-4eff-a232-526bfc534dcf
-[00:11:52] [Server thread/INFO]: Spicy_Monkey[/74.222.193.10:53759] logged in with entity id 21925195 at (48.334289037, 5.0, 310.30000001192093)
-[00:11:52] [Server thread/INFO]: Spicy_Monkey joined the game
-[00:11:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2539ms behind, skipping 50 tick(s)
-[00:12:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3131ms behind, skipping 62 tick(s)
-[00:12:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2920ms behind, skipping 58 tick(s)
-[00:12:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2078ms behind, skipping 41 tick(s)
-[00:13:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2146ms behind, skipping 42 tick(s)
-[00:13:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3207ms behind, skipping 64 tick(s)
-[00:13:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3068ms behind, skipping 61 tick(s)
-[00:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:15:22] [Server thread/INFO]: tyrosinase has just earned the achievement [The End?]
-[00:17:07] [Server thread/INFO]: cssboy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:17:07] [Server thread/INFO]: cssboy left the game
-[00:17:57] [Server thread/INFO]: jyurek lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:17:57] [Server thread/INFO]: jyurek left the game
-[00:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:21:59] [Server thread/INFO]: tyrosinase has just earned the achievement [The End.]
-[00:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:26:06] [User Authenticator #397/INFO]: UUID of player cssboy is cef9c56c-b4a9-436d-811e-d57cbd9696c5
-[00:26:06] [Server thread/INFO]: cssboy[/74.97.42.223:58637] logged in with entity id 22056673 at (12.795032807405317, 178.0, 196.31475431874523)
-[00:26:06] [Server thread/INFO]: cssboy joined the game
-[00:27:09] [Server thread/INFO]: uxp has just earned the achievement [On A Rail]
-[00:27:15] [Server thread/INFO]: <tyrosinase> Whee!
-[00:27:37] [Server thread/INFO]: cssboy has just earned the achievement [Cow Tipper]
-[00:28:45] [Server thread/INFO]: Spicy_Monkey lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:28:45] [Server thread/INFO]: Spicy_Monkey left the game
-[00:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:31:33] [Server thread/INFO]: <cssboy> there is an upside down horse named dinnerbone.
-[00:31:34] [Server thread/INFO]: <cssboy> :)
-[00:31:44] [Server thread/INFO]: <tyrosinase> Yes. And a color-changing sheep named jeb_.
-[00:31:50] [Server thread/INFO]: <cssboy> i knew about the jeb thing
-[00:31:53] [Server thread/INFO]: <cssboy> dinnerbone is new to me haha
-[00:32:09] [Server thread/INFO]: <tyrosinase> The horse is quite ridable, if you don't mind looking a little silly.
-[00:32:57] [Server thread/INFO]: tyrosinase lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:32:57] [Server thread/INFO]: tyrosinase left the game
-[00:33:00] [User Authenticator #398/INFO]: UUID of player tyrosinase is efb6fc35-604e-4dd8-93f9-ccdd1593ff69
-[00:33:00] [Server thread/INFO]: tyrosinase[/108.200.108.174:41617] logged in with entity id 22138041 at (1800.4257550126067, 69.0, 4368.103034022612)
-[00:33:00] [Server thread/INFO]: tyrosinase joined the game
-[00:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:36:20] [Server thread/INFO]: npdoty lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:36:20] [Server thread/INFO]: npdoty left the game
-[00:39:30] [Server thread/INFO]: kokopelli_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:39:30] [Server thread/INFO]: kokopelli_ left the game
-[00:39:56] [Server thread/INFO]: lt_waffle was slain by Zombie
-[00:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:40:59] [Server thread/WARN]: uxp moved wrongly!
-[00:43:36] [User Authenticator #399/INFO]: UUID of player kokopelli_ is f1debeff-373d-4973-a933-867d498e5281
-[00:43:36] [Server thread/INFO]: kokopelli_[/75.72.203.28:61903] logged in with entity id 22208826 at (41.09194310766202, 25.0, 1809.4941243674423)
-[00:43:36] [Server thread/INFO]: kokopelli_ joined the game
-[00:43:51] [Server thread/WARN]: uxp moved wrongly!
-[00:43:52] [Server thread/WARN]: jhawthorn moved wrongly!
-[00:44:32] [User Authenticator #400/INFO]: UUID of player Si_Does_MC is 18087f4c-45ad-4ec1-afbf-4958fe354c1b
-[00:44:32] [Server thread/INFO]: Si_Does_MC[/72.1.18.78:50984] logged in with entity id 22216605 at (-698.8712190964756, 63.015625, -292.36788872933215)
-[00:44:32] [Server thread/INFO]: Si_Does_MC joined the game
-[00:44:36] [Server thread/INFO]: Si_Does_MC lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:44:36] [Server thread/INFO]: Si_Does_MC left the game
-[00:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:45:29] [User Authenticator #401/INFO]: UUID of player Si_Does_MC is 18087f4c-45ad-4ec1-afbf-4958fe354c1b
-[00:45:29] [Server thread/INFO]: Si_Does_MC[/72.1.18.78:51004] logged in with entity id 22226064 at (-698.8712190964756, 63.015625, -292.36788872933215)
-[00:45:29] [Server thread/INFO]: Si_Does_MC joined the game
-[00:46:13] [User Authenticator #402/INFO]: UUID of player cfurrow is 742ab987-7bdc-495e-af4b-a55eea448951
-[00:46:13] [Server thread/INFO]: cfurrow[/68.42.106.192:60191] logged in with entity id 22237815 at (-236.0603802943215, 38.0, 474.69999998807907)
-[00:46:13] [Server thread/INFO]: cfurrow joined the game
-[00:47:14] [Server thread/INFO]: kokopelli_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:47:14] [Server thread/INFO]: kokopelli_ left the game
-[00:47:34] [User Authenticator #403/INFO]: UUID of player kokopelli_ is f1debeff-373d-4973-a933-867d498e5281
-[00:47:34] [Server thread/INFO]: kokopelli_[/75.72.203.28:61921] logged in with entity id 22258076 at (69.43008656643912, 68.0, 1706.6677318590996)
-[00:47:34] [Server thread/INFO]: kokopelli_ joined the game
-[00:48:23] [Server thread/INFO]: <uxp> anyone need eggs? Ive got a whole chest of them.
-[00:48:33] [Server thread/INFO]: <tyrosinase> I've been tossing them in lava.
-[00:48:37] [Server thread/INFO]: <uxp> srs
-[00:49:12] [Server thread/INFO]: <Si_Does_MC> Did you know you can make moss stone!?
-[00:50:00] [Server thread/INFO]: lt_waffle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:50:00] [Server thread/INFO]: lt_waffle left the game
-[00:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:51:18] [Server thread/INFO]: <Si_Does_MC> Well see ya next weekend!
-[00:51:21] [Server thread/INFO]: Si_Does_MC lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:51:21] [Server thread/INFO]: Si_Does_MC left the game
-[00:53:32] [User Authenticator #404/INFO]: UUID of player lt_waffle is 4586d5ba-8cb5-4e41-8f35-af9b197ad5aa
-[00:53:32] [Server thread/INFO]: lt_waffle[/75.72.203.28:50754] logged in with entity id 22333621 at (26.991721656405346, 67.5, 1677.9574333696985)
-[00:53:32] [Server thread/INFO]: lt_waffle joined the game
-[00:53:42] [User Authenticator #405/INFO]: UUID of player bensawyer is 52ce3fba-1aa1-4548-8841-15b7e942687d
-[00:53:42] [Server thread/INFO]: bensawyer[/76.23.222.194:47137] logged in with entity id 22335453 at (-371.58718573425034, 82.0, 454.8732793734759)
-[00:53:42] [Server thread/INFO]: bensawyer joined the game
-[00:54:10] [User Authenticator #406/INFO]: UUID of player AmesSawyer is 31cd6b6b-4b71-4b85-8e71-28e4b26a7152
-[00:54:10] [Server thread/INFO]: AmesSawyer[/76.23.222.194:34013] logged in with entity id 22343252 at (-241.4250000119209, 65.0, 468.2961053813342)
-[00:54:10] [Server thread/INFO]: AmesSawyer joined the game
-[00:54:26] [Server thread/INFO]: <AmesSawyer> it waffle
-[00:54:59] [Server thread/INFO]: <AmesSawyer> hi it waffle
-[00:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:55:48] [Server thread/INFO]: AmesSawyer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:55:48] [Server thread/INFO]: AmesSawyer left the game
-[00:57:55] [Server thread/INFO]: bensawyer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:57:55] [Server thread/INFO]: bensawyer left the game
-[00:59:06] [Server thread/INFO]: cfurrow lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:59:06] [Server thread/INFO]: cfurrow left the game
-[01:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[01:01:32] [User Authenticator #407/INFO]: UUID of player Spicy_Monkey is d5a21785-2873-4eff-a232-526bfc534dcf
-[01:01:32] [Server thread/INFO]: Spicy_Monkey[/74.222.193.10:55579] logged in with entity id 22397617 at (41.7030156840724, 35.0, 254.063645435541)
-[01:01:32] [Server thread/INFO]: Spicy_Monkey joined the game
-[01:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[01:06:19] [Server thread/WARN]: uxp moved wrongly!
-[01:08:41] [Server thread/INFO]: Spicy_Monkey lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:08:41] [Server thread/INFO]: Spicy_Monkey left the game
-[01:09:11] [User Authenticator #408/INFO]: UUID of player xcave is a622e5a1-e4f2-4011-94dc-d0580de911e9
-[01:09:11] [Server thread/INFO]: xcave[/74.222.193.10:55884] logged in with entity id 22460998 at (9.47528296907599, 71.0, 196.93334495209302)
-[01:09:11] [Server thread/INFO]: xcave joined the game
-[01:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[01:10:44] [Server thread/INFO]: cssboy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:10:44] [Server thread/INFO]: cssboy left the game
-[01:11:27] [Server thread/WARN]: uxp moved wrongly!
-[01:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[01:18:12] [RCON Listener #1/INFO]: Rcon connection from: /54.167.250.94
-[01:19:17] [User Authenticator #409/INFO]: UUID of player qrush is 806ecb0a-663b-4783-850b-87dcb53ffb04
-[01:19:17] [Server thread/INFO]: qrush[/69.204.121.154:41549] logged in with entity id 22538220 at (-8591.300000011921, 38.0, 8303.300000011921)
-[01:19:17] [Server thread/INFO]: qrush joined the game
-[01:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[01:22:58] [User Authenticator #410/INFO]: UUID of player aquaranto is 71fa96ae-7089-4fe1-acdb-4210ab8277a1
-[01:22:58] [Server thread/INFO]: aquaranto[/69.204.121.154:32808] logged in with entity id 22557472 at (-4.5329562979880516, 67.5, 283.68977472360467)
-[01:22:58] [Server thread/INFO]: aquaranto joined the game
-[01:23:16] [Server thread/INFO]: xcave has just earned the achievement [Time to Strike!]
-[01:23:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2136ms behind, skipping 42 tick(s)
-[01:23:49] [Server thread/INFO]: xcave has just earned the achievement [Time to Mine!]
-[01:24:23] [Server thread/INFO]: xcave has just earned the achievement [Time to Farm!]
-[01:24:44] [Server thread/INFO]: qrush lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:24:44] [Server thread/INFO]: qrush left the game
-[01:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[01:26:46] [User Authenticator #411/INFO]: UUID of player qrush is 806ecb0a-663b-4783-850b-87dcb53ffb04
-[01:26:46] [Server thread/INFO]: qrush[/69.204.121.154:40314] logged in with entity id 22594419 at (-8557.41951154528, 37.0, 8259.387644323158)
-[01:26:46] [Server thread/INFO]: qrush joined the game
-[01:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[01:31:40] [Server thread/INFO]: xcave has just earned the achievement [Cow Tipper]
-[01:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[01:36:53] [Server thread/INFO]: <jhawthorn> I'm out. See you all next week.
-[01:36:55] [Server thread/INFO]: jhawthorn lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:36:55] [Server thread/INFO]: jhawthorn left the game
-[01:39:09] [Server thread/INFO]: xcave has just earned the achievement [Monster Hunter]
-[01:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[01:41:01] [Server thread/INFO]: lt_waffle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:41:01] [Server thread/INFO]: lt_waffle left the game
-[01:44:30] [Server thread/INFO]: <qrush> oooh, cd found :)
-[01:44:33] [Server thread/INFO]: aquaranto has just earned the achievement [We Need to Go Deeper]
-[01:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[01:46:10] [User Authenticator #412/INFO]: UUID of player lt_waffle is 4586d5ba-8cb5-4e41-8f35-af9b197ad5aa
-[01:46:10] [Server thread/INFO]: lt_waffle[/75.72.203.28:52550] logged in with entity id 22745420 at (67.69999998807907, 69.0, 1686.8041128929447)
-[01:46:10] [Server thread/INFO]: lt_waffle joined the game
-[01:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[01:50:45] [Server thread/INFO]: <qrush> western town looks great
-[01:50:51] [Server thread/INFO]: <qrush> checking it out on aquaranto's screen.
-[01:51:25] [Server thread/INFO]: <xcave> what are the coordinates for western town?
-[01:51:29] [Server thread/INFO]: <tyrosinase> I kind of wish the saloon faced the "camera" in the overviewer, but oh well.
-[01:51:47] [Server thread/INFO]: <tyrosinase> (I didn't build that. It's very nice.)
-[01:52:12] [Server thread/INFO]: <tyrosinase> It's at Pickaxe Mesa. Follow the nether road south forever.
-[01:52:20] [Server thread/INFO]: <tyrosinase> (And east when it turns, obvs.)
-[01:52:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@34373eeb[id=<null>,name=ethansr,properties={},legacy=false] (/154.5.151.196:40843) lost connection: Disconnected
-[01:52:42] [Server thread/INFO]: <xcave> k
-[01:53:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@51f40ffe[id=<null>,name=ethansr,properties={},legacy=false] (/154.5.151.196:39873) lost connection: Disconnected
-[01:54:50] [User Authenticator #413/INFO]: UUID of player jowdyboy is baa10247-83f6-4d31-bc6b-4a435cf07a78
-[01:54:50] [Server thread/INFO]: jowdyboy[/66.215.23.167:65195] logged in with entity id 22823172 at (-156.5, 70.0, 259.5)
-[01:54:50] [Server thread/INFO]: jowdyboy joined the game
-[01:54:52] [Server thread/INFO]: jowdyboy has just earned the achievement [Taking Inventory]
-[01:54:56] [User Authenticator #414/INFO]: UUID of player ethansr is 25f222ff-514e-42dd-b437-162a557e0fe5
-[01:54:56] [Server thread/INFO]: ethansr[/154.5.151.196:46186] logged in with entity id 22825352 at (-99.69999998807907, 30.0, -82.69999998807907)
-[01:54:56] [Server thread/INFO]: ethansr joined the game
-[01:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[01:55:10] [Server thread/INFO]: <tyrosinase> Welcome jowdyboy.
-[01:57:18] [Server thread/INFO]: <jowdyboy> Someone told me there are free things
-[01:57:24] [Server thread/INFO]: <jowdyboy> I need all the free things.
-[01:57:33] [Server thread/INFO]: <xcave> haha. City Hall.
-[01:57:38] [Server thread/INFO]: <xcave> next to spawn
-[01:57:40] [Server thread/INFO]: <xcave> has a ton
-[01:57:40] [Server thread/INFO]: <tyrosinase> Where the beacon is.
-[01:57:43] [Server thread/INFO]: <xcave> yep
-[01:57:46] [Server thread/INFO]: <xcave> bacon
-[01:57:50] [Server thread/INFO]: <tyrosinase> The beacon is not free.
-[01:58:00] [Server thread/INFO]: <qrush> Please contribute back to city hall if you take stuff.
-[01:58:40] [Server thread/INFO]: p1agu3 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:58:40] [Server thread/INFO]: p1agu3 left the game
-[01:58:59] [User Authenticator #415/INFO]: UUID of player phr3n3tic is 68b95597-8228-463f-a77b-71daf21e0ac3
-[01:58:59] [Server thread/INFO]: phr3n3tic[/66.215.23.167:59898] logged in with entity id 22859602 at (-157.5, 70.0, 257.5)
-[01:58:59] [Server thread/INFO]: phr3n3tic joined the game
-[01:59:01] [User Authenticator #416/INFO]: UUID of player p1agu3 is 81c11cfc-6dae-47c2-b4b7-777167e9a21e
-[01:59:01] [Server thread/INFO]: p1agu3[/75.134.159.197:55324] logged in with entity id 22859820 at (0.9432061985455666, 63.0, 1653.8089584267552)
-[01:59:01] [Server thread/INFO]: p1agu3 joined the game
-[02:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[02:00:27] [Server thread/INFO]: phr3n3tic has just earned the achievement [Taking Inventory]
-[02:02:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2103ms behind, skipping 42 tick(s)
-[02:03:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3606ms behind, skipping 72 tick(s)
-[02:04:29] [Server thread/INFO]: <tyrosinase> Zombie with an iron sword, think you're a big man huh?
-[02:04:36] [Server thread/INFO]: <xcave> where'd you get shot?
-[02:04:44] [Server thread/INFO]: <xcave> jowdyboy
-[02:04:50] [Server thread/INFO]: <jowdyboy> Near the neather thing.
-[02:04:59] [Server thread/INFO]: <jowdyboy> Nether.
-[02:05:01] [Server thread/INFO]: <jowdyboy> neather.
-[02:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[02:05:01] [Server thread/INFO]: <xcave> need more lighting over there I guess
-[02:05:04] [Server thread/INFO]: <jowdyboy> Leather.
-[02:06:01] [Server thread/INFO]: ethansr lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[02:06:01] [Server thread/INFO]: ethansr left the game
-[02:06:19] [Server thread/INFO]: lt_waffle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[02:06:19] [Server thread/INFO]: lt_waffle left the game
-[02:07:26] [Server thread/INFO]: <qrush> gah got another creepy music CD
-[02:07:37] [User Authenticator #417/INFO]: UUID of player lt_waffle is 4586d5ba-8cb5-4e41-8f35-af9b197ad5aa
-[02:07:37] [Server thread/INFO]: lt_waffle[/75.72.203.28:53820] logged in with entity id 22943920 at (-104.97242937634549, 73.0, 289.99347111892456)
-[02:07:37] [Server thread/INFO]: lt_waffle joined the game
-[02:07:39] [Server thread/INFO]: <tyrosinase> Librarian sells Luck of the Sea I for 17, II for 19.
-[02:08:11] [Server thread/WARN]: tyrosinase moved wrongly!
-[02:08:13] [Server thread/INFO]: <xcave> qrush, looks like a creaper poked a hole in the dragon block
-[02:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[02:10:03] [Server thread/INFO]: <qrush> Ha! Snow survives in the nether.
-[02:10:21] [User Authenticator #418/INFO]: UUID of player mtodd is d28741bf-b875-42a1-9083-08c78e5c2612
-[02:10:21] [Server thread/INFO]: mtodd[/76.14.58.13:45985] logged in with entity id 22978492 at (132.39564596140883, 65.0625, 312.4006159545914)
-[02:10:21] [Server thread/INFO]: mtodd joined the game
-[02:11:24] [Server thread/INFO]: qrush lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[02:11:24] [Server thread/INFO]: qrush left the game
-[02:11:46] [Server thread/WARN]: tyrosinase moved wrongly!
-[02:12:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2104ms behind, skipping 42 tick(s)
-[02:12:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2877ms behind, skipping 57 tick(s)
-[02:13:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2958ms behind, skipping 59 tick(s)
-[02:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[02:15:16] [User Authenticator #419/INFO]: UUID of player owookie is 8ccba3d9-5b82-4428-aa55-3565bd6c399b
-[02:15:16] [Server thread/INFO]: owookie[/135.23.213.147:37817] logged in with entity id 23057146 at (-373.28117723264904, 29.0, 1304.8003439415395)
-[02:15:16] [Server thread/INFO]: owookie joined the game
-[02:17:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2400ms behind, skipping 48 tick(s)
-[02:17:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2602ms behind, skipping 52 tick(s)
-[02:19:59] [Server thread/INFO]: aquaranto lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[02:19:59] [Server thread/INFO]: aquaranto left the game
+[02:15:52] [Server thread/INFO]: Starting minecraft server version 1.8.1
+[02:15:52] [Server thread/INFO]: Loading properties
+[02:15:52] [Server thread/INFO]: Default game type: SURVIVAL
+[02:15:52] [Server thread/INFO]: Generating keypair
+[02:15:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:15:52] [Server thread/INFO]: Using epoll channel type
+[02:15:52] [Server thread/INFO]: Preparing level "world"
+[02:15:52] [Server thread/INFO]: Preparing start region for level 0
+[02:15:54] [Server thread/INFO]: Preparing spawn area: 0%
+[02:15:55] [Server thread/INFO]: Preparing spawn area: 60%
+[02:15:55] [Server thread/INFO]: Done (3.227s)! For help, type "help" or "?"
+[02:15:55] [Server thread/INFO]: Starting remote control listener
+[02:15:55] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
+[02:15:56] [User Authenticator #1/INFO]: UUID of player cfurrow is 742ab987-7bdc-495e-af4b-a55eea448951
+[02:15:56] [Server thread/INFO]: cfurrow[/68.42.106.192:50401] logged in with entity id 535 at (1751.8370627915042, 65.0, 4524.413417238624)
+[02:15:56] [Server thread/INFO]: cfurrow joined the game
+[02:15:58] [User Authenticator #2/INFO]: UUID of player aquaranto is 71fa96ae-7089-4fe1-acdb-4210ab8277a1
+[02:15:58] [Server thread/INFO]: aquaranto[/69.204.121.154:37419] logged in with entity id 702 at (-13.900022636200115, 70.0, 307.39774435363506)
+[02:15:58] [Server thread/INFO]: aquaranto joined the game
+[02:15:58] [User Authenticator #3/INFO]: UUID of player ethansr is 25f222ff-514e-42dd-b437-162a557e0fe5
+[02:15:58] [Server thread/INFO]: ethansr[/154.5.151.196:45811] logged in with entity id 1016 at (-1216.2002136114284, 67.24918707874468, -609.7532760281717)
+[02:15:58] [Server thread/INFO]: ethansr joined the game
+[02:15:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2167ms behind, skipping 43 tick(s)
+[02:16:00] [User Authenticator #4/INFO]: UUID of player freebsification is 3fb3a5eb-f397-4905-b71e-42484b1a21d7
+[02:16:00] [Server thread/INFO]: freebsification[/65.27.101.164:62389] logged in with entity id 1470 at (-372.97830029681484, 76.0, 591.7958460043968)
+[02:16:00] [Server thread/INFO]: freebsification joined the game
+[02:16:05] [User Authenticator #5/INFO]: UUID of player phr3n3tic is 68b95597-8228-463f-a77b-71daf21e0ac3
+[02:16:05] [Server thread/INFO]: phr3n3tic[/66.215.23.167:52209] logged in with entity id 2612 at (51.784456023569945, 72.0, 1757.9293504275984)
+[02:16:05] [Server thread/INFO]: phr3n3tic joined the game
+[02:16:10] [User Authenticator #6/INFO]: UUID of player bensawyer is 52ce3fba-1aa1-4548-8841-15b7e942687d
+[02:16:10] [Server thread/INFO]: bensawyer[/76.23.222.194:35704] logged in with entity id 3115 at (9547.342108066121, 62.22858450451806, 2208.853389173449)
+[02:16:10] [Server thread/INFO]: bensawyer joined the game
+[02:16:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5935ms behind, skipping 118 tick(s)
+[02:16:20] [RCON Listener #1/INFO]: Rcon connection from: /54.197.96.9
+[02:16:24] [Server thread/INFO]: <freebsification> ty
+[02:16:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3629ms behind, skipping 72 tick(s)
+[02:16:57] [User Authenticator #7/INFO]: UUID of player lt_waffle is 4586d5ba-8cb5-4e41-8f35-af9b197ad5aa
+[02:16:57] [Server thread/INFO]: lt_waffle[/75.72.203.28:49952] logged in with entity id 9966 at (-22.701435856317264, 64.0, 1702.420094567193)
+[02:16:57] [Server thread/INFO]: lt_waffle joined the game
+[02:17:15] [User Authenticator #8/INFO]: UUID of player kokopelli_ is f1debeff-373d-4973-a933-867d498e5281
+[02:17:15] [Server thread/INFO]: kokopelli_[/75.72.203.28:50713] logged in with entity id 13083 at (-58.74343676954658, 64.0, 1671.189221733492)
+[02:17:15] [Server thread/INFO]: kokopelli_ joined the game
+[02:17:27] [User Authenticator #9/INFO]: UUID of player tyrosinase is efb6fc35-604e-4dd8-93f9-ccdd1593ff69
+[02:17:27] [Server thread/INFO]: tyrosinase[/108.200.108.174:39158] logged in with entity id 15363 at (-21.325755091421094, 32.5, 35.782808624123774)
+[02:17:27] [Server thread/INFO]: tyrosinase joined the game
+[02:17:35] [Server thread/WARN]: lt_waffle moved wrongly!
+[02:17:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4365ms behind, skipping 87 tick(s)
+[02:17:47] [User Authenticator #10/INFO]: UUID of player jyurek is 1f8d896c-21e6-47e3-ac57-cfad9bf1c952
+[02:17:47] [Server thread/INFO]: jyurek[/108.20.118.213:58691] logged in with entity id 19269 at (-1043.411804821167, 67.0, 299.0449239647472)
+[02:17:47] [Server thread/INFO]: jyurek joined the game
+[02:17:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3830ms behind, skipping 76 tick(s)
+[02:18:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3301ms behind, skipping 66 tick(s)
+[02:18:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7256ms behind, skipping 145 tick(s)
+[02:18:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4139ms behind, skipping 82 tick(s)
+[02:18:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4732ms behind, skipping 94 tick(s)
+[02:19:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3712ms behind, skipping 74 tick(s)
+[02:19:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6345ms behind, skipping 126 tick(s)
+[02:19:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3623ms behind, skipping 72 tick(s)
+[02:19:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2622ms behind, skipping 52 tick(s)
 [02:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[02:20:14] [User Authenticator #420/INFO]: UUID of player aquaranto is 71fa96ae-7089-4fe1-acdb-4210ab8277a1
-[02:20:14] [Server thread/INFO]: aquaranto[/69.204.121.154:47139] logged in with entity id 23101098 at (-7.889322784918612, 72.0, 282.6922858761364)
-[02:20:14] [Server thread/INFO]: aquaranto joined the game
-[02:22:20] [User Authenticator #421/INFO]: UUID of player cssboy is cef9c56c-b4a9-436d-811e-d57cbd9696c5
-[02:22:20] [Server thread/INFO]: cssboy[/74.97.42.223:59102] logged in with entity id 23117274 at (-75.37906295165773, 67.0, 357.3012607251251)
-[02:22:20] [Server thread/INFO]: cssboy joined the game
-[02:23:49] [Server thread/WARN]: phr3n3tic moved wrongly!
-[02:24:07] [Server thread/INFO]: phr3n3tic fell from a high place
-[02:24:22] [Server thread/WARN]: lt_waffle moved wrongly!
-[02:24:34] [Server thread/WARN]: lt_waffle moved wrongly!
+[02:20:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5777ms behind, skipping 115 tick(s)
+[02:20:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4502ms behind, skipping 90 tick(s)
+[02:20:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6084ms behind, skipping 121 tick(s)
+[02:21:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5059ms behind, skipping 101 tick(s)
+[02:21:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10431ms behind, skipping 208 tick(s)
+[02:21:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3068ms behind, skipping 61 tick(s)
+[02:21:57] [Server thread/INFO]: jyurek lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:21:57] [Server thread/INFO]: jyurek left the game
+[02:22:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3021ms behind, skipping 60 tick(s)
+[02:22:08] [Server thread/WARN]: tyrosinase moved wrongly!
+[02:22:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3488ms behind, skipping 69 tick(s)
+[02:22:34] [Server thread/INFO]: cfurrow lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:22:34] [Server thread/INFO]: cfurrow left the game
+[02:22:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2685ms behind, skipping 53 tick(s)
+[02:23:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3250ms behind, skipping 65 tick(s)
+[02:24:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2685ms behind, skipping 53 tick(s)
 [02:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[02:25:35] [Server thread/INFO]: uxp lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[02:25:35] [Server thread/INFO]: uxp left the game
-[02:27:04] [Server thread/WARN]: jrmehle moved wrongly!
-[02:27:44] [Server thread/INFO]: <jowdyboy> ./die
-[02:27:47] [Server thread/INFO]: <jowdyboy> ./lol
-[02:29:07] [User Authenticator #422/INFO]: UUID of player ravenx99 is f0ac761f-f7b4-4cd8-9bf1-e9af9d1b6f48
-[02:29:07] [Server thread/INFO]: ravenx99[/108.200.108.174:51195] logged in with entity id 23186916 at (-72.30000001192089, 64.0, 260.2941320072622)
-[02:29:07] [Server thread/INFO]: ravenx99 joined the game
-[02:29:13] [Server thread/WARN]: owookie moved wrongly!
-[02:29:17] [Server thread/INFO]: <tyrosinase> Oh hai stranger.
-[02:29:23] [Server thread/INFO]: <ravenx99> Hello
-[02:29:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2060ms behind, skipping 41 tick(s)
+[02:25:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3318ms behind, skipping 66 tick(s)
+[02:25:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3034ms behind, skipping 60 tick(s)
+[02:26:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@26761659[id=<null>,name=p1agu3,properties={},legacy=false] (/75.134.159.197:52447) lost connection: Disconnected
+[02:26:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@5a704f86[id=<null>,name=p1agu3,properties={},legacy=false] (/75.134.159.197:52449) lost connection: Disconnected
+[02:26:32] [User Authenticator #11/INFO]: UUID of player turtlr is 27a9acd2-f749-4253-b5dd-f045805d7c08
+[02:26:32] [Server thread/INFO]: turtlr[/75.134.159.197:58955] logged in with entity id 89644 at (180.19692825842247, 64.0, 2116.7624999880795)
+[02:26:32] [Server thread/INFO]: turtlr joined the game
+[02:26:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2966ms behind, skipping 59 tick(s)
+[02:26:48] [User Authenticator #12/INFO]: UUID of player p1agu3 is 81c11cfc-6dae-47c2-b4b7-777167e9a21e
+[02:26:48] [Server thread/INFO]: p1agu3[/75.134.159.197:52489] logged in with entity id 91362 at (-29.348563824398166, 63.0, 1704.2206293620575)
+[02:26:48] [Server thread/INFO]: p1agu3 joined the game
+[02:27:01] [Server thread/INFO]: <bensawyer> qrush
+[02:27:08] [Server thread/INFO]: <bensawyer> you still trying to get there?
+[02:27:19] [RCON Listener #1/INFO]: Rcon connection from: /54.197.96.9
+[02:27:23] [Server thread/INFO]: <bensawyer> gotcha
+[02:27:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3141ms behind, skipping 62 tick(s)
+[02:27:41] [Server thread/INFO]: <bensawyer> I'll slow down then a bit
+[02:27:50] [Server thread/WARN]: tyrosinase moved wrongly!
+[02:28:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3737ms behind, skipping 74 tick(s)
+[02:28:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2414ms behind, skipping 48 tick(s)
+[02:28:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2769ms behind, skipping 55 tick(s)
+[02:29:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5492ms behind, skipping 109 tick(s)
+[02:29:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2033ms behind, skipping 40 tick(s)
+[02:29:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2007ms behind, skipping 40 tick(s)
+[02:29:57] [Server thread/WARN]: bensawyer moved wrongly!
 [02:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[02:30:02] [Server thread/INFO]: <tyrosinase> I was just about to sign off. Finished the sidewalks to the portal in Pickaxe Mesa.
-[02:30:04] [Server thread/WARN]: owookie moved wrongly!
-[02:30:04] [Server thread/WARN]: owookie moved wrongly!
-[02:30:04] [Server thread/WARN]: owookie moved wrongly!
-[02:30:04] [Server thread/WARN]: owookie moved wrongly!
-[02:30:46] [Server thread/INFO]: <ravenx99> Yeah, thought I'd try to do something with my little plot in town.
-[02:31:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2338ms behind, skipping 46 tick(s)
-[02:31:16] [Server thread/INFO]: <ravenx99> It always rains when I'm on.
-[02:31:26] [RCON Listener #1/INFO]: Rcon connection from: /54.167.250.94
-[02:31:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2560ms behind, skipping 51 tick(s)
-[02:31:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2415ms behind, skipping 48 tick(s)
-[02:32:01] [Server thread/INFO]: <mtodd> has anybody found the monorail in pickaxe city useful?
-[02:32:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2022ms behind, skipping 40 tick(s)
-[02:32:21] [RCON Listener #1/INFO]: Rcon connection from: /54.167.250.94
-[02:32:23] [Server thread/INFO]: <jowdyboy> YOU CHICKEN MURDERER!
-[02:34:04] [Server thread/INFO]: <tyrosinase> Okay, the monorail is not what I thought it was. What's the monorail?
-[02:34:17] [Server thread/INFO]: <mtodd> tyrosinase: what did you think the monorail was? lol
-[02:34:19] [Server thread/INFO]: cssboy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[02:34:19] [Server thread/INFO]: cssboy left the game
-[02:34:20] [Server thread/INFO]: phr3n3tic has just earned the achievement [Getting Wood]
-[02:34:28] [Server thread/INFO]: <tyrosinase> The higher one.
-[02:34:44] [Server thread/INFO]: <mtodd> ah, nope, just this one for innercity transit
-[02:34:48] [Server thread/INFO]: <owookie> The rail, will it bend?
+[02:30:08] [Server thread/INFO]: bensawyer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:30:08] [Server thread/INFO]: bensawyer left the game
+[02:30:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7350ms behind, skipping 147 tick(s)
+[02:30:18] [User Authenticator #13/INFO]: UUID of player bensawyer is 52ce3fba-1aa1-4548-8841-15b7e942687d
+[02:30:18] [Server thread/INFO]: bensawyer[/76.23.222.194:42107] logged in with entity id 121309 at (9980.699999988079, 62.0, 4566.991563296594)
+[02:30:18] [Server thread/INFO]: bensawyer joined the game
+[02:30:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2453ms behind, skipping 49 tick(s)
+[02:30:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2524ms behind, skipping 50 tick(s)
+[02:30:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2890ms behind, skipping 57 tick(s)
+[02:31:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2002ms behind, skipping 40 tick(s)
+[02:31:14] [User Authenticator #14/INFO]: UUID of player CobyR is e931627c-d0f1-44bd-99d8-e7e6e9128859
+[02:31:14] [Server thread/INFO]: CobyR[/208.100.161.128:50175] logged in with entity id 132264 at (1749.7346938622852, 11.0, 4339.030849726278)
+[02:31:14] [Server thread/INFO]: CobyR joined the game
+[02:31:28] [User Authenticator #15/INFO]: UUID of player McPhage is a3f11e73-45e1-4de2-801d-e2c6ea1dc19e
+[02:31:28] [Server thread/INFO]: McPhage[/108.17.7.116:50377] logged in with entity id 135017 at (-1974.93890560515, 90.0, 2109.0819187200677)
+[02:31:28] [Server thread/INFO]: McPhage joined the game
+[02:31:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3834ms behind, skipping 76 tick(s)
+[02:31:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3098ms behind, skipping 61 tick(s)
+[02:32:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2528ms behind, skipping 50 tick(s)
+[02:32:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8907ms behind, skipping 178 tick(s)
+[02:32:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4868ms behind, skipping 97 tick(s)
+[02:32:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6303ms behind, skipping 126 tick(s)
+[02:33:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5383ms behind, skipping 107 tick(s)
+[02:33:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10261ms behind, skipping 205 tick(s)
+[02:33:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3481ms behind, skipping 69 tick(s)
+[02:34:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5332ms behind, skipping 106 tick(s)
+[02:34:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6048ms behind, skipping 120 tick(s)
+[02:34:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5147ms behind, skipping 102 tick(s)
+[02:34:49] [User Authenticator #16/INFO]: UUID of player qrush is 806ecb0a-663b-4783-850b-87dcb53ffb04
+[02:34:49] [Server thread/INFO]: qrush[/69.204.121.154:45750] logged in with entity id 171904 at (6091.429975764743, 83.8500000178814, 6703.05346377429)
+[02:34:49] [Server thread/INFO]: qrush joined the game
 [02:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[02:35:03] [Server thread/INFO]: <tyrosinase> BYO minecart?
-[02:35:06] [Server thread/INFO]: <owookie> "Not a chance my hindu friend!"
-[02:35:07] [Server thread/INFO]: <mtodd> def
-[02:35:20] [Server thread/INFO]: <mtodd> i always have mine on me
-[02:35:43] [Server thread/INFO]: <mtodd> want to expand it but i ran out of gold for powered rail
-[02:35:50] [Server thread/INFO]: <tyrosinase> I don't spend enough time in town, other than at City Hall itself.
-[02:36:00] [Server thread/INFO]: <xcave> that's a long rail
-[02:36:08] [Server thread/INFO]: <xcave> takes you all the way north doesn't it?
-[02:36:15] [Server thread/INFO]: <tyrosinase> Which is bad, I should be checking out builds other than on the overviewer.
-[02:37:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2223ms behind, skipping 44 tick(s)
-[02:37:26] [Server thread/INFO]: <tyrosinase> Anybody need a Power IV Unbreaking III bow? Just fished one up.
-[02:37:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2547ms behind, skipping 50 tick(s)
-[02:37:53] [Server thread/INFO]: <jowdyboy> Let's roll for it.
-[02:37:55] [Server thread/INFO]: <ravenx99> Beats my Power I Unbreaking II.
-[02:38:00] [Server thread/INFO]: <jowdyboy> ./roll 1-100
+[02:35:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10084ms behind, skipping 201 tick(s)
+[02:35:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6457ms behind, skipping 129 tick(s)
+[02:35:28] [Server thread/INFO]: qrush lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:35:28] [Server thread/INFO]: qrush left the game
+[02:35:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13347ms behind, skipping 266 tick(s)
+[02:35:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4698ms behind, skipping 93 tick(s)
+[02:36:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13544ms behind, skipping 270 tick(s)
+[02:36:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4307ms behind, skipping 86 tick(s)
+[02:36:40] [Server thread/WARN]: turtlr moved wrongly!
+[02:36:40] [Server thread/WARN]: lt_waffle moved wrongly!
+[02:36:41] [User Authenticator #17/INFO]: UUID of player shekibobo is 347bf42b-3684-4d39-ade0-9bb464f03d44
+[02:36:41] [Server thread/INFO]: shekibobo[/99.62.253.97:56934] logged in with entity id 188616 at (6270.45494416697, 67.0, 1567.2767305139096)
+[02:36:41] [Server thread/INFO]: shekibobo joined the game
+[02:36:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12992ms behind, skipping 259 tick(s)
+[02:37:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4411ms behind, skipping 88 tick(s)
+[02:37:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7781ms behind, skipping 155 tick(s)
+[02:37:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7285ms behind, skipping 145 tick(s)
+[02:38:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12850ms behind, skipping 257 tick(s)
+[02:38:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4025ms behind, skipping 80 tick(s)
+[02:38:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8554ms behind, skipping 171 tick(s)
+[02:38:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9710ms behind, skipping 194 tick(s)
+[02:39:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6337ms behind, skipping 126 tick(s)
+[02:39:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9381ms behind, skipping 187 tick(s)
+[02:39:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8150ms behind, skipping 163 tick(s)
 [02:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[02:41:06] [Server thread/INFO]: owookie lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[02:41:06] [Server thread/INFO]: owookie left the game
-[02:42:01] [Server thread/INFO]: <phr3n3tic> ZZZZZzzzzzz SLEEPING!
-[02:42:04] [Server thread/INFO]: <phr3n3tic> Zzzzzzzzzzzzz
-[02:42:10] [Server thread/INFO]: <phr3n3tic> ZzzzzzZzZZzzzzZZZZzzzZZZzzz
-[02:42:40] [Server thread/INFO]: <mtodd> too many people to sleep, if that's what you're suggesting
-[02:42:54] [Server thread/INFO]: <tyrosinase> We're all night owls.
-[02:42:55] [Server thread/INFO]: <jowdyboy> He's suggesting we all sleep together.
-[02:42:57] [Server thread/INFO]: <jowdyboy> In the same bed.
+[02:40:02] [User Authenticator #18/INFO]: UUID of player jowdyboy is baa10247-83f6-4d31-bc6b-4a435cf07a78
+[02:40:02] [Server thread/INFO]: jowdyboy[/66.215.23.167:55467] logged in with entity id 219262 at (-13.214670193765794, 63.0, 1838.4087609073017)
+[02:40:02] [Server thread/INFO]: jowdyboy joined the game
+[02:40:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14533ms behind, skipping 290 tick(s)
+[02:40:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5010ms behind, skipping 100 tick(s)
+[02:40:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13121ms behind, skipping 262 tick(s)
+[02:40:59] [Server thread/INFO]: aquaranto lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:40:59] [Server thread/INFO]: aquaranto left the game
+[02:41:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4812ms behind, skipping 96 tick(s)
+[02:41:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10957ms behind, skipping 219 tick(s)
+[02:41:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6328ms behind, skipping 126 tick(s)
+[02:41:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7629ms behind, skipping 152 tick(s)
+[02:42:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4800ms behind, skipping 96 tick(s)
+[02:42:25] [Server thread/WARN]: CobyR moved wrongly!
+[02:42:34] [Server thread/INFO]: <bensawyer> boat exploration definitely upgrades the lag - being on foot isn't as bad
+[02:42:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8553ms behind, skipping 171 tick(s)
+[02:42:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4288ms behind, skipping 85 tick(s)
+[02:42:57] [Server thread/INFO]: <McPhage> bensawyer: have you seen a Mega Taiga biome?
+[02:43:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4784ms behind, skipping 95 tick(s)
+[02:43:10] [Server thread/INFO]: <bensawyer> I think I'm in one now :)
+[02:43:19] [Server thread/INFO]: <bensawyer> ice mountains actually
+[02:43:23] [Server thread/WARN]: CobyR moved wrongly!
+[02:43:24] [Server thread/INFO]: <bensawyer> oh you mean mega trees
+[02:43:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8520ms behind, skipping 170 tick(s)
+[02:43:27] [Server thread/INFO]: <McPhage> Yeah.
+[02:43:32] [Server thread/INFO]: <bensawyer> not sure i have
+[02:43:37] [Server thread/INFO]: <shekibobo> man, farmville is thriving now
+[02:43:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4315ms behind, skipping 86 tick(s)
+[02:43:43] [Server thread/INFO]: <bensawyer> on this server at least
+[02:43:53] [Server thread/INFO]: <tyrosinase> I gotta get back out there sometime.
+[02:44:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6991ms behind, skipping 139 tick(s)
+[02:44:10] [Server thread/WARN]: lt_waffle moved wrongly!
+[02:44:10] [Server thread/WARN]: lt_waffle moved wrongly!
+[02:44:16] [Server thread/INFO]: <bensawyer> I'm in a very snowy place right now
+[02:44:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6346ms behind, skipping 126 tick(s)
+[02:44:20] [Server thread/INFO]: <bensawyer> and it's huge
+[02:44:23] [Server thread/WARN]: turtlr moved wrongly!
+[02:44:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9668ms behind, skipping 193 tick(s)
+[02:44:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3569ms behind, skipping 71 tick(s)
+[02:44:52] [Server thread/INFO]: <McPhage> I'm trying for the biome achievement, but havn't seen those, and don't see them on the map
 [02:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[02:45:42] [Server thread/INFO]: <jowdyboy> Aaron.
-[02:45:43] [Server thread/INFO]: <jowdyboy> Aaron.
-[02:45:44] [Server thread/INFO]: <jowdyboy> Look.
-[02:45:45] [Server thread/INFO]: <jowdyboy> Up.
-[02:46:20] [Server thread/INFO]: <jowdyboy> Aaron!
-[02:46:28] [Server thread/INFO]: <jowdyboy> Aaron!
-[02:46:36] [Server thread/INFO]: <jowdyboy> Aaron!
-[02:46:59] [Server thread/INFO]: lt_waffle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[02:46:59] [Server thread/INFO]: lt_waffle left the game
-[02:47:03] [User Authenticator #423/INFO]: UUID of player lt_waffle is 4586d5ba-8cb5-4e41-8f35-af9b197ad5aa
-[02:47:03] [Server thread/INFO]: lt_waffle[/75.72.203.28:53889] logged in with entity id 23362582 at (53.56796586379748, 79.0, 1719.0880373654566)
-[02:47:03] [Server thread/INFO]: lt_waffle joined the game
-[02:47:06] [Server thread/INFO]: <jowdyboy> Aaron!
-[02:47:09] [Server thread/INFO]: <jowdyboy> Aaron!
-[02:47:17] [Server thread/INFO]: <jowdyboy> I'm disapointed in your ablity to read text.
-[02:47:43] [Server thread/INFO]: <lt_waffle> wut
+[02:45:04] [Server thread/INFO]: <McPhage> but the map is giant, so who knows
+[02:45:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7663ms behind, skipping 153 tick(s)
+[02:45:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7100ms behind, skipping 142 tick(s)
+[02:45:36] [RCON Listener #1/INFO]: Rcon connection from: /54.197.96.9
+[02:45:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2516ms behind, skipping 50 tick(s)
+[02:45:51] [Server thread/INFO]: <bensawyer> I'm at 10K, 7375
+[02:46:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3447ms behind, skipping 68 tick(s)
+[02:46:04] [Server thread/INFO]: <tyrosinase> The Pickaxe Canyon Line is almost done. The ocean monument/End junction is not horse-friendly yet.
+[02:46:19] [Server thread/INFO]: <tyrosinase> But there's a train stop there now.
+[02:46:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9296ms behind, skipping 185 tick(s)
+[02:46:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5183ms behind, skipping 103 tick(s)
+[02:47:00] [Server thread/INFO]: <McPhage> tyrosinase: this might be a dumb question, but how do I open the door from the arena?
+[02:47:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5375ms behind, skipping 107 tick(s)
+[02:47:17] [RCON Listener #1/INFO]: Rcon connection from: /54.197.96.9
+[02:47:18] [Server thread/INFO]: <McPhage> wait, I see the button now
+[02:47:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7914ms behind, skipping 158 tick(s)
+[02:47:22] [RCON Listener #1/INFO]: Rcon connection from: /54.197.96.9
+[02:47:24] [User Authenticator #19/INFO]: UUID of player patricksroberts is 8634f128-ed7b-4946-8b8c-bcdff7efdbd3
+[02:47:24] [Server thread/INFO]: patricksroberts[/50.176.147.62:50401] logged in with entity id 287594 at (-757.0394848132918, 80.0, 172.13706682139525)
+[02:47:24] [Server thread/INFO]: patricksroberts joined the game
+[02:47:27] [Server thread/INFO]: <McPhage> thanks
+[02:47:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4639ms behind, skipping 92 tick(s)
+[02:47:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5406ms behind, skipping 108 tick(s)
+[02:47:52] [Server thread/INFO]: <tyrosinase> I should replace that cobble with smooth stone so the button is more visible, I guess.
+[02:48:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5293ms behind, skipping 105 tick(s)
+[02:48:15] [Server thread/INFO]: <bensawyer> ooh
+[02:48:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7037ms behind, skipping 140 tick(s)
+[02:48:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3084ms behind, skipping 61 tick(s)
+[02:49:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3439ms behind, skipping 68 tick(s)
+[02:49:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11030ms behind, skipping 220 tick(s)
+[02:49:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3511ms behind, skipping 70 tick(s)
+[02:49:49] [Server thread/INFO]: <shekibobo> this is nice
+[02:49:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6090ms behind, skipping 121 tick(s)
+[02:49:57] [Server thread/INFO]: <shekibobo> I like the new rail system
 [02:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[02:50:04] [User Authenticator #424/INFO]: UUID of player qrush is 806ecb0a-663b-4783-850b-87dcb53ffb04
-[02:50:04] [Server thread/INFO]: qrush[/69.204.121.154:47637] logged in with entity id 23400842 at (-1020.007833706384, 78.0, 1034.4412916461033)
-[02:50:04] [Server thread/INFO]: qrush joined the game
-[02:53:09] [Server thread/INFO]: <ravenx99> Thansk.
-[02:53:17] [Server thread/INFO]: <tyrosinase> You're wlecmoe.
+[02:50:09] [Server thread/INFO]: <tyrosinase> I'm southbound.
+[02:50:23] [Server thread/INFO]: <tyrosinase> It has no sidings. :}
+[02:50:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11251ms behind, skipping 225 tick(s)
+[02:50:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2893ms behind, skipping 57 tick(s)
+[02:50:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4398ms behind, skipping 87 tick(s)
+[02:50:58] [Server thread/INFO]: <tyrosinase> I suppose we could have just traded carts.
+[02:51:04] [Server thread/INFO]: <shekibobo> meh
+[02:51:08] [Server thread/INFO]: <McPhage> Isn't that the answer to a riddle?
+[02:51:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12217ms behind, skipping 244 tick(s)
+[02:51:25] [Server thread/INFO]: jowdyboy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:51:25] [Server thread/INFO]: jowdyboy left the game
+[02:51:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4541ms behind, skipping 90 tick(s)
+[02:51:43] [Server thread/INFO]: <bensawyer> I need to get a twitch account so I can stream from out here in the hinterlands
+[02:51:45] [Server thread/INFO]: <shekibobo> aren't pigs not supposed to spawn in here?
+[02:51:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10885ms behind, skipping 217 tick(s)
+[02:52:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5112ms behind, skipping 102 tick(s)
+[02:52:05] [User Authenticator #20/INFO]: UUID of player khargos is 11414bd1-4b6e-472d-9684-1b49e37fe594
+[02:52:05] [Server thread/INFO]: khargos[/66.215.23.167:50448] logged in with entity id 316799 at (-158.5, 70.0, 257.5)
+[02:52:05] [Server thread/INFO]: khargos joined the game
+[02:52:05] [Server thread/INFO]: <tyrosinase> They spawn in nether portals, so they still will a little.
+[02:52:06] [User Authenticator #21/INFO]: UUID of player jowdyboy is baa10247-83f6-4d31-bc6b-4a435cf07a78
+[02:52:06] [Server thread/INFO]: jowdyboy[/66.215.23.167:61356] logged in with entity id 316999 at (4.696119851085922, 67.0, 1717.5857111756447)
+[02:52:06] [Server thread/INFO]: jowdyboy joined the game
+[02:52:07] [Server thread/INFO]: <shekibobo> would it be incredibly stupid to kill them?
+[02:52:19] [Server thread/INFO]: <tyrosinase> I keep being tempted. But depends on the range.
+[02:52:31] [Server thread/INFO]: khargos has just earned the achievement [Taking Inventory]
+[02:52:33] [Server thread/INFO]: <tyrosinase> We should measure, and put up signs near the hub and other end.
+[02:52:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15714ms behind, skipping 314 tick(s)
+[02:52:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3235ms behind, skipping 64 tick(s)
+[02:52:57] [Server thread/INFO]: <tyrosinase> "No pigman killing beyond this point."
+[02:53:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9075ms behind, skipping 181 tick(s)
+[02:53:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8213ms behind, skipping 164 tick(s)
+[02:53:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11548ms behind, skipping 230 tick(s)
+[02:53:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5186ms behind, skipping 103 tick(s)
+[02:54:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6053ms behind, skipping 121 tick(s)
+[02:54:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6729ms behind, skipping 134 tick(s)
+[02:54:34] [Server thread/WARN]: CobyR moved wrongly!
+[02:54:34] [Server thread/WARN]: phr3n3tic moved wrongly!
+[02:54:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12475ms behind, skipping 249 tick(s)
 [02:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[02:55:24] [Server thread/INFO]: <tyrosinase> Well, goodnight all. See you next weekend (or on Slack).
-[02:55:28] [Server thread/INFO]: tyrosinase lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[02:55:28] [Server thread/INFO]: tyrosinase left the game
-[02:56:06] [Server thread/INFO]: <qrush> night
-[02:56:13] [Server thread/INFO]: <lt_waffle> o/
-[02:56:19] [Server thread/INFO]: <p1agu3> Seeya!!
-[02:56:22] [Server thread/INFO]: <jrmehle> o/
-[02:56:51] [Server thread/INFO]: ravenx99 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[02:56:51] [Server thread/INFO]: ravenx99 left the game
-[02:57:35] [Server thread/INFO]: <qrush> nether forts are huge
-[02:57:49] [Server thread/INFO]: qrush lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[02:57:49] [Server thread/INFO]: qrush left the game
-[02:59:26] [User Authenticator #425/INFO]: UUID of player qrush is 806ecb0a-663b-4783-850b-87dcb53ffb04
-[02:59:26] [Server thread/INFO]: qrush[/69.204.121.154:45418] logged in with entity id 23519156 at (-824.2676422235909, 59.0, 914.3066986065548)
-[02:59:26] [Server thread/INFO]: qrush joined the game
-[02:59:36] [Server thread/INFO]: <jowdyboy> ok bai ilu bai
+[02:55:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4593ms behind, skipping 91 tick(s)
+[02:55:12] [User Authenticator #22/INFO]: UUID of player jrmehle is d0902489-25ca-4931-99fc-70378de79404
+[02:55:13] [Server thread/INFO]: jrmehle[/174.30.198.216:64100] logged in with entity id 334010 at (30.23433120784669, 74.0, 1620.939220951604)
+[02:55:13] [Server thread/INFO]: jrmehle joined the game
+[02:55:21] [Server thread/INFO]: freebsification lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:55:21] [Server thread/INFO]: freebsification left the game
+[02:55:22] [Server thread/INFO]: <tyrosinase> Paradox: mesa villagers aren't building numbers fast enough for a golem because they have no golem.
+[02:55:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10247ms behind, skipping 204 tick(s)
+[02:55:31] [Server thread/INFO]: <shekibobo> what's turtle island?
+[02:55:44] [Server thread/INFO]: <tyrosinase> Dunno.
+[02:55:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10244ms behind, skipping 204 tick(s)
+[02:55:55] [Server thread/INFO]: <jrmehle> it's in the archipelago
+[02:56:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9709ms behind, skipping 194 tick(s)
+[02:56:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9294ms behind, skipping 185 tick(s)
+[02:56:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9802ms behind, skipping 196 tick(s)
+[02:56:44] [Server thread/WARN]: lt_waffle moved wrongly!
+[02:57:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10626ms behind, skipping 212 tick(s)
+[02:57:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6682ms behind, skipping 133 tick(s)
+[02:57:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13600ms behind, skipping 272 tick(s)
+[02:57:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7297ms behind, skipping 145 tick(s)
+[02:58:20] [Server thread/WARN]: tyrosinase moved wrongly!
+[02:58:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14301ms behind, skipping 286 tick(s)
+[02:58:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3880ms behind, skipping 77 tick(s)
+[02:58:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7815ms behind, skipping 156 tick(s)
+[02:59:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7414ms behind, skipping 148 tick(s)
+[02:59:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14680ms behind, skipping 293 tick(s)
+[02:59:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5183ms behind, skipping 103 tick(s)
+[02:59:56] [Server thread/INFO]: jowdyboy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:59:56] [Server thread/INFO]: jowdyboy left the game
+[02:59:58] [Server thread/INFO]: shekibobo lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:59:58] [Server thread/INFO]: shekibobo left the game
 [03:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[03:03:57] [Server thread/INFO]: jowdyboy was slain by Zombie
-[03:04:15] [Server thread/INFO]: lt_waffle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[03:04:15] [Server thread/INFO]: lt_waffle left the game
-[03:04:46] [Server thread/INFO]: <mtodd> o.
-[03:04:48] [Server thread/INFO]: <mtodd> o/*
-[03:04:48] [Server thread/INFO]: <qrush> hey
-[03:04:48] [Server thread/INFO]: <xcave> how's the view up there?
-[03:04:57] [Server thread/INFO]: <qrush> mtodd there's a block or two near city hall and your subways open.
+[03:00:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10597ms behind, skipping 211 tick(s)
+[03:00:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3935ms behind, skipping 78 tick(s)
+[03:00:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9560ms behind, skipping 191 tick(s)
+[03:01:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4650ms behind, skipping 93 tick(s)
+[03:01:15] [Server thread/INFO]: <turtlr> hi!
+[03:01:22] [Server thread/INFO]: <bensawyer> hello
+[03:01:23] [Server thread/INFO]: <jrmehle> hiya
+[03:01:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6363ms behind, skipping 127 tick(s)
+[03:01:35] [Server thread/INFO]: <khargos> hi!!
+[03:01:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10281ms behind, skipping 205 tick(s)
+[03:01:58] [Server thread/INFO]: khargos lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:01:58] [Server thread/INFO]: khargos left the game
+[03:01:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4229ms behind, skipping 84 tick(s)
+[03:02:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6164ms behind, skipping 123 tick(s)
+[03:02:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4685ms behind, skipping 93 tick(s)
+[03:02:35] [Server thread/INFO]: <lt_waffle> hi
+[03:02:35] [Server thread/INFO]: <lt_waffle> hi
+[03:02:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7998ms behind, skipping 159 tick(s)
+[03:03:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4668ms behind, skipping 93 tick(s)
+[03:03:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4671ms behind, skipping 93 tick(s)
+[03:03:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7792ms behind, skipping 155 tick(s)
+[03:03:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4149ms behind, skipping 82 tick(s)
+[03:04:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6207ms behind, skipping 124 tick(s)
+[03:04:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10182ms behind, skipping 203 tick(s)
+[03:04:41] [Server thread/WARN]: jrmehle moved wrongly!
+[03:04:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10034ms behind, skipping 200 tick(s)
 [03:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[03:05:01] [Server thread/INFO]: <mtodd> hah, nothing to write home about
-[03:05:26] [Server thread/INFO]: <mtodd> qrush: are those two separate things?
-[03:05:40] [Server thread/INFO]: <qrush> errr. the above ground trains going through the city.
-[03:06:24] [User Authenticator #426/INFO]: UUID of player lt_waffle is 4586d5ba-8cb5-4e41-8f35-af9b197ad5aa
-[03:06:24] [Server thread/INFO]: lt_waffle[/75.72.203.28:53930] logged in with entity id 23574544 at (41.699999988078936, 73.0, 1696.300000011921)
-[03:06:24] [Server thread/INFO]: lt_waffle joined the game
-[03:06:39] [Server thread/INFO]: aquaranto lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[03:06:39] [Server thread/INFO]: aquaranto left the game
-[03:06:43] [User Authenticator #427/INFO]: UUID of player freebsification is 3fb3a5eb-f397-4905-b71e-42484b1a21d7
-[03:06:43] [Server thread/INFO]: freebsification[/65.27.101.164:50628] logged in with entity id 23577383 at (-128.4773045537099, 72.0, 256.842863051863)
-[03:06:43] [Server thread/INFO]: freebsification joined the game
-[03:06:44] [User Authenticator #428/INFO]: UUID of player aquaranto is 71fa96ae-7089-4fe1-acdb-4210ab8277a1
-[03:06:44] [Server thread/INFO]: aquaranto[/69.204.121.154:44121] logged in with entity id 23577788 at (-9.020040000421954, 55.5, 282.54401182487794)
-[03:06:44] [Server thread/INFO]: aquaranto joined the game
-[03:07:53] [Server thread/INFO]: <mtodd> qrush: thinking about taking over the plot with the two trees
-[03:08:01] [Server thread/INFO]: <qrush> go for it
-[03:08:18] [Server thread/INFO]: <mtodd> rad
-[03:08:29] [Server thread/INFO]: <mtodd> qrush: fwiw, I'm still not sure what you're saying about the monorail
-[03:08:38] [Server thread/INFO]: <qrush> Monorail~~~~
-[03:08:44] [Server thread/INFO]: <qrush> Oh i was just trying to say it's near there
-[03:08:46] [Server thread/INFO]: <freebsification> yay the spawn plot can be built on now :D
-[03:08:51] [Server thread/INFO]: <qrush> Ah yes!
-[03:08:56] [Server thread/INFO]: <qrush> i put that sign up freebsification. sorry
-[03:08:59] [Server thread/INFO]: <mtodd> qrush aha, gotcha. :)
-[03:09:08] [Server thread/INFO]: <qrush> 1km in the nether is *far*
-[03:09:12] [Server thread/INFO]: <mtodd> yeah, want to expand the monorail but need more gold for powered rail
-[03:09:33] [Server thread/INFO]: <freebsification> all good, it took us a bit to figure out why it was happening xD
-[03:09:36] [Server thread/INFO]: <qrush> and in the middle of another nether fort :|
-[03:09:50] [Server thread/INFO]: <mtodd> bbiab
-[03:09:51] [Server thread/INFO]: mtodd lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[03:09:51] [Server thread/INFO]: mtodd left the game
+[03:05:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7322ms behind, skipping 146 tick(s)
+[03:05:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6757ms behind, skipping 135 tick(s)
+[03:05:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7933ms behind, skipping 158 tick(s)
+[03:06:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13240ms behind, skipping 264 tick(s)
+[03:06:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3472ms behind, skipping 69 tick(s)
+[03:06:17] [Server thread/INFO]: CobyR lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:06:17] [Server thread/INFO]: CobyR left the game
+[03:06:22] [Server thread/INFO]: <bensawyer> infinity bow enchant way out here
+[03:06:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5353ms behind, skipping 107 tick(s)
+[03:06:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6811ms behind, skipping 136 tick(s)
+[03:07:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3221ms behind, skipping 64 tick(s)
+[03:07:08] [Server thread/INFO]: <bensawyer> looting iii
+[03:07:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5323ms behind, skipping 106 tick(s)
+[03:07:33] [Server thread/INFO]: <bensawyer> man I need some gems :)
+[03:07:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7621ms behind, skipping 152 tick(s)
+[03:07:54] [User Authenticator #23/INFO]: UUID of player jowdyboy is baa10247-83f6-4d31-bc6b-4a435cf07a78
+[03:07:54] [User Authenticator #24/INFO]: UUID of player xcave is a622e5a1-e4f2-4011-94dc-d0580de911e9
+[03:07:54] [Server thread/INFO]: jowdyboy[/66.215.23.167:51279] logged in with entity id 444393 at (-158.73037111311982, 64.0, 1536.568296738168)
+[03:07:54] [Server thread/INFO]: jowdyboy joined the game
+[03:07:54] [Server thread/INFO]: xcave[/74.222.193.10:55217] logged in with entity id 444496 at (12.98479348860892, 62.5625, 198.5463593181438)
+[03:07:54] [Server thread/INFO]: xcave joined the game
+[03:07:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3622ms behind, skipping 72 tick(s)
+[03:07:59] [Server thread/INFO]: jrmehle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:07:59] [Server thread/INFO]: jrmehle left the game
+[03:08:11] [User Authenticator #25/INFO]: UUID of player shekibobo is 347bf42b-3684-4d39-ade0-9bb464f03d44
+[03:08:11] [Server thread/INFO]: shekibobo[/99.62.253.97:58002] logged in with entity id 447519 at (-195.57827284160194, 70.0, 271.93898814099555)
+[03:08:11] [Server thread/INFO]: shekibobo joined the game
+[03:08:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4750ms behind, skipping 95 tick(s)
+[03:08:23] [User Authenticator #26/INFO]: UUID of player trinklest is 11414bd1-4b6e-472d-9684-1b49e37fe594
+[03:08:24] [Server thread/INFO]: trinklest[/66.215.23.167:50652] logged in with entity id 450715 at (-126.38607439425394, 66.0, 733.3000000119209)
+[03:08:24] [Server thread/INFO]: trinklest (formerly known as khargos) joined the game
+[03:08:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6268ms behind, skipping 125 tick(s)
+[03:08:45] [Server thread/INFO]: <bensawyer> probably should sit these dogs before attempting pyramid
+[03:08:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6579ms behind, skipping 131 tick(s)
+[03:09:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3153ms behind, skipping 63 tick(s)
+[03:09:16] [Server thread/INFO]: <shekibobo> is there actually something to do in pyramids? the ones I found seemed small and empty
+[03:09:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5293ms behind, skipping 105 tick(s)
+[03:09:23] [Server thread/INFO]: <bensawyer> oh yeah
+[03:09:26] [Server thread/INFO]: <bensawyer> lots o stuff
+[03:09:40] [Server thread/INFO]: <tyrosinase> There's a secret room. Because pyramid.
+[03:09:41] [Server thread/INFO]: <xcave> this rain is loud. I'm starting to really dislike it.
+[03:09:41] [Server thread/INFO]: <bensawyer> diamond horse armour, 9 tnt, enchants, gold
+[03:09:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10805ms behind, skipping 216 tick(s)
+[03:09:51] [Server thread/INFO]: <tyrosinase> Also it's cursed. Because pyramid.
+[03:09:53] [Server thread/INFO]: <shekibobo> dang
+[03:10:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5406ms behind, skipping 108 tick(s)
 [03:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[03:12:08] [Server thread/INFO]: <qrush> i found a railway to a netherfort!!!!!
-[03:12:18] [Server thread/INFO]: <qrush> i think that is linked to our stuff right??
-[03:14:28] [User Authenticator #429/INFO]: UUID of player jeremiahfelt is 36ccd64d-fe6f-40c1-811b-1b3970e09605
-[03:14:28] [Server thread/INFO]: jeremiahfelt[/69.207.130.204:42394] logged in with entity id 23655160 at (396.12455485701463, 24.0, 1004.6999999880791)
-[03:14:28] [Server thread/INFO]: jeremiahfelt joined the game
-[03:14:37] [Server thread/INFO]: <qrush> yay!!!!
-[03:14:41] [Server thread/INFO]: <jeremiahfelt> Hey.
+[03:10:02] [Server thread/INFO]: <shekibobo> where's the secret room?
+[03:10:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8601ms behind, skipping 172 tick(s)
+[03:10:27] [Server thread/WARN]: shekibobo moved wrongly!
+[03:10:30] [Server thread/WARN]: shekibobo moved wrongly!
+[03:10:30] [Server thread/INFO]: <bensawyer> just got 1 diamond and 1 diamond horse armour
+[03:10:36] [Server thread/INFO]: <tyrosinase> Underground.
+[03:10:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7594ms behind, skipping 151 tick(s)
+[03:10:45] [Server thread/INFO]: <McPhage> under the center chamber
+[03:10:52] [Server thread/INFO]: <McPhage> but it's trapped somehow. Not sure how
+[03:10:56] [Server thread/INFO]: <shekibobo> hmmm
+[03:11:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7469ms behind, skipping 149 tick(s)
+[03:11:03] [Server thread/INFO]: <tyrosinase> With a shedload of TNT.
+[03:11:07] [Server thread/INFO]: <xcave> blue clay has a pressure plate underneath
+[03:11:14] [Server thread/INFO]: <tyrosinase> Aw, spoilers!
+[03:11:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7475ms behind, skipping 149 tick(s)
+[03:11:26] [Server thread/INFO]: <bensawyer> :)
+[03:11:29] [Server thread/INFO]: <xcave> haha
+[03:11:38] [Server thread/INFO]: <xcave> don't want them dying in the middle of nowhere
+[03:11:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6143ms behind, skipping 122 tick(s)
+[03:11:44] [Server thread/INFO]: <tyrosinase> Well, okay.
+[03:11:47] [Server thread/INFO]: <shekibobo> well, I guess I have a little exploring to do
+[03:11:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8047ms behind, skipping 160 tick(s)
+[03:12:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5132ms behind, skipping 102 tick(s)
+[03:12:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6115ms behind, skipping 122 tick(s)
+[03:12:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9184ms behind, skipping 183 tick(s)
+[03:12:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4650ms behind, skipping 93 tick(s)
+[03:13:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7266ms behind, skipping 145 tick(s)
+[03:13:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5575ms behind, skipping 111 tick(s)
+[03:13:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7215ms behind, skipping 144 tick(s)
+[03:14:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6394ms behind, skipping 127 tick(s)
+[03:14:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5758ms behind, skipping 115 tick(s)
+[03:14:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9347ms behind, skipping 186 tick(s)
+[03:15:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4892ms behind, skipping 97 tick(s)
 [03:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[03:15:37] [Server thread/INFO]: <qrush> so now there is a rough track through the nether to the huge ice spikes at -8k, 8k.
-[03:16:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2035ms behind, skipping 40 tick(s)
-[03:16:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3636ms behind, skipping 72 tick(s)
-[03:16:39] [Server thread/INFO]: lt_waffle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[03:16:39] [Server thread/INFO]: lt_waffle left the game
-[03:16:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2809ms behind, skipping 56 tick(s)
-[03:17:10] [Server thread/INFO]: <qrush> oh geez. there's two ice spike nether portals :)
-[03:17:21] [User Authenticator #430/INFO]: UUID of player lt_waffle is 4586d5ba-8cb5-4e41-8f35-af9b197ad5aa
-[03:17:21] [Server thread/INFO]: lt_waffle[/75.72.203.28:53942] logged in with entity id 23684686 at (-259.7021143440205, 65.0, 1617.0840181209405)
-[03:17:21] [Server thread/INFO]: lt_waffle joined the game
-[03:18:27] [Server thread/WARN]: lt_waffle moved wrongly!
-[03:18:28] [User Authenticator #431/INFO]: UUID of player uxp is ac241b7b-ddbc-4e6e-b0db-7ea3eb1ef59c
-[03:18:28] [Server thread/INFO]: uxp[/67.172.238.22:60677] logged in with entity id 23691001 at (135.52361375556194, 63.0, 234.5221818275693)
-[03:18:28] [Server thread/INFO]: uxp joined the game
-[03:19:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2076ms behind, skipping 41 tick(s)
-[03:19:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5398ms behind, skipping 107 tick(s)
-[03:19:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4061ms behind, skipping 81 tick(s)
-[03:20:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3115ms behind, skipping 62 tick(s)
+[03:15:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8372ms behind, skipping 167 tick(s)
+[03:15:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8353ms behind, skipping 167 tick(s)
+[03:16:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10486ms behind, skipping 209 tick(s)
+[03:16:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5745ms behind, skipping 114 tick(s)
+[03:16:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7555ms behind, skipping 151 tick(s)
+[03:16:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5149ms behind, skipping 102 tick(s)
+[03:17:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12779ms behind, skipping 255 tick(s)
+[03:17:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3115ms behind, skipping 62 tick(s)
+[03:17:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6395ms behind, skipping 127 tick(s)
+[03:18:04] [Server thread/INFO]: <shekibobo> did someone clear out the lost city of ka'shek?
+[03:18:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8148ms behind, skipping 162 tick(s)
+[03:18:11] [Server thread/INFO]: <McPhage> no
+[03:18:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5426ms behind, skipping 108 tick(s)
+[03:18:20] [Server thread/INFO]: <shekibobo> my old hut got some upgrades
+[03:18:22] [Server thread/INFO]: <McPhage> I was there, but didn't go inside
+[03:18:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3491ms behind, skipping 69 tick(s)
+[03:18:33] [Server thread/INFO]: <McPhage> I added an ender chest at the top, but I think that's it?
+[03:18:46] [Server thread/INFO]: <tyrosinase> Which one is that?
+[03:18:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4283ms behind, skipping 85 tick(s)
+[03:18:55] [Server thread/INFO]: <ethansr> very far east
+[03:18:55] [Server thread/INFO]: <shekibobo> ok, I see a chimney/tower or something coming out of the monument
+[03:19:03] [Server thread/INFO]: <McPhage> I thinkt hat's the ender chest
+[03:19:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7098ms behind, skipping 141 tick(s)
+[03:19:09] [Server thread/INFO]: <shekibobo> 2 ocean monuments past pickaxe canyon
+[03:19:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3817ms behind, skipping 76 tick(s)
+[03:19:28] [Server thread/INFO]: <tyrosinase> Oh. I know bubba_nate was exploring one, but I don't think he was that far out. I could be wrong.
+[03:19:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5315ms behind, skipping 106 tick(s)
+[03:19:43] [Server thread/INFO]: <tyrosinase> I am lugging his sponge around because he never picked it up from the furnace.
+[03:19:49] [Server thread/INFO]: p1agu3 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:19:49] [Server thread/INFO]: p1agu3 left the game
+[03:19:55] [Server thread/INFO]: <tyrosinase> At the mesa, so maybe that *was* where he was.
+[03:20:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8993ms behind, skipping 179 tick(s)
 [03:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[03:20:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6197ms behind, skipping 123 tick(s)
-[03:20:23] [Server thread/WARN]: lt_waffle moved wrongly!
-[03:20:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3404ms behind, skipping 68 tick(s)
-[03:20:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2369ms behind, skipping 47 tick(s)
-[03:21:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3132ms behind, skipping 62 tick(s)
-[03:21:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2028ms behind, skipping 40 tick(s)
-[03:22:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6090ms behind, skipping 121 tick(s)
-[03:22:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4264ms behind, skipping 85 tick(s)
-[03:22:25] [Server thread/INFO]: <qrush> well now there's two portals to ice spikes open.
-[03:22:36] [Server thread/WARN]: lt_waffle moved wrongly!
-[03:22:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4385ms behind, skipping 87 tick(s)
-[03:22:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2741ms behind, skipping 54 tick(s)
-[03:23:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3058ms behind, skipping 61 tick(s)
-[03:23:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2027ms behind, skipping 40 tick(s)
-[03:23:58] [Server thread/INFO]: <qrush> Woo back at the city.
-[03:24:10] [Server thread/INFO]: <qrush> Need to see if i can bring a horse...
-[03:24:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2211ms behind, skipping 44 tick(s)
+[03:20:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4825ms behind, skipping 96 tick(s)
+[03:20:29] [Server thread/INFO]: patricksroberts lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:20:29] [Server thread/INFO]: patricksroberts left the game
+[03:20:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5237ms behind, skipping 104 tick(s)
+[03:20:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3389ms behind, skipping 67 tick(s)
+[03:20:49] [Server thread/INFO]: <shekibobo> well that's interesting
+[03:21:12] [Server thread/INFO]: <shekibobo> big cavern island's portal was completely encased in cobblestone
+[03:21:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7778ms behind, skipping 155 tick(s)
+[03:21:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5788ms behind, skipping 115 tick(s)
+[03:21:38] [Server thread/INFO]: <tyrosinase> Zombie pigmen spawn prevention?
+[03:21:44] [Server thread/INFO]: <shekibobo> maybe
+[03:21:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5103ms behind, skipping 102 tick(s)
+[03:21:52] [Server thread/INFO]: <shekibobo> started suffocating when I went through
+[03:22:05] [Server thread/INFO]: <tyrosinase> Or just someone being petty.
+[03:22:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5937ms behind, skipping 118 tick(s)
+[03:22:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4467ms behind, skipping 89 tick(s)
+[03:22:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7813ms behind, skipping 156 tick(s)
+[03:23:02] [Server thread/INFO]: <McPhage> never attribute to malice what could also be attributed to 8 year olds
+[03:23:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9771ms behind, skipping 195 tick(s)
+[03:23:09] [Server thread/INFO]: trinklest fell from a high place
+[03:23:15] [Server thread/INFO]: <tyrosinase> That falls under petty, I figure.
+[03:23:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6109ms behind, skipping 122 tick(s)
+[03:23:27] [Server thread/INFO]: jowdyboy was slain by Zombie
+[03:23:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5338ms behind, skipping 106 tick(s)
+[03:23:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6876ms behind, skipping 137 tick(s)
+[03:23:57] [Server thread/INFO]: turtlr lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:23:57] [Server thread/INFO]: turtlr left the game
+[03:24:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4279ms behind, skipping 85 tick(s)
+[03:24:17] [Server thread/INFO]: <bensawyer> @qrush I put a marker there
+[03:24:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3425ms behind, skipping 68 tick(s)
+[03:24:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2293ms behind, skipping 45 tick(s)
+[03:24:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4465ms behind, skipping 89 tick(s)
 [03:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[03:25:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5670ms behind, skipping 113 tick(s)
-[03:25:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4850ms behind, skipping 97 tick(s)
-[03:25:40] [Server thread/INFO]: <qrush> o/
-[03:25:44] [Server thread/INFO]: <freebsification> hey :D
-[03:25:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3880ms behind, skipping 77 tick(s)
-[03:26:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2924ms behind, skipping 58 tick(s)
-[03:26:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2712ms behind, skipping 54 tick(s)
-[03:26:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2361ms behind, skipping 47 tick(s)
-[03:27:13] [Server thread/INFO]: <qrush> this museum is awesome
-[03:28:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2223ms behind, skipping 44 tick(s)
-[03:28:02] [Server thread/INFO]: <freebsification> where is the museum?
-[03:28:17] [Server thread/INFO]: <qrush> southeast of city hall.
-[03:28:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4752ms behind, skipping 95 tick(s)
-[03:28:28] [Server thread/INFO]: jrmehle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[03:28:28] [Server thread/INFO]: jrmehle left the game
-[03:28:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3883ms behind, skipping 77 tick(s)
-[03:28:48] [Server thread/INFO]: turtlr lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[03:28:48] [Server thread/INFO]: turtlr left the game
-[03:28:48] [Server thread/INFO]: <freebsification> thanks I'll have to check it out :)
-[03:28:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3309ms behind, skipping 66 tick(s)
-[03:29:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2542ms behind, skipping 50 tick(s)
-[03:29:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2602ms behind, skipping 52 tick(s)
-[03:29:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2195ms behind, skipping 43 tick(s)
+[03:25:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2981ms behind, skipping 59 tick(s)
+[03:25:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3059ms behind, skipping 61 tick(s)
+[03:25:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7349ms behind, skipping 146 tick(s)
+[03:25:56] [Server thread/INFO]: <bensawyer> @qrush should I build a portal?
+[03:26:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2894ms behind, skipping 57 tick(s)
+[03:26:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3573ms behind, skipping 71 tick(s)
+[03:26:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6952ms behind, skipping 139 tick(s)
+[03:26:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4081ms behind, skipping 81 tick(s)
+[03:27:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5166ms behind, skipping 103 tick(s)
+[03:27:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7120ms behind, skipping 142 tick(s)
+[03:27:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2847ms behind, skipping 56 tick(s)
+[03:28:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3347ms behind, skipping 66 tick(s)
+[03:28:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15156ms behind, skipping 303 tick(s)
+[03:28:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2736ms behind, skipping 54 tick(s)
+[03:29:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5293ms behind, skipping 105 tick(s)
+[03:29:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8430ms behind, skipping 168 tick(s)
+[03:29:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4163ms behind, skipping 83 tick(s)
+[03:29:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7720ms behind, skipping 154 tick(s)
 [03:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[03:31:18] [Server thread/INFO]: phr3n3tic lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[03:31:18] [Server thread/INFO]: phr3n3tic left the game
-[03:31:39] [Server thread/INFO]: lt_waffle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[03:31:39] [Server thread/INFO]: lt_waffle left the game
-[03:32:44] [Server thread/INFO]: <freebsification> cats just absolutely love the sharp corners on macbooks
-[03:32:54] [Server thread/INFO]: <jeremiahfelt> ./face
-[03:32:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2340ms behind, skipping 46 tick(s)
-[03:33:22] [User Authenticator #432/INFO]: UUID of player lt_waffle is 4586d5ba-8cb5-4e41-8f35-af9b197ad5aa
-[03:33:22] [Server thread/INFO]: lt_waffle[/75.72.203.28:53982] logged in with entity id 23849163 at (46.42995555905261, 72.0, 1710.4538328909605)
-[03:33:22] [Server thread/INFO]: lt_waffle joined the game
-[03:33:22] [Server thread/INFO]: <freebsification> :P
-[03:33:37] [Server thread/INFO]: kokopelli_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[03:33:37] [Server thread/INFO]: kokopelli_ left the game
-[03:33:48] [Server thread/INFO]: <qrush> If anyone wants to see an ice shard biome i will be headed back there
+[03:30:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6852ms behind, skipping 137 tick(s)
+[03:30:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12371ms behind, skipping 247 tick(s)
+[03:30:37] [Server thread/INFO]: <jowdyboy> I'm getting real sick of my boats glitching out in the middle of the
+[03:30:38] [Server thread/INFO]: <jowdyboy> ocean.
+[03:30:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4297ms behind, skipping 85 tick(s)
+[03:30:51] [Server thread/INFO]: <tyrosinase> Yeah, there's really too many people on tonight to be in a boat. Sadly.
+[03:31:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9353ms behind, skipping 187 tick(s)
+[03:31:04] [Server thread/INFO]: <tyrosinase> I was having some hiccups just riding a minecart.
+[03:31:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7169ms behind, skipping 143 tick(s)
+[03:31:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10187ms behind, skipping 203 tick(s)
+[03:31:53] [Server thread/INFO]: lt_waffle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:31:53] [Server thread/INFO]: lt_waffle left the game
+[03:31:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3901ms behind, skipping 78 tick(s)
+[03:32:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4293ms behind, skipping 85 tick(s)
+[03:32:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6574ms behind, skipping 131 tick(s)
+[03:32:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3101ms behind, skipping 62 tick(s)
+[03:32:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3652ms behind, skipping 73 tick(s)
+[03:33:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5683ms behind, skipping 113 tick(s)
+[03:33:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7052ms behind, skipping 141 tick(s)
+[03:33:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4296ms behind, skipping 85 tick(s)
+[03:34:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4847ms behind, skipping 96 tick(s)
+[03:34:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6889ms behind, skipping 137 tick(s)
+[03:34:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3546ms behind, skipping 70 tick(s)
+[03:34:44] [Server thread/INFO]: <tyrosinase> So I begin to think pigmen can spawn on cart rails.
+[03:34:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4486ms behind, skipping 89 tick(s)
 [03:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[03:35:17] [Server thread/INFO]: <qrush> looks like the chickens flew the coop
-[03:36:07] [Server thread/INFO]: aquaranto lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[03:36:07] [Server thread/INFO]: aquaranto left the game
-[03:37:42] [Server thread/INFO]: <jeremiahfelt> Is there any way I could get a teleport out of where I am?
-[03:37:49] [Server thread/INFO]: <qrush> yes
-[03:37:51] [Server thread/INFO]: <jeremiahfelt> Please.
-[03:37:57] [Server thread/INFO]: [qrush: Teleported jeremiahfelt to qrush]
-[03:38:01] [Server thread/INFO]: <jeremiahfelt> Thank you.
-[03:38:07] [Server thread/INFO]: <jeremiahfelt> I had no idea where I was.
-[03:38:08] [Server thread/INFO]: <qrush> you get one :P
-[03:38:28] [Server thread/INFO]: <jeremiahfelt> I was caving and fell in this wonderful pit. Managed to land in water, but there was literally NO..
-[03:38:30] [Server thread/INFO]: <jeremiahfelt> way up or out.
-[03:38:58] [Server thread/INFO]: <qrush> once again anyone for ice shard biome?
-[03:39:18] [Server thread/INFO]: <p1agu3> To be teleported to it?
-[03:39:32] [Server thread/INFO]: <jeremiahfelt> I think he said there was a netherportal.
-[03:39:33] [Server thread/INFO]: <qrush> Nope, need to hoof if 1km through the nether :)
-[03:39:47] [Server thread/INFO]: <p1agu3> ah, np np. I understand
-[03:39:47] [Server thread/INFO]: <jeremiahfelt> We should set up a rail line there.
+[03:35:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11168ms behind, skipping 223 tick(s)
+[03:35:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6462ms behind, skipping 129 tick(s)
+[03:35:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10533ms behind, skipping 210 tick(s)
+[03:36:01] [Server thread/WARN]: jowdyboy moved wrongly!
+[03:36:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11642ms behind, skipping 232 tick(s)
+[03:36:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11320ms behind, skipping 226 tick(s)
+[03:36:50] [Server thread/INFO]: kokopelli_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:36:50] [Server thread/INFO]: kokopelli_ left the game
+[03:36:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5173ms behind, skipping 103 tick(s)
+[03:37:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3544ms behind, skipping 70 tick(s)
+[03:37:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7189ms behind, skipping 143 tick(s)
+[03:37:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2177ms behind, skipping 43 tick(s)
+[03:37:45] [Server thread/INFO]: xcave lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:37:45] [Server thread/INFO]: xcave left the game
+[03:39:31] [Server thread/INFO]: <shekibobo> so how do you exit a pyramid after you opened it?
+[03:39:42] [Server thread/INFO]: <bensawyer> dig up
+[03:39:49] [Server thread/INFO]: <bensawyer> did you get the TNT?
+[03:39:56] [Server thread/WARN]: shekibobo moved wrongly!
 [03:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[03:40:16] [Server thread/INFO]: <qrush> There is, almost
-[03:40:21] [Server thread/INFO]: <qrush> it's halfway built.
-[03:40:25] [Server thread/INFO]: <jeremiahfelt> What more do we need?
-[03:40:33] [Server thread/INFO]: <qrush> because it goes to the nether fortress.
-[03:40:45] [Server thread/INFO]: <qrush> i have ~2 stacks of iron back at my base at the spikes.
-[03:40:51] [Server thread/INFO]: <qrush> and i found a mineshaft with a ton of rail too.
-[03:40:58] [Server thread/INFO]: <qrush> and lots of gold.
-[03:41:08] [Server thread/INFO]: <jeremiahfelt> I have four stacks of rails. Need some gold to make powered rails, but we can lay that out.
-[03:41:15] [Server thread/INFO]: <qrush> Sure.
-[03:41:31] [Server thread/INFO]: <qrush> You can have your pick of gold or iron horse armor if you tag along
-[03:41:51] [Server thread/INFO]: <jeremiahfelt> I respectfully decline, as I already have one of each. :-)
-[03:42:00] [Server thread/INFO]: <xcave> jaja
-[03:42:11] [Server thread/INFO]: <xcave> I'd go, but I have 3 floors of glass pane to put up
-[03:42:19] [Server thread/INFO]: <xcave> and then sleep
-[03:42:27] [Server thread/INFO]: <qrush> Yeah. city hall still needs glass.
-[03:42:37] [Server thread/INFO]: <xcave> blocks or panes?
-[03:42:47] [Server thread/INFO]: <qrush> been doing mostly white frosted.
-[03:43:17] [Server thread/INFO]: <xcave> I'm just doing clear on my building
-[03:43:22] [Server thread/INFO]: <xcave> what do I need for white frosted?
-[03:43:23] [Server thread/INFO]: <qrush> cool
-[03:43:27] [Server thread/INFO]: lt_waffle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[03:43:27] [Server thread/INFO]: lt_waffle left the game
-[03:43:27] [Server thread/INFO]: p1agu3 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[03:43:27] [Server thread/INFO]: p1agu3 left the game
-[03:43:27] [Server thread/INFO]: <qrush> Bonemeal iirc
-[03:44:27] [Server thread/INFO]: <jeremiahfelt> Got my rail, got redstone, got wood; do we need anything else in The Nether?
-[03:44:45] [Server thread/INFO]: <qrush> For the rail to the ice spikes?
-[03:44:50] [Server thread/INFO]: <jeremiahfelt> Sure.
-[03:44:59] [Server thread/INFO]: <qrush> nothing i know of
-[03:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[03:45:17] [Server thread/INFO]: <qrush> horses do come in the nether ! :)
-[03:45:31] [Server thread/INFO]: <qrush> you headed this way?
-[03:45:42] [Server thread/WARN]: jeremiahfelt moved wrongly!
-[03:45:59] [Server thread/INFO]: <jeremiahfelt> Toward city hall, yeah.
-[03:46:37] [Server thread/INFO]: <jeremiahfelt> Start at the Nether Portal in front of city hall?
-[03:47:01] [Server thread/INFO]: <qrush> hey
-[03:47:15] [Server thread/INFO]: <qrush> rt
-[03:47:24] [Server thread/INFO]: <qrush> no lets go to the start
-[03:47:29] [RCON Listener #1/INFO]: Rcon connection from: /54.167.250.94
-[03:48:06] [Server thread/INFO]: <qrush> sure you dont want to get a ride??
-[03:49:03] [Server thread/INFO]: <qrush> so the railway is this way.
-[03:49:54] [Server thread/INFO]: <qrush> whered you go?
+[03:40:11] [Server thread/INFO]: <shekibobo> yeah
+[03:40:22] [Server thread/INFO]: <bensawyer> dig up basically
+[03:40:25] [Server thread/INFO]: <shekibobo> I seem to be trapped
+[03:40:33] [Server thread/INFO]: <shekibobo> I got out of the room
+[03:40:44] [Server thread/INFO]: <shekibobo> I can't go past a certain point
+[03:40:47] [Server thread/WARN]: shekibobo moved wrongly!
+[03:40:50] [Server thread/INFO]: <tyrosinase> Relog?
+[03:40:52] [Server thread/INFO]: <bensawyer> weird...
+[03:40:54] [Server thread/INFO]: shekibobo lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:40:54] [Server thread/INFO]: shekibobo left the game
+[03:40:55] [Server thread/INFO]: <bensawyer> I just dig out
+[03:40:57] [User Authenticator #27/INFO]: UUID of player shekibobo is 347bf42b-3684-4d39-ade0-9bb464f03d44
+[03:40:57] [Server thread/INFO]: shekibobo[/99.62.253.97:58931] logged in with entity id 733405 at (4285.418839203186, 66.0, 1220.699999988079)
+[03:40:57] [Server thread/INFO]: shekibobo joined the game
+[03:41:07] [Server thread/INFO]: <shekibobo> ahh, invisible sandstone
+[03:41:18] [Server thread/INFO]: trinklest was blown up by Creeper
+[03:41:25] [Server thread/INFO]: <McPhage> :-(
+[03:41:28] [Server thread/INFO]: jowdyboy lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:41:28] [Server thread/INFO]: jowdyboy left the game
+[03:41:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2733ms behind, skipping 54 tick(s)
+[03:42:30] [Server thread/INFO]: <shekibobo> ahh, that's clever design
+[03:42:39] [Server thread/INFO]: <shekibobo> false exits
+[03:44:49] [Server thread/INFO]: trinklest lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:44:49] [Server thread/INFO]: trinklest left the game
+[03:45:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2265ms behind, skipping 45 tick(s)
+[03:45:02] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[03:45:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2840ms behind, skipping 56 tick(s)
 [03:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[03:50:16] [Server thread/INFO]: <jeremiahfelt> Does it make you nervous thinking about all the lava above you?
-[03:50:25] [Server thread/INFO]: <qrush> no, i've played too much dwarf fortress
-[03:50:39] [Server thread/INFO]: <qrush> i think we could build the rail way out to the netherhood.
-[03:51:07] [Server thread/INFO]: <qrush> it definitely starts in that tunenl
-[03:51:16] [Server thread/INFO]: <qrush> so we could link it up using the existing pathway
-[03:51:23] [Server thread/INFO]: <jeremiahfelt> Where is that?
-[03:51:30] [Server thread/INFO]: <qrush> the start?
-[03:51:34] [Server thread/INFO]: <jeremiahfelt> The existing pathway.
-[03:51:41] [Server thread/INFO]: <qrush> we are on the existing pathway.
-[03:51:49] [Server thread/INFO]: <qrush> this is a huge tunnel that goes to a netherfort.
-[03:51:52] [Server thread/INFO]: <jeremiahfelt> Ah, so the sidewalk here; not an other rail spur.
-[03:52:12] [Server thread/INFO]: <jeremiahfelt> Do you want to start down here, or up, above the stairs?
-[03:52:35] [Server thread/INFO]: <qrush> probably going back as close as possible to the netherhood would be best
-[03:53:19] [User Authenticator #433/INFO]: UUID of player McPhage is a3f11e73-45e1-4de2-801d-e2c6ea1dc19e
-[03:53:19] [Server thread/INFO]: McPhage[/108.17.7.116:60940] logged in with entity id 24047613 at (-685.5993989930106, 60.0, -363.8301260557919)
-[03:53:19] [Server thread/INFO]: McPhage joined the game
-[03:53:28] [Server thread/INFO]: <qrush> hey
-[03:53:31] [Server thread/INFO]: <McPhage> hey
-[03:53:42] [Server thread/INFO]: <qrush> up for a wither? :O
-[03:53:43] [Server thread/INFO]: <McPhage> what's up?
-[03:53:50] [Server thread/INFO]: <McPhage> Um... yeah, sure.
-[03:53:53] [Server thread/INFO]: <qrush> Found another ice spikes way out at -8k,8k
-[03:54:00] [Server thread/INFO]: <McPhage> Where did you want to do it?
-[03:54:04] [Server thread/INFO]: <qrush> just linked up the nether to it.
-[03:54:15] [Server thread/INFO]: <qrush> (roughly)
-[03:54:55] [Server thread/INFO]: <qrush> where do you think would work best?
+[03:53:32] [Server thread/INFO]: <shekibobo> who messed up sandstone village?
+[03:53:45] [Server thread/INFO]: <tyrosinase> Sandstone village?
+[03:53:55] [Server thread/INFO]: <shekibobo> out east
+[03:54:10] [Server thread/INFO]: <tyrosinase> I don't think I've been there.
+[03:54:18] [Server thread/INFO]: <shekibobo> someone mined all the sand so the village floor is about two blocks below all the doors
+[03:54:23] [Server thread/INFO]: <tyrosinase> Nice.
+[03:54:24] [Server thread/INFO]: <shekibobo> stranding the villagers on the ground
+[03:54:41] [Server thread/INFO]: <shekibobo> this place used to be a nice cozy village
 [03:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[03:55:01] [Server thread/INFO]: <McPhage> Maybe like a desert somewhere?
-[03:55:22] [Server thread/INFO]: <McPhage> Or a very flat place, at any rate.
-[03:56:02] [Server thread/WARN]: uxp moved wrongly!
-[03:56:53] [Server thread/INFO]: <qrush> Hm.
-[03:57:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2181ms behind, skipping 43 tick(s)
-[03:57:35] [Server thread/INFO]: <qrush> Well there's lots of flat stuff out near my new portal.
-[03:57:47] [Server thread/INFO]: <McPhage> Did you build a bed out there?
-[03:57:51] [Server thread/INFO]: <qrush> Nope.
-[03:57:54] [Server thread/INFO]: <McPhage> Or an ender chest?
-[03:57:55] [Server thread/INFO]: <McPhage> Ok
-[03:58:00] [Server thread/INFO]: <McPhage> I'll bring stuff.
-[03:58:09] [Server thread/INFO]: <qrush> but where we killed it last time was good too
-[03:59:10] [Server thread/INFO]: <qrush> we could also try the bedrock approach
-[03:59:23] [Server thread/INFO]: <McPhage> Down at the bedrock? Or roof of nether?
+[03:55:17] [Server thread/INFO]: <shekibobo> can't even get to the gardens
+[03:55:19] [Server thread/INFO]: <shekibobo> wtf
+[03:56:10] [Server thread/INFO]: <tyrosinase> I kind of miss some of the admin tools in Essentials et al.
+[03:56:35] [Server thread/INFO]: <tyrosinase> Yep, /seen (which tells you the last place someone was when they logged off, which is often the last
+[03:56:47] [Server thread/INFO]: <tyrosinase> place they griefed), the ability to invisibly follow people, etc.
+[03:57:03] [Server thread/INFO]: <tyrosinase> Hmm, I wonder if spectator mode works for that. I haven't messed with that.
+[03:58:10] [User Authenticator #28/INFO]: UUID of player xcasio is e822ff77-e4a1-45ae-b564-6067ab089744
+[03:58:10] [Server thread/INFO]: xcasio[/90.194.244.89:50401] logged in with entity id 894772 at (-37.949999988079064, 71.0, 207.4113729001852)
+[03:58:10] [Server thread/INFO]: xcasio joined the game
+[03:59:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2296ms behind, skipping 45 tick(s)
 [04:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[04:00:11] [Server thread/INFO]: <qrush> http://minecraft.gamepedia.com/Tutorials/Wither_farming
-[04:00:11] [Server thread/INFO]: <McPhage> How about the place from before? It's not 1k nether walk away
-[04:00:18] [Server thread/INFO]: <qrush> Check out method #4
-[04:00:43] [Server thread/INFO]: <qrush> oh man. Rig a tunnel with TNT.
-[04:01:56] [Server thread/INFO]: <qrush> Method #5 is good too
-[04:03:16] [Server thread/INFO]: freebsification lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[04:03:16] [Server thread/INFO]: freebsification left the game
-[04:03:39] [Server thread/INFO]: <McPhage> meet me at the arena site
-[04:04:05] [Server thread/INFO]: <qrush> where are you now?
-[04:04:09] [Server thread/INFO]: <McPhage> on my way
-[04:04:14] [Server thread/INFO]: <qrush> nether?
-[04:04:16] [Server thread/INFO]: <McPhage> yeah
+[04:01:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3531ms behind, skipping 70 tick(s)
+[04:01:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4131ms behind, skipping 82 tick(s)
+[04:02:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2780ms behind, skipping 55 tick(s)
+[04:02:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4393ms behind, skipping 87 tick(s)
+[04:02:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2194ms behind, skipping 43 tick(s)
+[04:03:41] [Server thread/INFO]: McPhage has just earned the achievement [Adventuring Time]
+[04:03:53] [Server thread/INFO]: <McPhage> Yay!
+[04:03:58] [Server thread/INFO]: <tyrosinase> Woo hoo!
+[04:04:23] [Server thread/INFO]: <McPhage> That was my last achievement!
+[04:04:51] [RCON Listener #1/INFO]: Rcon connection from: /54.197.96.9
+[04:04:54] [Server thread/INFO]: <tyrosinase> Gave up and created a golem the hard way on the mesa. And that's it for me for the weekend.
 [04:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[04:05:11] [Server thread/INFO]: <qrush> thats to the south right?
-[04:05:22] [Server thread/INFO]: <McPhage> Towards the end & villages
-[04:05:46] [User Authenticator #434/INFO]: UUID of player shekibobo is 347bf42b-3684-4d39-ade0-9bb464f03d44
-[04:05:46] [Server thread/INFO]: shekibobo[/99.62.253.97:60757] logged in with entity id 24158450 at (6285.183423776905, 67.0, 1541.698022507661)
-[04:05:46] [Server thread/INFO]: shekibobo joined the game
-[04:05:53] [Server thread/INFO]: <jeremiahfelt> Need gold for powered rails.
-[04:05:56] [User Authenticator #435/INFO]: UUID of player freebsification is 3fb3a5eb-f397-4905-b71e-42484b1a21d7
-[04:05:56] [Server thread/INFO]: freebsification[/65.27.101.164:50826] logged in with entity id 24159293 at (-146.42726431326244, 70.0, 255.8660833441705)
-[04:05:56] [Server thread/INFO]: freebsification joined the game
-[04:06:23] [Server thread/INFO]: xcave lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[04:06:23] [Server thread/INFO]: xcave left the game
-[04:06:32] [Server thread/INFO]: <qrush> is it towards the canyon?
-[04:07:36] [Server thread/INFO]: <qrush> got it
-[04:08:40] [Server thread/INFO]: <McPhage> spare armor for when I inevitably fuck up
-[04:09:19] [Server thread/INFO]: <qrush> any opinions on these methods?
+[04:05:04] [Server thread/INFO]: <McPhage> g'nite
+[04:05:08] [Server thread/INFO]: tyrosinase lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[04:05:08] [Server thread/INFO]: tyrosinase left the game
+[04:05:31] [Server thread/INFO]: <McPhage> xcave: it was Adventuring Time
+[04:05:46] [Server thread/INFO]: <McPhage> The go-to-all-the-biomes one
+[04:05:56] [RCON Listener #1/INFO]: Rcon connection from: /54.197.96.9
+[04:06:52] [Server thread/INFO]: <McPhage> a bat flying outside?
+[04:06:54] [Server thread/INFO]: phr3n3tic lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[04:06:54] [Server thread/INFO]: phr3n3tic left the game
+[04:06:58] [Server thread/INFO]: <McPhage> huh
+[04:07:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5100ms behind, skipping 102 tick(s)
+[04:08:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6170ms behind, skipping 123 tick(s)
+[04:08:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4465ms behind, skipping 89 tick(s)
+[04:08:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2885ms behind, skipping 57 tick(s)
+[04:08:38] [Server thread/INFO]: <bensawyer> sheki? can you tell me the coords for the portal near the northern ice biome?
 [04:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[04:10:21] [Server thread/INFO]: <McPhage> I was going to try the "hit it until it dies" method, but.
-[04:10:25] [Server thread/INFO]: <McPhage> Do you have milk?
-[04:10:29] [Server thread/INFO]: <qrush> no
-[04:11:20] [Server thread/INFO]: <qrush> got a diamond in there?
-[04:11:25] [Server thread/INFO]: <McPhage> Yeah
-[04:11:28] [Server thread/INFO]: <qrush> hit me
-[04:11:33] [Server thread/INFO]: <McPhage> How many?
-[04:11:35] [Server thread/INFO]: <qrush> just one
-[04:11:59] [Server thread/INFO]: qrush has just earned the achievement [Enchanter]
-[04:12:12] [Server thread/INFO]: jeremiahfelt lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[04:12:12] [Server thread/INFO]: jeremiahfelt left the game
-[04:14:14] [Server thread/INFO]: <McPhage> brb, let me plug in
+[04:10:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3113ms behind, skipping 62 tick(s)
+[04:10:19] [Server thread/INFO]: xcasio lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[04:10:19] [Server thread/INFO]: xcasio left the game
+[04:11:50] [RCON Listener #1/INFO]: Rcon connection from: /54.197.96.9
+[04:12:15] [Server thread/INFO]: <McPhage> it was over the ocean at a shoreline. But yeah, probably a cave nearby
 [04:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[04:16:14] [Server thread/INFO]: <McPhage> thanks
-[04:16:19] [Server thread/INFO]: <qrush> i have the command to kill the wither if it gets out of hand.
-[04:16:26] [Server thread/INFO]: <qrush> i think we should move to the desert though.
-[04:16:34] [Server thread/INFO]: <McPhage> It's sunset, take a nap, and we'll start at dawn?
-[04:16:37] [Server thread/INFO]: freebsification lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[04:16:37] [Server thread/INFO]: freebsification left the game
-[04:16:48] [Server thread/INFO]: <qrush> can't with everyone on
-[04:16:56] [Server thread/INFO]: <McPhage> can't what?
-[04:17:03] [Server thread/INFO]: <qrush> need to have everyone sleep.
-[04:17:13] [Server thread/INFO]: <qrush> lets go north to the desert
-[04:17:24] [Server thread/INFO]: <McPhage> Oh, you can still sleep in the bed. It won't advance time, but it will have you start here if you d
-[04:17:27] [Server thread/INFO]: <McPhage> die
-[04:17:48] [Server thread/INFO]: <McPhage> which way do you want to go?
-[04:17:52] [Server thread/INFO]: <qrush> i can't get out of bed.
-[04:17:57] [Server thread/INFO]: qrush lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[04:17:57] [Server thread/INFO]: qrush left the game
-[04:17:59] [Server thread/INFO]: <McPhage> hit "leave the bed"
-[04:18:49] [User Authenticator #436/INFO]: UUID of player qrush is 806ecb0a-663b-4783-850b-87dcb53ffb04
-[04:18:49] [Server thread/INFO]: qrush[/69.204.121.154:41406] logged in with entity id 24238341 at (-1625.5, 79.02159847259522, 2527.5)
-[04:18:49] [Server thread/INFO]: qrush joined the game
-[04:19:09] [Server thread/INFO]: <qrush> lets go north to the desert.
-[04:19:17] [Server thread/INFO]: <McPhage> okay, you lead
-[04:19:22] [Server thread/INFO]: <qrush> if we both die i'll just server murder it :)
+[04:18:22] [Server thread/INFO]: <bensawyer> anyone in the nether?
+[04:18:39] [Server thread/INFO]: <McPhage> I could be quickly, why?
+[04:18:52] [Server thread/INFO]: <bensawyer> I need coords for those portals like Farmville etc.
+[04:19:04] [Server thread/INFO]: <McPhage> What's farmville?
+[04:19:05] [Server thread/INFO]: <bensawyer> basically I'm way out and need to figure out how to hook this up
+[04:19:13] [Server thread/INFO]: <bensawyer> it's the portals beyond the mesa portal
+[04:19:27] [Server thread/INFO]: <McPhage> Oh, that's nowhere near me; I'm near the sheep
+[04:19:43] [Server thread/INFO]: ethansr lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[04:19:43] [Server thread/INFO]: ethansr left the game
 [04:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[04:21:14] [Server thread/INFO]: <qrush> ooh a temple
-[04:21:27] [Server thread/INFO]: <McPhage> how about here?
-[04:21:28] [Server thread/INFO]: <qrush> have you been down here?
-[04:21:32] [Server thread/INFO]: <McPhage> not yet
-[04:22:06] [Server thread/INFO]: <qrush> trap disabled
-[04:22:14] [Server thread/INFO]: <qrush> ooooh!!!! diamond horse armor
-[04:22:29] [Server thread/INFO]: <qrush> a bunch of gold and a diamond for you.
-[04:22:37] [Server thread/INFO]: <McPhage> anything good? Oh, nice. Keep it.
-[04:23:51] [Server thread/INFO]: <qrush> wait until sunrise
-[04:23:59] [Server thread/INFO]: <McPhage> aye
-[04:24:13] [Server thread/INFO]: <McPhage> what about the other building?
-[04:24:26] [Server thread/INFO]: <qrush> Building?
-[04:24:36] [Server thread/INFO]: <qrush> Wow this is a huge mountain over here...
 [04:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[04:25:10] [Server thread/INFO]: <qrush> eat your apple!
-[04:25:16] [Server thread/INFO]: <qrush> gogogo then
-[04:25:36] [Server thread/INFO]: <McPhage> r2g?
-[04:25:47] [Server thread/INFO]: <qrush> yep
-[04:26:28] [Server thread/INFO]: <uxp> wt
-[04:28:20] [Server thread/INFO]: qrush was slain by Wither
-[04:28:25] [Server thread/INFO]: [qrush: Teleported qrush to McPhage]
-[04:28:35] [Server thread/INFO]: McPhage has just earned the achievement [The Beginning.]
-[04:28:43] [Server thread/INFO]: <McPhage> bam
-[04:28:49] [Server thread/INFO]: <qrush> damn.
-[04:28:52] [Server thread/INFO]: <shekibobo> nice
-[04:28:54] [Server thread/INFO]: <qrush> thanks for DPS :P
-[04:28:56] [Server thread/INFO]: <McPhage> np
-[04:29:00] [Server thread/INFO]: <qrush> i'm a tank!
-[04:29:04] [Server thread/INFO]: <McPhage> thanks for distracting it :-)
-[04:29:18] [Server thread/INFO]: <McPhage> Score one for Strange Aeons
-[04:29:44] [Server thread/INFO]: <McPhage> Not much XP for that, though
-[04:29:47] [Server thread/INFO]: <McPhage> If any
-[04:29:56] [Server thread/INFO]: <qrush> lost my boots somehow
 [04:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[04:30:15] [Server thread/INFO]: <McPhage> I don't have them, sorry :-(
-[04:30:23] [Server thread/INFO]: <McPhage> But if they were enchanted, help yourself to my library
-[04:30:31] [Server thread/INFO]: <qrush> allll the sand
-[04:32:03] [Server thread/INFO]: <qrush> that crazy spire near here is really cool looking
-[04:32:12] [Server thread/INFO]: <McPhage> Yeah, it is :-) I wonder how tall?
-[04:32:33] [Server thread/INFO]: <qrush> 8 stacks of sand
-[04:33:46] [Server thread/INFO]: <McPhage> plus a tunnel through part way up.
-[04:33:58] [Server thread/INFO]: <qrush> Eh?
-[04:34:40] [Server thread/INFO]: <McPhage> Y=142
-[04:34:47] [Server thread/INFO]: <qrush> oh you went there
-[04:34:48] [Server thread/INFO]: <qrush> Wow.
+[04:32:17] [Server thread/INFO]: <shekibobo> farmville: 6270/67/1560
+[04:32:24] [Server thread/INFO]: <shekibobo> 1550
+[04:32:34] [Server thread/INFO]: <McPhage> night all
+[04:32:39] [Server thread/INFO]: McPhage lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[04:32:39] [Server thread/INFO]: McPhage left the game
 [04:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[04:35:57] [Server thread/INFO]: <qrush> mind if i nab a blaze powder?
-[04:36:04] [Server thread/INFO]: <McPhage> Take all you want
-[04:36:08] [Server thread/INFO]: <McPhage> I've got stacks
-[04:37:43] [Server thread/INFO]: <McPhage> that went pretty well. We only lost your boots?
-[04:37:56] [Server thread/INFO]: <qrush> yep, just made a new pair
-[04:38:12] [Server thread/INFO]: <qrush> i think i'd like to figure out silk touch so i can go farm out some ice or a monument.
-[04:38:30] [Server thread/INFO]: <McPhage> Someone in the spawn village sells it. 10 emeralds I think?
-[04:38:45] [Server thread/INFO]: <McPhage> And then you use an anvil to put it on a pickaxe.
-[04:39:01] [Server thread/INFO]: <McPhage> Put it on a diamond one, preferably with unbreaking 3.
-[04:39:11] [Server thread/INFO]: <McPhage> Make sure it doesn't have Fortune on it, tho'
 [04:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[04:40:27] [Server thread/INFO]: <qrush> gonna go check out the mesa village
-[04:40:33] [Server thread/INFO]: <McPhage> kk
-[04:40:39] [Server thread/INFO]: <qrush> all western!
-[04:41:00] [Server thread/INFO]: <McPhage> I ended up with a book of sharpness 1, is it yours?
-[04:41:07] [Server thread/INFO]: <qrush> yeah no worries
-[04:42:09] [Server thread/INFO]: <qrush> oh wow.
-[04:42:30] [Server thread/INFO]: <McPhage> hmm?
-[04:42:40] [Server thread/INFO]: <qrush> the western village looks awesome.
-[04:42:49] [Server thread/INFO]: <McPhage> where is it?
-[04:42:54] [Server thread/INFO]: <qrush> at the mesa
 [04:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[04:45:37] [Server thread/INFO]: <McPhage> oh, nice
-[04:46:21] [Server thread/INFO]: <McPhage> Is there an ender chest here? I forgot to stash the nether star
-[04:46:25] [Server thread/INFO]: <qrush> Yeah
-[04:46:35] [Server thread/INFO]: <McPhage> found it
-[04:49:11] [Server thread/INFO]: uxp lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[04:49:11] [Server thread/INFO]: uxp left the game
 [04:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [04:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [05:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[05:02:35] [User Authenticator #29/INFO]: UUID of player CobyR is e931627c-d0f1-44bd-99d8-e7e6e9128859
+[05:02:35] [Server thread/INFO]: CobyR[/208.100.161.128:54698] logged in with entity id 1109434 at (1730.300000011921, 13.0, 4116.699999988081)
+[05:02:35] [Server thread/INFO]: CobyR joined the game
 [05:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[05:09:29] [User Authenticator #437/INFO]: UUID of player CobyR is e931627c-d0f1-44bd-99d8-e7e6e9128859
-[05:09:30] [Server thread/INFO]: CobyR[/208.100.161.128:62856] logged in with entity id 24498058 at (-1076.2429671816044, 50.0, -254.47713520305112)
-[05:09:30] [Server thread/INFO]: CobyR joined the game
+[05:08:50] [Server thread/INFO]: shekibobo lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[05:08:50] [Server thread/INFO]: shekibobo left the game
+[05:08:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@4e34f9da[id=<null>,name=shekibobo,properties={},legacy=false] (/99.62.253.97:61759) lost connection: Disconnected
+[05:08:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@30c764b8[id=<null>,name=shekibobo,properties={},legacy=false] (/99.62.253.97:61763) lost connection: Disconnected
+[05:09:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@5ff34cce[id=<null>,name=shekibobo,properties={},legacy=false] (/99.62.253.97:61766) lost connection: Disconnected
+[05:09:41] [User Authenticator #30/INFO]: UUID of player shekibobo is 347bf42b-3684-4d39-ade0-9bb464f03d44
+[05:09:41] [Server thread/INFO]: shekibobo[/99.62.253.97:61796] logged in with entity id 1119738 at (6276.002713407715, 68.8500000178814, 1533.8597705209581)
+[05:09:41] [Server thread/INFO]: shekibobo joined the game
+[05:09:59] [Server thread/INFO]: <shekibobo> if I log out while riding a horse, does the horse log out with me?
 [05:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[05:14:35] [Server thread/INFO]: shekibobo lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[05:14:35] [Server thread/INFO]: shekibobo left the game
 [05:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[05:16:15] [Server thread/INFO]: <qrush> Dang. protection IV book at the western/mesa village
-[05:16:19] [Server thread/INFO]: <qrush> we need a better name for this
-[05:16:41] [User Authenticator #438/INFO]: UUID of player mtodd is d28741bf-b875-42a1-9083-08c78e5c2612
-[05:16:41] [Server thread/INFO]: mtodd[/76.14.58.13:32830] logged in with entity id 24538616 at (-99.53841280590257, 70.875, 242.06181500737668)
-[05:16:41] [Server thread/INFO]: mtodd joined the game
-[05:16:52] [Server thread/INFO]: <McPhage> It's really expensive tho'
+[05:16:10] [Server thread/INFO]: <bensawyer> anyone know the coords for spawn in nether?
+[05:16:37] [Server thread/INFO]: <bensawyer> nice I found another portal
 [05:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[05:20:55] [Server thread/INFO]: <McPhage> Um.
-[05:21:11] [Server thread/INFO]: <qrush> ?
-[05:21:19] [Server thread/INFO]: <McPhage> So, like... these spiraling stairs are a problem if we want a bigger beacon
-[05:21:27] [Server thread/INFO]: <qrush> why
-[05:21:40] [Server thread/INFO]: <qrush> theres space between the stairs
-[05:21:51] [Server thread/INFO]: <McPhage> For one light, not 6.
-[05:22:04] [Server thread/INFO]: <qrush> you can do it horizontally
-[05:22:22] [Server thread/INFO]: <qrush> i believe the space is aligned east/west
-[05:23:04] [Server thread/INFO]: <McPhage> Well, we'll still need bigger. But I think I'll deal with this next weekend.
-[05:23:05] [Server thread/INFO]: mtodd lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[05:23:05] [Server thread/INFO]: mtodd left the game
-[05:23:48] [Server thread/INFO]: McPhage has just earned the achievement [Beaconator]
-[05:23:54] [Server thread/INFO]: <qrush> lol
-[05:24:54] [Server thread/INFO]: <McPhage> I put the beacon and the required ingredients to expand the one beacon -> 2 down
+[05:21:31] [Server thread/INFO]: <bensawyer> ok it'll take a while but I left bread crumbs and a trail to a village close to 10k, 10k
 [05:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[05:25:09] [Server thread/INFO]: <McPhage> But it's on the wrong side. Either I'll fix it next weekend, or someone else can.
-[05:25:26] [Server thread/INFO]: [qrush: Teleported qrush to McPhage]
-[05:25:32] [Server thread/INFO]: <McPhage> But it's iron and (mostly) gold 'cause I can't match the emerald and diamonds that are down already
-[05:25:58] [Server thread/INFO]: <qrush> yes it needs to go on the other side.
-[05:26:09] [Server thread/INFO]: <qrush> so it linesup with the spaces in the stair
-[05:26:25] [Server thread/INFO]: <McPhage> Like I said, we'll still need it 2x3 eventually
-[05:26:40] [Server thread/INFO]: <McPhage> But that's someone else's problem.
-[05:26:41] [Server thread/INFO]: <qrush> Maybe this isnt the best space for it.
-[05:27:07] [Server thread/INFO]: <McPhage> 1 achievement to go and I'll have them all
-[05:27:12] [Server thread/INFO]: <qrush> dang whaat
-[05:27:23] [Server thread/INFO]: <qrush> or another idea - we could put it on the top floor
-[05:27:32] [Server thread/INFO]: <qrush> then we dont have to cut through so many floors
-[05:27:44] [Server thread/INFO]: <qrush> and it still works down below right?
-[05:27:45] [Server thread/INFO]: <McPhage> That might work better? Not sure how many floors down the power goes, tho'
-[05:28:07] [Server thread/INFO]: <McPhage> Seems to
-[05:28:17] [Server thread/INFO]: <qrush> this jump boost is bananas
-[05:29:04] [Server thread/INFO]: <McPhage> Ah, don't have it at Y=11 :-(
-[05:29:12] [Server thread/INFO]: <qrush> Eh?
-[05:29:47] [Server thread/INFO]: <McPhage> I do get it at Y=18
 [05:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[05:30:09] [Server thread/INFO]: <qrush> ah you went way down?
-[05:30:17] [Server thread/INFO]: <McPhage> Yeah
-[05:30:43] [Server thread/INFO]: <McPhage> Anyway, I'm heading back to my sheep, and then to bed.
-[05:31:30] [Server thread/INFO]: <qrush> semi impressed you actually spring down onto the spring piston.
-[05:32:09] [Server thread/INFO]: <qrush> We could move the beacon to Will's tower
-[05:32:14] [Server thread/INFO]: <qrush> he already dug down to bedrock
-[05:32:24] [Server thread/INFO]: <qrush> and it's next to city hall.
-[05:32:38] [Server thread/INFO]: <qrush> he dug the entire block out down to bedrock
-[05:33:03] [Server thread/INFO]: <McPhage> It can't have anything above it.
-[05:33:15] [Server thread/INFO]: <qrush> i'm sure he wont mind removing the roof a little for some glass.
-[05:33:24] [Server thread/INFO]: <qrush> its already mostly a glass roof
-[05:33:35] [Server thread/INFO]: <McPhage> What else is in his tower?
-[05:34:02] [Server thread/INFO]: <qrush> not much
-[05:34:06] [Server thread/INFO]: <qrush> but a large pit
-[05:34:50] [Server thread/INFO]: <qrush> in fact it's already centered around a 2x3 antenna thing
-[05:34:57] [Server thread/INFO]: <qrush> at the top, a bunch of fence posts
 [05:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[05:35:07] [Server thread/INFO]: <McPhage> It's almost like he was planning for this...
-[05:35:18] [Server thread/INFO]: <qrush> I wouldn't give wlll that much credit.
-[05:35:31] [Server thread/INFO]: <qrush> (Coworker)
-[05:35:39] [Server thread/INFO]: <McPhage> Ouch ;-)
-[05:36:44] [Server thread/INFO]: <qrush> So many cats.
-[05:36:53] [Server thread/INFO]: <McPhage> Turning into Conor's house
-[05:38:34] [Server thread/INFO]: <McPhage> Anyway, your book is in my library. Help yourself to whatever you want in here,
-[05:38:50] [Server thread/INFO]: <McPhage> Just if you use the anvil a bunch of times, please toss me some iron; I gave up almost
-[05:38:56] [Server thread/INFO]: <McPhage> All of it for the beacon
-[05:39:23] [Server thread/INFO]: shekibobo lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[05:39:23] [Server thread/INFO]: shekibobo left the game
-[05:39:30] [Server thread/INFO]: <McPhage> G'nite
-[05:39:36] [Server thread/INFO]: McPhage lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[05:39:36] [Server thread/INFO]: McPhage left the game
 [05:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[05:42:00] [Server thread/INFO]: <qrush> there's a new tallest skyscraper
-[05:42:06] [Server thread/INFO]: <qrush> this race for the top is really funny
-[05:43:01] [Server thread/INFO]: CobyR lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[05:43:01] [Server thread/INFO]: CobyR left the game
-[05:43:07] [Server thread/INFO]: [qrush: Given [Dirt] * 64 to qrush]
-[05:43:52] [Server thread/INFO]: [qrush: Given [Dirt] * 64 to qrush]
+[05:43:34] [Server thread/INFO]: <bensawyer> night
+[05:43:35] [Server thread/INFO]: bensawyer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[05:43:35] [Server thread/INFO]: bensawyer left the game
 [05:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[05:45:31] [Server thread/INFO]: jowdyboy lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[05:45:31] [Server thread/INFO]: jowdyboy left the game
-[05:46:26] [RCON Listener #1/INFO]: Rcon connection from: /54.167.250.94
-[05:46:29] [RCON Listener #1/INFO]: Rcon connection from: /54.167.250.94
-[05:46:32] [RCON Listener #1/INFO]: Rcon connection from: /54.167.250.94
-[05:46:41] [RCON Listener #1/INFO]: Rcon connection from: /54.167.250.94
-[05:46:42] [Server thread/INFO]: <qrush> awesome.
-[05:46:49] [User Authenticator #439/INFO]: UUID of player CobyR is e931627c-d0f1-44bd-99d8-e7e6e9128859
-[05:46:49] [Server thread/INFO]: CobyR[/208.100.161.128:63738] logged in with entity id 24715095 at (-99.47662163398661, 49.0, -34.97856037510381)
-[05:46:49] [Server thread/INFO]: CobyR joined the game
-[05:46:59] [RCON Listener #1/INFO]: Rcon connection from: /54.167.250.94
-[05:48:14] [RCON Listener #1/INFO]: Rcon connection from: /54.167.250.94
-[05:48:27] [Server thread/INFO]: <qrush> tomorrow morning
-[05:48:37] [RCON Listener #1/INFO]: Rcon connection from: /54.167.250.94
-[05:48:41] [Server thread/INFO]: <qrush> same
-[05:49:04] [RCON Listener #1/INFO]: Rcon connection from: /54.167.250.94
-[05:49:19] [Server thread/INFO]: qrush lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[05:49:19] [Server thread/INFO]: qrush left the game
-[05:49:20] [RCON Listener #1/INFO]: Rcon connection from: /54.167.250.94
 [05:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[05:52:05] [RCON Listener #1/INFO]: Rcon connection from: /54.167.250.94
-[05:52:23] [RCON Listener #1/INFO]: Rcon connection from: /54.167.250.94
-[05:52:32] [RCON Listener #1/INFO]: Rcon connection from: /54.167.250.94
-[05:52:43] [RCON Listener #1/INFO]: Rcon connection from: /54.167.250.94
-[05:53:04] [RCON Listener #1/INFO]: Rcon connection from: /54.167.250.94
-[05:53:25] [RCON Listener #1/INFO]: Rcon connection from: /54.167.250.94
-[05:54:32] [RCON Listener #1/INFO]: Rcon connection from: /54.167.250.94
 [05:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[05:57:19] [Server thread/INFO]: <CobyR> Wow the visitors center is gone... in the mesa
-[05:57:39] [RCON Listener #1/INFO]: Rcon connection from: /54.167.250.94
-[05:58:59] [User Authenticator #440/INFO]: UUID of player phr3n3tic is 68b95597-8228-463f-a77b-71daf21e0ac3
-[05:58:59] [Server thread/INFO]: phr3n3tic[/66.215.23.167:61096] logged in with entity id 24739311 at (56.98621904089572, 70.5, 1743.7731762570804)
-[05:58:59] [Server thread/INFO]: phr3n3tic joined the game
 [06:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [06:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[06:05:05] [RCON Listener #1/INFO]: Rcon connection from: /54.167.250.94
 [06:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[06:10:43] [Server thread/INFO]: CobyR has just earned the achievement [Local Brewery]
-[06:11:23] [Server thread/INFO]: <CobyR> will villagers open trap doors in the floor?
-[06:11:54] [Server thread/INFO]: <phr3n3tic> I actually do not know :/ Soorry
-[06:13:52] [Server thread/INFO]: <CobyR> pretty sure they do :) If you're looking for villagers at Pickaxe Canyon you may want to look
-[06:14:01] [Server thread/INFO]: <CobyR> in the basement of the Alchemy shop
+[06:13:56] [User Authenticator #31/INFO]: UUID of player phr3n3tic is 68b95597-8228-463f-a77b-71daf21e0ac3
+[06:13:56] [Server thread/INFO]: phr3n3tic[/66.215.23.167:52993] logged in with entity id 1209916 at (59.5, 75.0, 1748.5)
+[06:13:56] [Server thread/INFO]: phr3n3tic joined the game
+[06:14:48] [Server thread/WARN]: phr3n3tic moved wrongly!
 [06:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[06:15:23] [Server thread/INFO]: <CobyR> it's a librarian conventions - 3 of them
-[06:15:32] [Server thread/INFO]: <CobyR> a cleric and a leather worker
-[06:15:37] [Server thread/INFO]: <phr3n3tic> lol
 [06:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[06:25:02] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[06:26:16] [User Authenticator #441/INFO]: UUID of player mtodd is d28741bf-b875-42a1-9083-08c78e5c2612
-[06:26:16] [Server thread/INFO]: mtodd[/76.14.58.13:33761] logged in with entity id 24786979 at (-175.56053448320625, 77.0, 236.20774369414514)
-[06:26:16] [Server thread/INFO]: mtodd joined the game
+[06:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [06:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[06:31:06] [Server thread/WARN]: CobyR moved wrongly!
+[06:31:08] [Server thread/WARN]: CobyR moved wrongly!
 [06:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[06:37:02] [Server thread/INFO]: CobyR lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[06:37:02] [Server thread/INFO]: CobyR left the game
 [06:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [06:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[06:45:27] [Server thread/INFO]: phr3n3tic lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[06:45:27] [Server thread/INFO]: phr3n3tic left the game
-[06:48:24] [Server thread/INFO]: mtodd lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[06:48:24] [Server thread/INFO]: mtodd left the game
 [06:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [06:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [07:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:04:53] [User Authenticator #32/INFO]: UUID of player ethansr is 25f222ff-514e-42dd-b437-162a557e0fe5
+[07:04:53] [Server thread/INFO]: ethansr[/154.5.151.196:39069] logged in with entity id 1323511 at (-1205.4260860461807, 63.0, -633.0620277044912)
+[07:04:53] [Server thread/INFO]: ethansr joined the game
 [07:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [07:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:10:17] [Server thread/INFO]: phr3n3tic lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[07:10:17] [Server thread/INFO]: phr3n3tic left the game
 [07:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:18:16] [Server thread/INFO]: CobyR lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[07:18:16] [Server thread/INFO]: CobyR left the game
 [07:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[07:21:55] [User Authenticator #442/INFO]: UUID of player mtodd is d28741bf-b875-42a1-9083-08c78e5c2612
-[07:21:55] [Server thread/INFO]: mtodd[/76.14.58.13:48390] logged in with entity id 24893043 at (-174.08840090014905, 78.0, 314.5148711975318)
-[07:21:55] [Server thread/INFO]: mtodd joined the game
-[07:24:14] [User Authenticator #443/INFO]: UUID of player xcave is a622e5a1-e4f2-4011-94dc-d0580de911e9
-[07:24:14] [Server thread/INFO]: xcave[/74.222.193.10:52658] logged in with entity id 24899616 at (12.939155769676573, 62.5625, 198.5313992462931)
-[07:24:14] [Server thread/INFO]: xcave joined the game
 [07:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[07:26:43] [Server thread/INFO]: <xcave> mtodd, did you find the gold you needed?
 [07:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:34:42] [Server thread/INFO]: ethansr lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[07:34:42] [Server thread/INFO]: ethansr left the game
 [07:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [07:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[07:41:51] [Server thread/INFO]: xcave has just earned the achievement [The Lie]
-[07:43:47] [Server thread/INFO]: xcave has just earned the achievement [Bake Bread]
 [07:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[07:46:53] [Server thread/INFO]: xcave has just earned the achievement [Repopulation]
-[07:49:36] [Server thread/INFO]: xcave has just earned the achievement [Getting an Upgrade]
 [07:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[07:50:18] [Server thread/INFO]: xcave has just earned the achievement [Hot Topic]
 [07:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[07:56:14] [Server thread/INFO]: xcave lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[07:56:14] [Server thread/INFO]: xcave left the game
 [08:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [08:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [08:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
@@ -965,64 +731,37 @@
 [08:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [08:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [08:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[08:56:03] [User Authenticator #444/INFO]: UUID of player bensawyer is 52ce3fba-1aa1-4548-8841-15b7e942687d
-[08:56:03] [Server thread/INFO]: bensawyer[/184.202.177.228:58418] logged in with entity id 25463582 at (-371.3289570761285, 79.0, 479.4338874001161)
-[08:56:03] [Server thread/INFO]: bensawyer joined the game
-[08:58:39] [RCON Listener #1/INFO]: Rcon connection from: /54.166.184.153
-[08:59:18] [Server thread/INFO]: <mtodd> oh, 3rd floor
 [09:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [09:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [09:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [09:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[09:15:07] [Server thread/INFO]: bensawyer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[09:15:07] [Server thread/INFO]: bensawyer left the game
 [09:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[09:23:27] [User Authenticator #445/INFO]: UUID of player phr3n3tic is 68b95597-8228-463f-a77b-71daf21e0ac3
-[09:23:27] [Server thread/INFO]: phr3n3tic[/66.215.23.167:50758] logged in with entity id 25647834 at (59.608626670680756, 75.0, 1749.5759126487037)
-[09:23:27] [Server thread/INFO]: phr3n3tic joined the game
-[09:24:13] [Server thread/INFO]: phr3n3tic was shot by Skeleton
 [09:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [09:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [09:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [09:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [09:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [09:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[09:53:05] [Server thread/INFO]: mtodd lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[09:53:05] [Server thread/INFO]: mtodd left the game
 [09:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [10:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [10:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [10:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [10:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [10:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[10:23:22] [User Authenticator #33/INFO]: UUID of player Eucharion is 86f9b1c5-11c1-4096-afc2-2f0ae5044d9c
+[10:23:22] [Server thread/INFO]: Eucharion[/86.15.114.229:35714] logged in with entity id 1373883 at (1144.1067455065102, 73.0, 3805.6236845572466)
+[10:23:22] [Server thread/INFO]: Eucharion joined the game
 [10:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [10:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [10:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [10:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[10:44:23] [Server thread/INFO]: phr3n3tic lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[10:44:23] [Server thread/INFO]: phr3n3tic left the game
 [10:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [10:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [10:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[10:57:17] [User Authenticator #446/INFO]: UUID of player inthemess is ce964d4a-959b-4de8-8048-cb9675d3e326
-[10:57:17] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1d5d76b8[id=ce964d4a-959b-4de8-8048-cb9675d3e326,name=inthemess,properties={textures=[com.mojang.authlib.properties.Property@5b537fe]},legacy=false] (/83.156.66.16:52269): Your IP address is banned from this server!
-Reason: Banned by an operator.
-[10:57:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@1d5d76b8[id=ce964d4a-959b-4de8-8048-cb9675d3e326,name=inthemess,properties={textures=[com.mojang.authlib.properties.Property@5b537fe]},legacy=false] (/83.156.66.16:52269) lost connection: Your IP address is banned from this server!
-Reason: Banned by an operator.
-[10:57:27] [User Authenticator #447/INFO]: UUID of player inthemess is ce964d4a-959b-4de8-8048-cb9675d3e326
-[10:57:27] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@283c3cb1[id=ce964d4a-959b-4de8-8048-cb9675d3e326,name=inthemess,properties={textures=[com.mojang.authlib.properties.Property@7c4a1a73]},legacy=false] (/83.156.66.16:52275): Your IP address is banned from this server!
-Reason: Banned by an operator.
-[10:57:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@283c3cb1[id=ce964d4a-959b-4de8-8048-cb9675d3e326,name=inthemess,properties={textures=[com.mojang.authlib.properties.Property@7c4a1a73]},legacy=false] (/83.156.66.16:52275) lost connection: Your IP address is banned from this server!
-Reason: Banned by an operator.
-[10:57:47] [User Authenticator #448/INFO]: UUID of player inthemess is ce964d4a-959b-4de8-8048-cb9675d3e326
-[10:57:47] [Server thread/INFO]: inthemess[/158.255.215.88:52300] logged in with entity id 25881425 at (38.47368621300756, 74.0, 222.6654202813982)
-[10:57:47] [Server thread/INFO]: inthemess joined the game
 [11:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [11:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [11:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[11:11:41] [Server thread/INFO]: inthemess lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[11:11:41] [Server thread/INFO]: inthemess left the game
-[11:15:02] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[11:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [11:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [11:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [11:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
@@ -1034,36 +773,45 @@ Reason: Banned by an operator.
 [12:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [12:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [12:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:10:06] [User Authenticator #34/INFO]: UUID of player Krystallite is 35ed8dc6-6353-4942-8cfb-6e8e5e35ef79
+[12:10:06] [Server thread/INFO]: Krystallite[/86.15.114.229:39665] logged in with entity id 1426630 at (532.409144180247, 59.0, 3561.4557498647464)
+[12:10:06] [Server thread/INFO]: Krystallite joined the game
+[12:10:24] [Server thread/INFO]: Krystallite lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:10:24] [Server thread/INFO]: Krystallite left the game
+[12:10:32] [User Authenticator #35/INFO]: UUID of player Krystallite is 35ed8dc6-6353-4942-8cfb-6e8e5e35ef79
+[12:10:32] [Server thread/INFO]: Krystallite[/86.15.114.229:47823] logged in with entity id 1426887 at (532.409144180247, 59.0, 3561.4557498647464)
+[12:10:32] [Server thread/INFO]: Krystallite joined the game
 [12:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [12:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:24:55] [User Authenticator #36/INFO]: UUID of player bensawyer is 52ce3fba-1aa1-4548-8841-15b7e942687d
+[12:24:55] [Server thread/INFO]: bensawyer[/76.23.222.194:38710] logged in with entity id 1436973 at (-366.79769029808915, 79.0, 481.06631698874133)
+[12:24:55] [Server thread/INFO]: bensawyer joined the game
 [12:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [12:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [12:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [12:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [12:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:48:19] [Server thread/INFO]: Krystallite tried to swim in lava
 [12:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:53:42] [Server thread/INFO]: <Krystallite> i hate lava
 [12:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [13:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [13:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[13:09:39] [RCON Listener #1/INFO]: Rcon connection from: /54.87.176.218
+[13:08:07] [RCON Listener #1/INFO]: Rcon connection from: /54.166.233.48
+[13:08:16] [Server thread/INFO]: There are 3/20 players online:
+[13:08:16] [Server thread/INFO]: Eucharion, bensawyer, Krystallite
+[13:08:21] [Server thread/INFO]: [Server] server shutting down momentarily
+[13:08:39] [Server thread/INFO]: bensawyer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:08:39] [Server thread/INFO]: bensawyer left the game
 [13:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[13:11:59] [User Authenticator #449/INFO]: UUID of player qrush is 806ecb0a-663b-4783-850b-87dcb53ffb04
-[13:11:59] [Server thread/INFO]: qrush[/69.204.121.154:42948] logged in with entity id 25932290 at (35.172686528682625, 73.0, 204.8468669185521)
-[13:11:59] [Server thread/INFO]: qrush joined the game
-[13:13:40] [Server thread/INFO]: qrush lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[13:13:40] [Server thread/INFO]: qrush left the game
-[13:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[13:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[13:23:36] [Server thread/INFO]: There are 0/20 players online:
-[13:23:36] [Server thread/INFO]: 
-[13:23:37] [Server thread/INFO]: Stopping the server
-[13:23:37] [Server thread/INFO]: Stopping server
-[13:23:37] [Server thread/INFO]: Saving players
-[13:23:37] [Server thread/INFO]: Saving worlds
-[13:23:37] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[13:23:37] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[13:23:37] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[13:23:37] [Server Shutdown Thread/INFO]: Stopping server
-[13:23:37] [Server Shutdown Thread/INFO]: Saving players
-[13:23:37] [Server Shutdown Thread/INFO]: Saving worlds
-[13:23:37] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
+[13:10:34] [Server thread/INFO]: Stopping the server
+[13:10:34] [Server thread/INFO]: Stopping server
+[13:10:34] [Server thread/INFO]: Saving players
+[13:10:34] [Server thread/INFO]: Eucharion lost connection: TextComponent{text='Server closed', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:10:34] [Server thread/INFO]: Eucharion left the game
+[13:10:34] [Server thread/INFO]: Saving worlds
+[13:10:34] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[13:10:34] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[13:10:34] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[13:10:35] [Server Shutdown Thread/INFO]: Stopping server
+[13:10:35] [Server Shutdown Thread/INFO]: Saving players
