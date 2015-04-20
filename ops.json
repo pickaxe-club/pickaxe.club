@@ -2,26 +2,31 @@
   {
     "uuid": "347bf42b-3684-4d39-ade0-9bb464f03d44",
     "name": "shekibobo",
-    "level": 3
+    "level": 3,
+    "bypassesPlayerLimit": false
   },
   {
     "uuid": "806ecb0a-663b-4783-850b-87dcb53ffb04",
     "name": "qrush",
-    "level": 4
+    "level": 4,
+    "bypassesPlayerLimit": false
   },
   {
     "uuid": "1f8d896c-21e6-47e3-ac57-cfad9bf1c952",
     "name": "jyurek",
-    "level": 4
+    "level": 4,
+    "bypassesPlayerLimit": false
   },
   {
     "uuid": "efb6fc35-604e-4dd8-93f9-ccdd1593ff69",
     "name": "tyrosinase",
-    "level": 3
+    "level": 3,
+    "bypassesPlayerLimit": false
   },
   {
     "uuid": "a3f11e73-45e1-4de2-801d-e2c6ea1dc19e",
     "name": "McPhage",
-    "level": 4
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
