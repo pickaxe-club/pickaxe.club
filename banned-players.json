@@ -6,13 +6,5 @@
     "source": "Server",
     "expires": "forever",
     "reason": "Banned by an operator."
-  },
-  {
-    "uuid": "19a17b21-7de9-4497-bf63-1b17fae07325",
-    "name": "holly_j",
-    "created": "2015-04-18 17:54:03 +0000",
-    "source": "tyrosinase",
-    "expires": "forever",
-    "reason": "Cheater"
   }
 ]
