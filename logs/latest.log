@@ -1,287 +1,843 @@
 [00:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:00:24] [Server thread/INFO]: <SakuraHorse> ok i'm gonna eat an enchanted golden apple mwahaha >:D
-[00:00:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2014ms behind, skipping 40 tick(s)
-[00:00:47] [Server thread/INFO]: <fishtoaster> Does that do anything for you?
-[00:00:57] [Server thread/INFO]: <SakuraHorse> any last words anyone? (lol)
-[00:01:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7853ms behind, skipping 157 tick(s)
-[00:01:08] [Server thread/INFO]: <uxp> DONT HURT ME
-[00:01:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6353ms behind, skipping 127 tick(s)
-[00:01:23] [Server thread/INFO]: <uxp> also, capslock. worry
-[00:01:27] [Server thread/INFO]: <uxp> *sorry
-[00:01:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5488ms behind, skipping 109 tick(s)
-[00:01:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4166ms behind, skipping 83 tick(s)
-[00:02:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3703ms behind, skipping 74 tick(s)
-[00:02:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2939ms behind, skipping 58 tick(s)
-[00:02:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2495ms behind, skipping 49 tick(s)
-[00:02:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2073ms behind, skipping 41 tick(s)
-[00:03:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2245ms behind, skipping 44 tick(s)
-[00:03:35] [User Authenticator #298/INFO]: UUID of player ryanbates is d1f2b5d0-4c74-4ff5-9cba-6644fc0a2c61
-[00:03:35] [Server thread/INFO]: ryanbates[/71.80.203.86:50097] logged in with entity id 21931334 at (-189.1790992939619, 70.0, 272.09556925778577)
-[00:03:35] [Server thread/INFO]: ryanbates joined the game
-[00:04:05] [Server thread/INFO]: <SakuraHorse> honestly, this is kind of sad for 72 gold ingots and an apple
-[00:04:42] [Server thread/INFO]: <SakuraHorse> i wanted to make a black hole and swirl things around! i wanted to fly and be crazy
-[00:04:55] [Server thread/INFO]: <SakuraHorse> SPIDER JOCKEY!!
+[00:00:21] [Server thread/WARN]: tyrosinase moved wrongly!
+[00:02:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2673ms behind, skipping 53 tick(s)
+[00:02:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2989ms behind, skipping 59 tick(s)
+[00:02:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2346ms behind, skipping 46 tick(s)
 [00:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:06:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2102ms behind, skipping 42 tick(s)
-[00:06:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10543ms behind, skipping 210 tick(s)
-[00:06:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4576ms behind, skipping 91 tick(s)
-[00:07:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5972ms behind, skipping 119 tick(s)
-[00:07:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4669ms behind, skipping 93 tick(s)
-[00:07:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3649ms behind, skipping 72 tick(s)
-[00:08:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3219ms behind, skipping 64 tick(s)
-[00:08:56] [Server thread/INFO]: potatoman333 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:08:56] [Server thread/INFO]: potatoman333 left the game
-[00:08:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2249ms behind, skipping 44 tick(s)
-[00:09:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2190ms behind, skipping 43 tick(s)
+[00:05:35] [Server thread/INFO]: <tyrosinase> I kinda feel guilty killing zombie villagers now. "Sorry, I cured enough, don't need you."
+[00:05:41] [Server thread/INFO]: <fishtoaster> lol
+[00:06:19] [Server thread/INFO]: <tyrosinase> I need a fishing hole here in the new city. Wasting a perfectly good rainstorm up here.
+[00:06:35] [Server thread/INFO]: <Eucharion> I'm not there yet. After curing 4 fishermen in a row, there's still a lot of anger to redirect
+[00:06:45] [Server thread/WARN]: Krystallite moved wrongly!
+[00:06:45] [Server thread/WARN]: Krystallite moved wrongly!
+[00:06:45] [Server thread/WARN]: Krystallite moved wrongly!
+[00:07:15] [Server thread/INFO]: <fishtoaster> With that many villagers, isn't it easier to just breed them at that point?
+[00:07:17] [Server thread/INFO]: <Eucharion> Although we did get a librarian who sells Fortune III and Infinity, so not too bad
+[00:08:17] [Server thread/INFO]: <fishtoaster> After all this grinder testing, I'm now level 50. Guess I should go enchant some stuff.
 [00:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:14:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2495ms behind, skipping 49 tick(s)
-[00:14:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8713ms behind, skipping 174 tick(s)
-[00:15:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5757ms behind, skipping 115 tick(s)
+[00:10:37] [Server thread/INFO]: <tyrosinase> There's a couple of enchanted fishing rods in the tools chest here, xcave.
+[00:14:18] [Server thread/INFO]: <tyrosinase> Oops.
+[00:14:25] [Server thread/INFO]: <xcave> road is fine.
+[00:14:32] [Server thread/INFO]: <xcave> just leveling things
+[00:14:35] [Server thread/INFO]: <xcave> haha
+[00:14:36] [Server thread/INFO]: <tyrosinase> But what about the sheep????
+[00:14:44] [Server thread/INFO]: <xcave> it's fine too
 [00:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:15:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6423ms behind, skipping 128 tick(s)
-[00:15:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4452ms behind, skipping 89 tick(s)
-[00:15:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3748ms behind, skipping 74 tick(s)
-[00:16:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3403ms behind, skipping 68 tick(s)
-[00:16:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2241ms behind, skipping 44 tick(s)
-[00:16:55] [Server thread/INFO]: fishtoaster lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:16:55] [Server thread/INFO]: fishtoaster left the game
-[00:19:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2062ms behind, skipping 41 tick(s)
+[00:15:06] [Server thread/INFO]: <tyrosinase> Heh.
+[00:15:34] [Server thread/INFO]: <tyrosinase> Creeper to your north.
+[00:16:34] [Server thread/INFO]: <tyrosinase> Fishing is not so relaxing with Harold Of The North grunting at me all the time.
+[00:16:44] [Server thread/INFO]: <tyrosinase> Guess he wants a roof or something.
 [00:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:22:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2290ms behind, skipping 45 tick(s)
-[00:22:28] [Server thread/WARN]: tyrosinase moved too quickly! -1.3286110204080614,-1.0625,22.722936254535682 (-1.3286110204080614, -1.0625, 22.722936254535682)
-[00:22:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6130ms behind, skipping 122 tick(s)
-[00:24:40] [Server thread/INFO]: [tyrosinase: Set own game mode to Spectator Mode]
+[00:22:06] [Server thread/WARN]: xcave moved wrongly!
+[00:24:24] [Server thread/INFO]: xcave lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:24:24] [Server thread/INFO]: xcave left the game
 [00:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:25:41] [Server thread/INFO]: [tyrosinase: Teleported tyrosinase to SakuraHorse]
-[00:26:05] [Server thread/INFO]: [tyrosinase: Set own game mode to Survival Mode]
-[00:26:23] [Server thread/INFO]: <SakuraHorse> what is the gold ore for?
-[00:26:24] [Server thread/INFO]: Krystallite lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:26:24] [Server thread/INFO]: Krystallite left the game
-[00:26:30] [Server thread/INFO]: <tyrosinase> It's a mystery.
-[00:26:44] [User Authenticator #299/INFO]: UUID of player fishtoaster is 1719f5a1-cddd-4580-8ee9-ef02da343f38
-[00:26:44] [Server thread/INFO]: fishtoaster[/50.184.4.44:63515] logged in with entity id 22129134 at (-2234.803274195451, 83.0, 4.54882967555895)
-[00:26:44] [Server thread/INFO]: fishtoaster joined the game
-[00:26:46] [Server thread/INFO]: <SakuraHorse> you could farm it with looting enchantment
-[00:28:10] [Server thread/INFO]: Eucharion lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:28:10] [Server thread/INFO]: Eucharion left the game
-[00:28:59] [Server thread/INFO]: tyrosinase lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:28:59] [Server thread/INFO]: tyrosinase left the game
+[00:26:35] [Server thread/INFO]: fishtoaster lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:26:35] [Server thread/INFO]: fishtoaster left the game
 [00:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:32:52] [Server thread/INFO]: CobyR was slain by Zombie
-[00:33:49] [Server thread/INFO]: CobyR lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:33:49] [Server thread/INFO]: CobyR left the game
+[00:34:01] [User Authenticator #144/INFO]: UUID of player potatoman333 is 00f2d021-912f-4f00-99f2-d24098fc4cbf
+[00:34:01] [Server thread/INFO]: potatoman333[/75.87.92.223:59794] logged in with entity id 9899692 at (-1303.4321487722061, 64.0, 393.9011721855681)
+[00:34:01] [Server thread/INFO]: potatoman333 joined the game
 [00:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[00:37:36] [Server thread/WARN]: tyrosinase moved too quickly! 0.08854320479440503,-1.0,21.32920405684115 (0.08854320479440503, -1.0, 21.32920405684115)
 [00:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:41:08] [Server thread/INFO]: <SakuraHorse> ooo silent night is fast horse!
-[00:42:44] [User Authenticator #300/INFO]: UUID of player lt_waffle is 4586d5ba-8cb5-4e41-8f35-af9b197ad5aa
-[00:42:44] [Server thread/INFO]: lt_waffle[/75.72.203.28:53241] logged in with entity id 22235964 at (-42.84502902906607, 70.0, 1763.0776795496483)
-[00:42:44] [Server thread/INFO]: lt_waffle joined the game
 [00:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:47:52] [Server thread/INFO]: fishtoaster lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:47:52] [Server thread/INFO]: fishtoaster left the game
+[00:45:36] [Server thread/WARN]: tyrosinase moved wrongly!
+[00:46:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@27bdc781[id=<null>,name=Elicamorza,properties={},legacy=false] (/70.112.35.28:1318) lost connection: Disconnected
+[00:46:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@452e349a[id=<null>,name=Elicamorza,properties={},legacy=false] (/70.112.35.28:1322) lost connection: Disconnected
+[00:46:41] [Server thread/WARN]: tyrosinase moved wrongly!
+[00:47:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@75e65e4e[id=<null>,name=Elicamorza,properties={},legacy=false] (/70.112.35.28:1324) lost connection: Disconnected
+[00:47:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@68e8bb7[id=<null>,name=Elicamorza,properties={},legacy=false] (/70.112.35.28:1326) lost connection: Disconnected
+[00:47:32] [Server thread/WARN]: tyrosinase moved wrongly!
+[00:47:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@524491dc[id=<null>,name=Elicamorza,properties={},legacy=false] (/70.112.35.28:1336) lost connection: Disconnected
+[00:47:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@757d1a58[id=<null>,name=Elicamorza,properties={},legacy=false] (/70.112.35.28:1386) lost connection: Disconnected
+[00:47:53] [Server thread/INFO]: [tyrosinase: Teleported tyrosinase to -217.5, 70.0, -1863.5]
+[00:48:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@17b0fa16[id=<null>,name=Elicamorza,properties={},legacy=false] (/70.112.35.28:1388) lost connection: Disconnected
+[00:48:12] [Server thread/WARN]: tyrosinase moved too quickly! 1.4223886313162097,59.50437347860575,-0.800000011920929 (1.4223886313162097, 59.50437347860575, -0.800000011920929)
+[00:48:36] [User Authenticator #145/INFO]: UUID of player Elicamorza is 43f0c461-06a3-4329-ba23-6a5cb627c22a
+[00:48:36] [Server thread/INFO]: Elicamorza[/70.112.35.28:1416] logged in with entity id 10024606 at (-158.5, 72.0, 253.5)
+[00:48:36] [Server thread/INFO]: Elicamorza joined the game
+[00:49:19] [User Authenticator #146/INFO]: UUID of player SakuraHorse is 59344e95-019c-46bf-8ace-a76c9db41583
+[00:49:19] [Server thread/INFO]: SakuraHorse[/70.112.35.28:61284] logged in with entity id 10029371 at (-171.89137227904928, 71.0, 208.4178468414285)
+[00:49:19] [Server thread/INFO]: SakuraHorse joined the game
+[00:49:29] [Server thread/INFO]: <SakuraHorse> yay!
 [00:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:52:36] [User Authenticator #301/INFO]: UUID of player p1agu3 is 81c11cfc-6dae-47c2-b4b7-777167e9a21e
-[00:52:36] [Server thread/INFO]: p1agu3[/75.134.159.197:63241] logged in with entity id 22305460 at (58.68563337785796, 69.0, 1698.0329298106235)
-[00:52:36] [Server thread/INFO]: p1agu3 joined the game
-[00:53:02] [Server thread/INFO]: uxp lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[00:53:02] [Server thread/INFO]: uxp left the game
+[00:51:56] [Server thread/WARN]: tyrosinase moved wrongly!
+[00:52:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2451ms behind, skipping 49 tick(s)
+[00:53:50] [Server thread/WARN]: tyrosinase moved too quickly! 10.769666186907557,-1.0,25.01109544131475 (10.769666186907557, -1.0, 25.01109544131475)
 [00:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[00:56:15] [RCON Listener #1/INFO]: Rcon connection from: /54.158.151.204
-[00:59:11] [RCON Listener #1/INFO]: Rcon connection from: /54.158.151.204
+[00:55:31] [Server thread/INFO]: potatoman333 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:55:31] [Server thread/INFO]: potatoman333 left the game
+[00:56:32] [Server thread/INFO]: <tyrosinase> TIL that crops grow better in alternating rows.
 [01:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[01:01:49] [Server thread/INFO]: <SakuraHorse> new horse shelter!! with some pretty fast horses
-[01:02:14] [Server thread/INFO]: p1agu3 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:02:14] [Server thread/INFO]: p1agu3 left the game
+[01:00:48] [Server thread/INFO]: Elicamorza lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:00:48] [Server thread/INFO]: Elicamorza left the game
+[01:00:55] [Server thread/INFO]: SakuraHorse lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:00:55] [Server thread/INFO]: SakuraHorse left the game
 [01:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[01:05:46] [Server thread/INFO]: <SakuraHorse> I gotta go. See yall next Friday! and check out the horse shelter ;)
-[01:05:49] [Server thread/INFO]: <ryanbates> cya
-[01:06:00] [Server thread/INFO]: SakuraHorse lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:06:00] [Server thread/INFO]: SakuraHorse left the game
-[01:08:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2002ms behind, skipping 40 tick(s)
+[01:08:32] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
 [01:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[01:14:58] [Server thread/INFO]: ryanbates lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:14:58] [Server thread/INFO]: ryanbates left the game
+[01:10:36] [Server thread/INFO]: <tyrosinase> We have a double chest full of cooked fish. I'm gonna go out on a limb and say we don't need to
+[01:10:41] [Server thread/INFO]: <tyrosinase> waste fuel cooking more.
 [01:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[01:15:56] [RCON Listener #1/INFO]: Rcon connection from: /54.158.151.204
-[01:17:53] [User Authenticator #302/INFO]: UUID of player CobyR is e931627c-d0f1-44bd-99d8-e7e6e9128859
-[01:17:53] [Server thread/INFO]: CobyR[/208.100.161.128:65358] logged in with entity id 22448236 at (-1625.5, 79.0, 2527.5)
-[01:17:53] [Server thread/INFO]: CobyR joined the game
+[01:17:54] [Server thread/INFO]: <tyrosinase> Huh. Somebody took banners instead of making copies, so now we're missing A, E, R, W, and Y.
+[01:18:06] [Server thread/INFO]: <tyrosinase> If you see a building labeled WEARY, they are SO busted.
+[01:18:18] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[01:18:27] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[01:18:34] [Server thread/INFO]: <tyrosinase> Hmm, I did have some dupes in there.
+[01:19:04] [Server thread/INFO]: <tyrosinase> So... yeah. You make copies by putting a blank of the right color in a crafting grid with a letter.
+[01:19:13] [Server thread/INFO]: <tyrosinase> Most of the letters are base white, but a few are base brown.
+[01:19:16] [User Authenticator #147/INFO]: UUID of player xcave is a622e5a1-e4f2-4011-94dc-d0580de911e9
+[01:19:16] [Server thread/INFO]: xcave[/74.222.193.10:50149] logged in with entity id 10249271 at (-216.28023247929036, 70.0, -1862.635699529985)
+[01:19:16] [Server thread/INFO]: xcave joined the game
+[01:19:28] [Server thread/INFO]: <tyrosinase> Fortunately, I have a stash copy for just such an occasion.
 [01:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[01:21:34] [Server thread/INFO]: lt_waffle lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:21:34] [Server thread/INFO]: lt_waffle left the game
+[01:24:20] [Server thread/INFO]: <tyrosinase> We have a shortage of white sheep at spawn.
 [01:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[01:25:38] [User Authenticator #303/INFO]: UUID of player ryanbates is d1f2b5d0-4c74-4ff5-9cba-6644fc0a2c61
-[01:25:38] [Server thread/INFO]: ryanbates[/71.80.203.86:50225] logged in with entity id 22466124 at (-194.23750001192093, 70.0, 264.0016557136054)
-[01:25:38] [Server thread/INFO]: ryanbates joined the game
-[01:25:42] [Server thread/INFO]: ryanbates lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:25:42] [Server thread/INFO]: ryanbates left the game
-[01:25:47] [Server thread/INFO]: CobyR was shot by Skeleton
+[01:26:41] [User Authenticator #148/INFO]: UUID of player owookie is 8ccba3d9-5b82-4428-aa55-3565bd6c399b
+[01:26:41] [Server thread/INFO]: owookie[/135.23.213.147:38451] logged in with entity id 10318952 at (-551.9042665617214, 65.0, 210.96352210945844)
+[01:26:41] [Server thread/INFO]: owookie joined the game
+[01:28:53] [Server thread/INFO]: <xcave> I need to visit Sunflower Island
+[01:29:13] [Server thread/INFO]: <tyrosinase> Did you shear these, xcave? Or are they just stupid sheep that won't eat?
+[01:29:19] [Server thread/INFO]: <xcave> they haven't eaten
 [01:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[01:32:17] [User Authenticator #149/INFO]: UUID of player ryanbates is d1f2b5d0-4c74-4ff5-9cba-6644fc0a2c61
+[01:32:17] [Server thread/INFO]: ryanbates[/71.80.203.86:61660] logged in with entity id 10354034 at (-218.97060676623684, 63.0, 274.72911966969343)
+[01:32:17] [Server thread/INFO]: ryanbates joined the game
+[01:32:58] [User Authenticator #150/INFO]: UUID of player McPhage is a3f11e73-45e1-4de2-801d-e2c6ea1dc19e
+[01:32:58] [Server thread/INFO]: McPhage[/108.17.7.116:53213] logged in with entity id 10356602 at (-687.9950328212601, 57.0, -391.7916472607426)
+[01:32:58] [Server thread/INFO]: McPhage joined the game
+[01:33:16] [Server thread/INFO]: <McPhage> hey all
+[01:33:19] [Server thread/INFO]: <ryanbates> hey
+[01:33:30] [Server thread/INFO]: <xcave> hi
+[01:33:35] [Server thread/INFO]: <tyrosinase> o/
+[01:33:48] [Server thread/INFO]: <McPhage> \o
+[01:34:12] [Server thread/INFO]: <McPhage> tyr: so you were for real about them beacons?
+[01:34:31] [Server thread/INFO]: <tyrosinase> xcave put in a couple. Not that I can get a screenshot of 'em, but they're there.
+[01:34:39] [Server thread/INFO]: <McPhage> Ah, okay.
+[01:34:44] [Server thread/INFO]: <xcave> so two more please
+[01:34:46] [Server thread/INFO]: <xcave> :)
+[01:34:47] [Server thread/INFO]: Krystallite lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:34:47] [Server thread/INFO]: Krystallite left the game
 [01:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[01:35:02] [Server thread/INFO]: <tyrosinase> Eventually it'd be nice to have a whole set. Maybe put a couple inside the nether portal cube.
+[01:35:18] [Server thread/INFO]: <tyrosinase> Not as efficient for pyramid use, but still.
+[01:35:25] [Server thread/INFO]: <McPhage> I'll need to craft replacement armor for the ones I lost, so it'll take a bit.
+[01:35:49] [Server thread/INFO]: <McPhage> I also would like to co-opt oneof the houses in town for a set, too.
+[01:35:51] [Server thread/INFO]: <tyrosinase> I can probably contribute some to the cause.
+[01:36:02] [Server thread/INFO]: <tyrosinase> What do you need?
+[01:36:26] [Server thread/INFO]: <McPhage> I just need to take the time to enchant.
+[01:36:59] [Server thread/INFO]: <McPhage> I just seem to go through a lot of unbreaking-3 books :-)
 [01:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[01:43:56] [RCON Listener #1/INFO]: Rcon connection from: /54.158.151.204
+[01:41:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2109ms behind, skipping 42 tick(s)
+[01:42:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3524ms behind, skipping 70 tick(s)
+[01:42:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2429ms behind, skipping 48 tick(s)
+[01:42:43] [Server thread/INFO]: McPhage lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:42:43] [Server thread/INFO]: McPhage left the game
 [01:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[01:45:08] [Server thread/INFO]: tyrosinase lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:45:08] [Server thread/INFO]: tyrosinase left the game
+[01:45:12] [User Authenticator #151/INFO]: UUID of player tyrosinase is efb6fc35-604e-4dd8-93f9-ccdd1593ff69
+[01:45:12] [Server thread/INFO]: tyrosinase[/108.200.108.174:45970] logged in with entity id 10517965 at (-212.56589194767784, 70.0, 219.26406377505302)
+[01:45:12] [Server thread/INFO]: tyrosinase joined the game
+[01:45:57] [Server thread/INFO]: <tyrosinase> Uh oh. Anybody else seeing lag?
+[01:46:01] [Server thread/INFO]: <ryanbates> nope
+[01:46:03] [Server thread/INFO]: <xcave> nope
+[01:46:31] [Server thread/INFO]: <tyrosinase> Okay. Guess my client just had to play catch-up.
+[01:46:47] [Server thread/INFO]: <tyrosinase> Couldn't shear the sheep, then suddenly they were all sheared and standing in a different place.
+[01:47:04] [Server thread/INFO]: <xcave> they are possessed. Best to just kill them all and start over.
+[01:47:39] [Server thread/WARN]: tyrosinase moved wrongly!
+[01:49:18] [User Authenticator #152/INFO]: UUID of player McPhage is a3f11e73-45e1-4de2-801d-e2c6ea1dc19e
+[01:49:18] [Server thread/INFO]: McPhage[/108.17.7.116:53921] logged in with entity id 10550261 at (-699.3395385279548, 57.0, -395.33329874859925)
+[01:49:18] [Server thread/INFO]: McPhage joined the game
 [01:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[01:51:32] [RCON Listener #1/INFO]: Rcon connection from: /54.158.151.204
+[01:50:43] [Server thread/WARN]: tyrosinase moved wrongly!
+[01:51:10] [Server thread/INFO]: <tyrosinase> Whatcha building, owookie?
+[01:51:21] [Server thread/INFO]: <owookie> just a little mod farm
+[01:51:26] [Server thread/INFO]: <owookie> *mob
+[01:51:42] [Server thread/INFO]: <tyrosinase> This is clearly the industrial side of town.
+[01:51:44] [Server thread/INFO]: <xcave> mod farm sounded more interesting. :)
+[01:52:15] [Server thread/WARN]: tyrosinase moved wrongly!
+[01:53:24] [Server thread/WARN]: tyrosinase moved wrongly!
+[01:53:26] [Server thread/INFO]: <McPhage> seriously tho' why do we have like 20 double chests of ender pearls?
 [01:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[01:56:20] [Server thread/INFO]: CobyR lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[01:56:20] [Server thread/INFO]: CobyR left the game
+[01:56:01] [Server thread/INFO]: xcave lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:56:01] [Server thread/INFO]: xcave left the game
+[01:58:17] [Server thread/INFO]: ryanbates lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:58:17] [Server thread/INFO]: ryanbates left the game
+[01:58:45] [User Authenticator #153/INFO]: UUID of player ryanbates is d1f2b5d0-4c74-4ff5-9cba-6644fc0a2c61
+[01:58:45] [Server thread/INFO]: ryanbates[/71.80.203.86:61734] logged in with entity id 10610775 at (-219.52393597992807, 62.0, 278.72522129920094)
+[01:58:45] [Server thread/INFO]: ryanbates joined the game
 [02:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[02:03:39] [Server thread/INFO]: ryanbates lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:03:39] [Server thread/INFO]: ryanbates left the game
 [02:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[02:07:18] [Server thread/WARN]: tyrosinase moved wrongly!
+[02:07:19] [Server thread/WARN]: tyrosinase moved wrongly!
+[02:07:27] [Server thread/WARN]: tyrosinase moved too quickly! -2.87907983757745,-0.5,21.02498558275306 (-2.87907983757745, -0.5, 21.02498558275306)
+[02:07:36] [Server thread/WARN]: tyrosinase moved wrongly!
+[02:08:37] [Server thread/WARN]: tyrosinase moved wrongly!
 [02:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[02:12:05] [Server thread/WARN]: tyrosinase moved wrongly!
 [02:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[02:17:41] [User Authenticator #304/INFO]: UUID of player xcave is a622e5a1-e4f2-4011-94dc-d0580de911e9
-[02:17:41] [Server thread/INFO]: xcave[/74.222.193.10:61663] logged in with entity id 22564061 at (-194.1006971462442, 71.0, 222.80521136479237)
-[02:17:41] [Server thread/INFO]: xcave joined the game
-[02:17:49] [Server thread/INFO]: xcave lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[02:17:49] [Server thread/INFO]: xcave left the game
+[02:16:54] [User Authenticator #154/INFO]: UUID of player baroquebobcat is 96c795d3-8dc9-4d10-8d4c-b8d80e5c7cf2
+[02:16:54] [Server thread/INFO]: baroquebobcat[/71.229.206.23:63409] logged in with entity id 10723245 at (12.202285067385274, 48.0, 61.380640427594166)
+[02:16:54] [Server thread/INFO]: baroquebobcat joined the game
+[02:17:00] [Server thread/INFO]: Eucharion lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:17:00] [Server thread/INFO]: Eucharion left the game
+[02:18:43] [Server thread/INFO]: baroquebobcat lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:18:43] [Server thread/INFO]: baroquebobcat left the game
 [02:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[02:23:02] [User Authenticator #305/INFO]: UUID of player fishtoaster is 1719f5a1-cddd-4580-8ee9-ef02da343f38
-[02:23:02] [Server thread/INFO]: fishtoaster[/50.184.4.44:64658] logged in with entity id 22575985 at (-2232.8303740004376, 82.0, 5.406015954024192)
-[02:23:02] [Server thread/INFO]: fishtoaster joined the game
-[02:23:30] [Server thread/INFO]: <fishtoaster> Man, this server's deserted tonight.
+[02:21:21] [Server thread/WARN]: tyrosinase moved wrongly!
 [02:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[02:25:59] [Server thread/INFO]: fishtoaster lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[02:25:59] [Server thread/INFO]: fishtoaster left the game
-[02:26:02] [User Authenticator #306/INFO]: UUID of player fishtoaster is 1719f5a1-cddd-4580-8ee9-ef02da343f38
-[02:26:02] [Server thread/INFO]: fishtoaster[/50.184.4.44:64703] logged in with entity id 22582465 at (-2228.209971464133, 82.125, 4.06732596534242)
-[02:26:02] [Server thread/INFO]: fishtoaster joined the game
-[02:26:04] [Server thread/INFO]: fishtoaster lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[02:26:04] [Server thread/INFO]: fishtoaster left the game
-[02:27:38] [User Authenticator #307/INFO]: UUID of player fishtoaster is 1719f5a1-cddd-4580-8ee9-ef02da343f38
-[02:27:38] [Server thread/INFO]: fishtoaster[/50.184.4.44:64733] logged in with entity id 22583643 at (-2228.209971464133, 82.125, 4.06732596534242)
-[02:27:38] [Server thread/INFO]: fishtoaster joined the game
+[02:25:01] [Server thread/WARN]: tyrosinase moved wrongly!
+[02:25:02] [Server thread/WARN]: tyrosinase moved wrongly!
 [02:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[02:32:23] [Server thread/INFO]: fishtoaster lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[02:32:23] [Server thread/INFO]: fishtoaster left the game
-[02:33:20] [User Authenticator #308/INFO]: UUID of player fishtoaster is 1719f5a1-cddd-4580-8ee9-ef02da343f38
-[02:33:20] [Server thread/INFO]: fishtoaster[/50.184.4.44:64823] logged in with entity id 22595993 at (-2229.9824556412755, 90.125, 4.726703462471704)
-[02:33:20] [Server thread/INFO]: fishtoaster joined the game
+[02:30:04] [User Authenticator #155/INFO]: UUID of player ryanbates is d1f2b5d0-4c74-4ff5-9cba-6644fc0a2c61
+[02:30:04] [Server thread/INFO]: ryanbates[/71.80.203.86:61754] logged in with entity id 10782851 at (-222.5415749987792, 69.0, 277.0052713668528)
+[02:30:04] [Server thread/INFO]: ryanbates joined the game
+[02:32:36] [User Authenticator #156/INFO]: UUID of player xcave is a622e5a1-e4f2-4011-94dc-d0580de911e9
+[02:32:36] [Server thread/INFO]: xcave[/74.222.193.10:52693] logged in with entity id 10792764 at (-1543.699999988079, 11.0, 17.66068259260717)
+[02:32:36] [Server thread/INFO]: xcave joined the game
+[02:33:09] [User Authenticator #157/INFO]: UUID of player baroquebobcat is 96c795d3-8dc9-4d10-8d4c-b8d80e5c7cf2
+[02:33:09] [Server thread/INFO]: baroquebobcat[/71.229.206.23:63633] logged in with entity id 10793926 at (12.699999988079071, 41.0, 21.068017983078864)
+[02:33:09] [Server thread/INFO]: baroquebobcat joined the game
+[02:33:21] [Server thread/INFO]: owookie lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:33:21] [Server thread/INFO]: owookie left the game
+[02:34:50] [Server thread/INFO]: <xcave> hi baroquebobcat
+[02:34:59] [Server thread/INFO]: <baroquebobcat> hi
 [02:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[02:35:03] [Server thread/INFO]: <tyrosinase> o/
+[02:39:29] [Server thread/INFO]: <McPhage> Okay, armor rebuilt. Anyone want to hunt some withers?
+[02:39:39] [Server thread/INFO]: <xcave> how likely am I to die?
+[02:39:53] [Server thread/INFO]: <McPhage> Not too likely?
+[02:40:00] [Server thread/INFO]: <xcave> LOL. What do I need?
 [02:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[02:42:13] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[02:42:34] [Server thread/INFO]: <tyrosinase> Golden apples. Buckets of milk, usually, except this is Easy so no wither effect.
+[02:43:00] [Server thread/INFO]: <McPhage> Regen potions are usually sufficient. Strength is good. Speed is good.
+[02:43:19] [Server thread/INFO]: <ryanbates> feel free to take potions in the brewery
+[02:43:21] [Server thread/INFO]: <xcave> good thing we have a brewery
+[02:43:23] [Server thread/INFO]: <xcave> haha
+[02:43:39] [Server thread/INFO]: <ryanbates> regen is in the basement
+[02:43:50] [Server thread/INFO]: <ryanbates> thanks to your ghast tears :)
+[02:43:50] [Server thread/INFO]: <McPhage> ryanbates: where's the brewery?
+[02:43:52] [Server thread/INFO]: <xcave> those tears are finally going to come in handy
+[02:44:02] [Server thread/INFO]: <tyrosinase> Pigmen keep spawning out of the portals and swimming in the pond I'm fishing in. Can't end well.
+[02:44:36] [Server thread/INFO]: <ryanbates> brewery is -75 320
+[02:44:52] [Server thread/INFO]: <ryanbates> southeast a ways from city hall
 [02:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[02:45:50] [Server thread/INFO]: <McPhage> ryanbates: thanks
+[02:49:06] [Server thread/INFO]: <McPhage> nice! I meant to build a better lab in my base, but never got around to it
+[02:49:29] [Server thread/INFO]: <ryanbates> let me know if you need something custom brewed, or if you want it delivered somewhere
+[02:49:37] [Server thread/INFO]: <ryanbates> the system is automated so it is easy to brew in bulk
 [02:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[02:50:39] [User Authenticator #158/INFO]: UUID of player fishtoaster is 1719f5a1-cddd-4580-8ee9-ef02da343f38
+[02:50:39] [Server thread/INFO]: fishtoaster[/50.184.4.44:61352] logged in with entity id 10922939 at (-2233.9043086503416, 81.0, 11.544933028833317)
+[02:50:39] [Server thread/INFO]: fishtoaster joined the game
+[02:50:51] [Server thread/INFO]: <xcave> fishtoaster want to go hunt withers?
+[02:50:51] [Server thread/INFO]: <McPhage> Do you have strength 2?
+[02:51:03] [Server thread/INFO]: <fishtoaster> Sure. Never done that before!
+[02:51:08] [Server thread/INFO]: <ryanbates> just extended at the moment
+[02:52:31] [Server thread/INFO]: <ryanbates> brewing some str 2 up
+[02:52:37] [Server thread/INFO]: <McPhage> awesome, thanks
+[02:52:40] [Server thread/INFO]: <fishtoaster> Heading to town
+[02:52:48] [Server thread/INFO]: <xcave> let's meet at the brewery
+[02:52:53] [Server thread/INFO]: <fishtoaster> Sounds good.
+[02:53:07] [Server thread/INFO]: <fishtoaster> Glad I built this rail line from my house to pickaxe. :)
+[02:53:07] [Server thread/INFO]: <xcave> cool, one more for the posse
+[02:53:07] [Server thread/INFO]: <ryanbates> does str 1 not kill wither skeletons in 1 hit?
+[02:53:15] [Server thread/INFO]: <McPhage> I'm going to go grab some hops potions
+[02:53:23] [Server thread/INFO]: <McPhage> ryanbates: not wither skeletons, the wither boss
+[02:53:33] [Server thread/INFO]: <ryanbates> oh, fighting the boss, nice
+[02:53:47] [Server thread/INFO]: <McPhage> tyrosinase wants more beacons
+[02:53:57] [Server thread/INFO]: <McPhage> MORE BEACONS FOR THE BEACON GOD
+[02:54:00] [Server thread/INFO]: <ryanbates> lol
+[02:54:01] [Server thread/INFO]: <fishtoaster> lol
+[02:54:05] [Server thread/INFO]: <xcave> haha
+[02:54:11] [Server thread/INFO]: <xcave> what Tyro wants....Tyro gets...
+[02:54:12] [Server thread/INFO]: <tyrosinase> Goddess.
+[02:54:23] [Server thread/INFO]: <McPhage> tyrosinase: tell that to Khrone
+[02:54:38] [Server thread/INFO]: <fishtoaster> Bah. the western nether rail is all torn up. I'll have to cover that better, I guess.
+[02:54:48] [Server thread/INFO]: <xcave> can we move it to the other side
 [02:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[02:55:18] [RCON Listener #1/INFO]: Rcon connection from: /54.158.151.204
-[02:55:18] [RCON Listener #1/INFO]: Rcon connection from: /54.158.151.204
+[02:55:03] [Server thread/INFO]: <fishtoaster> The rail? Sure.
+[02:55:10] [Server thread/INFO]: <xcave> seems to be on the wrong side. Most entrances are on the side it's on
+[02:55:17] [Server thread/INFO]: <fishtoaster> Fair enough.
+[02:55:18] [Server thread/INFO]: <xcave> same w/ the north one.
+[02:55:32] [Server thread/INFO]: <xcave> I can help
+[02:55:38] [Server thread/INFO]: <tyrosinase> Yeah, that's why I hadn't laid rail down yet. Trying to decide if it would mess up the netherhood
+[02:55:54] [Server thread/INFO]: <tyrosinase> if I ran the roof out onto its streets enough to protect the rail.
+[02:56:09] [Server thread/WARN]: tyrosinase moved wrongly!
+[02:56:36] [Server thread/INFO]: <ryanbates> strength 2 potions are in the bottom two rows of the strength chest in the brewery now
+[02:56:44] [Server thread/INFO]: <McPhage> ryanbates: thanks
+[02:56:52] [Server thread/INFO]: <fishtoaster> Nice brewery. :0
+[02:56:56] [Server thread/INFO]: <ryanbates> thx
+[02:56:57] [Server thread/INFO]: <fishtoaster> *)
+[02:56:59] [Server thread/WARN]: tyrosinase moved wrongly!
+[02:57:00] [Server thread/INFO]: <fishtoaster> *:)
+[02:59:11] [Server thread/INFO]: <xcave> how many strengths do we need?
+[02:59:30] [Server thread/INFO]: <McPhage> Eh, a few? How many withers are we going to kill?
+[02:59:31] [Server thread/INFO]: <xcave> dropped off 1.5 stacks of powder
+[02:59:35] [Server thread/INFO]: <xcave> 2
+[02:59:37] [Server thread/INFO]: <xcave> at least
+[02:59:38] [Server thread/INFO]: <ryanbates> thanks
+[02:59:44] [Server thread/INFO]: <fishtoaster> Suppose it's good I just upgraded my bow to power V.
+[02:59:54] [Server thread/INFO]: <McPhage> How many beacons are in place already?
+[02:59:57] [Server thread/INFO]: <xcave> 2
 [03:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[03:00:58] [Server thread/INFO]: fishtoaster lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[03:00:58] [Server thread/INFO]: fishtoaster left the game
-[03:01:04] [User Authenticator #309/INFO]: UUID of player fishtoaster is 1719f5a1-cddd-4580-8ee9-ef02da343f38
-[03:01:04] [Server thread/INFO]: fishtoaster[/50.184.4.44:65436] logged in with entity id 22654113 at (-2253.8243385573232, 82.0, 14.727502486445262)
-[03:01:04] [Server thread/INFO]: fishtoaster joined the game
+[03:00:10] [Server thread/INFO]: <McPhage> So a full set would be 4 more withers.
+[03:00:13] [Server thread/INFO]: <xcave> true
+[03:00:18] [Server thread/INFO]: <xcave> but the hole is good for 4
+[03:00:27] [Server thread/INFO]: <McPhage> The hole?
+[03:00:34] [Server thread/INFO]: <xcave> she built a pit
+[03:01:05] [Server thread/INFO]: <xcave> anyway, 2 or 4 more, it's all good.
+[03:01:12] [Server thread/INFO]: <xcave> you have 8 minute speeds ryan?
+[03:01:18] [Server thread/INFO]: <tyrosinase> I could do without the stupid Jump one.
+[03:01:18] [Server thread/INFO]: <ryanbates> yeah, in the speed chest
+[03:01:32] [Server thread/INFO]: <McPhage> tyrosinase: whaaaaa? That's my favorite
+[03:01:40] [Server thread/INFO]: <ryanbates> speed chest on the main floor
+[03:01:45] [Server thread/INFO]: <xcave> speed is my favorite, then jump
+[03:02:14] [Server thread/INFO]: <McPhage> Um, true. Speed is better. But speed then jump.
+[03:02:29] [Server thread/INFO]: <tyrosinase> I hate jump when I'm trying to build.
+[03:03:09] [Server thread/INFO]: <xcave> do we need fire resist?
+[03:03:30] [Server thread/INFO]: <McPhage> I don't think it actually helps? But it's a cheap enough potion that I drink it just in case.
+[03:03:57] [Server thread/INFO]: <ryanbates> wither doesn't use fire attacks, but who knows he might blow you up into a lava pool
+[03:04:24] [Server thread/WARN]: tyrosinase moved wrongly!
 [03:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[03:08:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@77c084d3[id=<null>,name=lt_waffle,properties={},legacy=false] (/75.72.203.28:54003) lost connection: Disconnected
+[03:06:07] [Server thread/INFO]: <xcave> looks like could use some enchanted apples
+[03:06:30] [Server thread/INFO]: <ryanbates> give the wither a chance ;)
+[03:06:31] [Server thread/INFO]: <xcave> golden apples actually
+[03:06:32] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[03:06:40] [Server thread/INFO]: <xcave> make you HULK SMASH!
+[03:07:04] [Server thread/INFO]: <fishtoaster> Heh. I think with all our diamond armor and potions, we'll probably be fine.
+[03:07:13] [Server thread/INFO]: <xcave> I'm wearing my iron man armor under my regular armor, just in case
+[03:07:26] [Server thread/INFO]: <fishtoaster> Reading up on withers now. Apparently you need three wither skulls to create one.
+[03:07:32] [Server thread/INFO]: <fishtoaster> Do we have a bunch of those?
+[03:07:38] [Server thread/INFO]: <McPhage> fishtoaster: yes
+[03:08:40] [Server thread/INFO]: <McPhage> We good to go?
+[03:08:46] [Server thread/INFO]: <fishtoaster> I'm all set.
+[03:08:52] [Server thread/INFO]: <McPhage> xcave?
+[03:09:54] [Server thread/INFO]: <McPhage> I'm heading to the arena
 [03:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[03:10:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2135ms behind, skipping 42 tick(s)
+[03:10:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6601ms behind, skipping 132 tick(s)
+[03:11:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2481ms behind, skipping 49 tick(s)
+[03:11:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2726ms behind, skipping 54 tick(s)
+[03:11:45] [Server thread/INFO]: <xcave> give me a minute
+[03:11:46] [Server thread/INFO]: <xcave> brb
+[03:11:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3913ms behind, skipping 78 tick(s)
+[03:11:49] [Server thread/INFO]: <McPhage> sure
+[03:12:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3241ms behind, skipping 64 tick(s)
+[03:12:08] [Server thread/INFO]: <fishtoaster> brb as well
+[03:12:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3430ms behind, skipping 68 tick(s)
+[03:12:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4875ms behind, skipping 97 tick(s)
+[03:12:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2630ms behind, skipping 52 tick(s)
+[03:12:57] [Server thread/INFO]: <fishtoaster> back
+[03:13:06] [Server thread/INFO]: <McPhage> do you guys have night vision?
+[03:13:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3305ms behind, skipping 66 tick(s)
+[03:13:13] [Server thread/INFO]: <xcave> no, ryan has a bunch
+[03:13:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3857ms behind, skipping 77 tick(s)
+[03:13:32] [Server thread/INFO]: <McPhage> In general it's better to do it during the day, but it attacks the monsters too and
+[03:13:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2808ms behind, skipping 56 tick(s)
+[03:13:42] [Server thread/INFO]: <McPhage> They can distract it. But let's do daytime
+[03:13:46] [Server thread/INFO]: <fishtoaster> k
+[03:13:55] [Server thread/INFO]: <McPhage> So there's the fast way and the slow way.
+[03:13:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2083ms behind, skipping 41 tick(s)
+[03:14:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3229ms behind, skipping 64 tick(s)
+[03:14:22] [Server thread/INFO]: <McPhage> The fast way is, jump potion and use your sword, the slow way is, arrows.
+[03:14:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3021ms behind, skipping 60 tick(s)
+[03:14:35] [Server thread/INFO]: <McPhage> It'll target someone, and they run in circles.
+[03:14:41] [Server thread/INFO]: <ryanbates> I forgot about jump potions
+[03:14:46] [Server thread/INFO]: <ryanbates> they are new
+[03:14:53] [Server thread/INFO]: <McPhage> Everyone else plinks it with arrows and tries not to die.
+[03:15:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2283ms behind, skipping 45 tick(s)
 [03:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[03:15:01] [Server thread/INFO]: <fishtoaster> Ah, didn't grab any jumps either
+[03:15:08] [Server thread/INFO]: <ryanbates> I don't have any in the brewery
+[03:15:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6182ms behind, skipping 123 tick(s)
+[03:15:31] [Server thread/INFO]: <ryanbates> is there a rabbit arm anywhere?
+[03:15:33] [Server thread/INFO]: <McPhage> I've got some, but I don't know that way will work with multiple people. It's very in-your-face
+[03:15:34] [Server thread/INFO]: <ryanbates> farm*
+[03:15:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2226ms behind, skipping 44 tick(s)
+[03:15:45] [Server thread/INFO]: <McPhage> And probably we'd hit each other.
+[03:16:00] [Server thread/INFO]: <McPhage> ryanbates: I built one near the community garden / giant sheep
+[03:16:05] [Server thread/INFO]: <xcave> we all have good bows
+[03:16:07] [Server thread/INFO]: <ryanbates> k thanks
+[03:16:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2088ms behind, skipping 41 tick(s)
+[03:16:19] [Server thread/INFO]: <McPhage> So let's do it that way.
+[03:16:23] [Server thread/INFO]: <McPhage> Morning is coming.
+[03:17:33] [Server thread/INFO]: <McPhage> I'm trying to find a place that isn't too cratered :-(
+[03:18:19] [Server thread/INFO]: <McPhage> All ready to go?
+[03:18:34] [Server thread/INFO]: <fishtoaster> All set
+[03:18:42] [Server thread/INFO]: fishtoaster has just earned the achievement [The Beginning?]
+[03:19:51] [Server thread/INFO]: fishtoaster has just earned the achievement [The Beginning.]
+[03:20:00] [Server thread/INFO]: <McPhage> et voila
 [03:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[03:24:51] [User Authenticator #310/INFO]: UUID of player ryanbates is d1f2b5d0-4c74-4ff5-9cba-6644fc0a2c61
-[03:24:51] [Server thread/INFO]: ryanbates[/71.80.203.86:50502] logged in with entity id 22698612 at (-194.23750001192093, 70.0, 264.0016557136054)
-[03:24:51] [Server thread/INFO]: ryanbates joined the game
+[03:20:03] [Server thread/INFO]: <ryanbates> that was quick
+[03:20:05] [Server thread/INFO]: <xcave> nice
+[03:20:12] [Server thread/INFO]: <xcave> glad it wasn't chasing me!
+[03:20:12] [Server thread/INFO]: baroquebobcat lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:20:12] [Server thread/INFO]: baroquebobcat left the game
+[03:20:17] [Server thread/INFO]: <fishtoaster> Man, I can see why this is benefits from many people. :
+[03:20:17] [Server thread/INFO]: <xcave> and sorry whoever I plinked
+[03:20:19] [Server thread/INFO]: <fishtoaster> *:)
+[03:20:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2096ms behind, skipping 41 tick(s)
+[03:20:26] [Server thread/INFO]: <McPhage> :-)
+[03:20:39] [Server thread/INFO]: <fishtoaster> Ready when you are
+[03:21:06] [Server thread/INFO]: <xcave> well, Ryan, we ARE juicing
+[03:21:16] [Server thread/INFO]: <ryanbates> the shame
+[03:21:19] [Server thread/INFO]: <McPhage> ok
+[03:22:41] [Server thread/INFO]: <xcave> LOL
+[03:22:48] [Server thread/INFO]: <McPhage> 2 down, 2 to go
+[03:22:53] [Server thread/INFO]: [tyrosinase: Set own game mode to Spectator Mode]
+[03:22:57] [Server thread/INFO]: [tyrosinase: Teleported tyrosinase to ryanbates]
+[03:23:04] [Server thread/INFO]: <McPhage> wrong person ;-)
+[03:23:11] [Server thread/INFO]: [tyrosinase: Teleported tyrosinase to fishtoaster]
+[03:23:12] [Server thread/INFO]: <xcave> fishtoaster, sorry
+[03:23:28] [Server thread/INFO]: <fishtoaster> All good
+[03:24:46] [Server thread/INFO]: <xcave> i got the star
+[03:24:47] [Server thread/INFO]: <McPhage> how about here
+[03:24:49] [Server thread/INFO]: <xcave> i have two
+[03:24:54] [Server thread/INFO]: <McPhage> I have 1
+[03:24:58] [Server thread/INFO]: <xcave> ok. cool.
 [03:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[03:25:31] [Server thread/INFO]: ryanbates lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[03:25:31] [Server thread/INFO]: ryanbates left the game
-[03:25:48] [User Authenticator #311/INFO]: UUID of player Girlylb is ebf3909f-43fb-471e-8467-ec8f705f06ec
-[03:25:48] [Server thread/INFO]: Girlylb[/71.80.203.86:59026] logged in with entity id 22702056 at (-1323.1358551709116, 80.0, 768.5405191124985)
-[03:25:48] [Server thread/INFO]: Girlylb joined the game
-[03:25:50] [User Authenticator #312/INFO]: UUID of player ryanbates is d1f2b5d0-4c74-4ff5-9cba-6644fc0a2c61
-[03:25:50] [Server thread/INFO]: ryanbates[/71.80.203.86:50514] logged in with entity id 22702941 at (-194.2451937274309, 70.0, 264.69999998807907)
-[03:25:50] [Server thread/INFO]: ryanbates joined the game
+[03:25:05] [Server thread/INFO]: <McPhage> here
+[03:26:59] [Server thread/INFO]: <McPhage> Nice
+[03:27:06] [Server thread/INFO]: <xcave> got it too. Have 3.
+[03:27:12] [Server thread/INFO]: <xcave> who got the kills?
+[03:27:17] [Server thread/INFO]: <McPhage> take the 4th
+[03:27:25] [Server thread/INFO]: <McPhage> Dunno, I don't think it shows us
+[03:27:25] [Server thread/INFO]: <xcave> ok. I have all 4.
+[03:27:31] [Server thread/INFO]: <xcave> thought it gave you XP
+[03:27:34] [Server thread/INFO]: <McPhage> And it turns dark
+[03:27:39] [Server thread/INFO]: <McPhage> xcave: nope :-(
+[03:27:40] [Server thread/INFO]: <xcave> maybe it was me.
+[03:27:50] [Server thread/INFO]: <xcave> well, that was fun
+[03:27:56] [Server thread/INFO]: <McPhage> the dragon gave tons of XP. the wither, none :-(
+[03:28:06] [Server thread/INFO]: <fishtoaster> Wanno do any more? Could always use more nether stars. :)
+[03:28:10] [Server thread/INFO]: <ryanbates> kills might be under Esc > Statistics > Mobs
+[03:28:12] [Server thread/INFO]: [tyrosinase: Teleported tyrosinase to ryanbates]
+[03:28:14] [Server thread/INFO]: <xcave> true.
+[03:28:20] [Server thread/INFO]: <xcave> let me store the stars
+[03:28:32] [Server thread/INFO]: [tyrosinase: Set own game mode to Survival Mode]
+[03:28:43] [Server thread/INFO]: <McPhage> xcave: can you make the beacons? I have obsidian if you need
+[03:28:59] [Server thread/INFO]: <xcave> sure. I can get it too.
+[03:29:08] [Server thread/INFO]: <McPhage> Ok, then I'll leave the stars to you.
+[03:29:22] [Server thread/INFO]: <McPhage> fishtoaster: prolly next weekend? I'd like to get some more in town.
+[03:29:53] [Server thread/INFO]: <xcave> so do we want to kill more? We're juiced up. Just wait 'til morning?
 [03:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[03:30:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2065ms behind, skipping 41 tick(s)
+[03:30:35] [Server thread/INFO]: <xcave> brb. You guys staying here?
+[03:30:36] [Server thread/INFO]: <McPhage> I'm going to sign off, so, next weekend?
+[03:30:42] [Server thread/INFO]: <xcave> ok. Next weekend. Thanks!
+[03:30:45] [Server thread/INFO]: <fishtoaster> Sounds good. :)
+[03:30:47] [Server thread/INFO]: <McPhage> xcave: no problem
+[03:31:58] [Server thread/WARN]: fishtoaster moved wrongly!
+[03:32:22] [User Authenticator #159/INFO]: UUID of player baroquebobcat is 96c795d3-8dc9-4d10-8d4c-b8d80e5c7cf2
+[03:32:22] [Server thread/INFO]: baroquebobcat[/71.229.206.23:63676] logged in with entity id 11288775 at (-8.771320189205726, 48.0, 204.43579234300523)
+[03:32:22] [Server thread/INFO]: baroquebobcat joined the game
+[03:33:59] [Server thread/INFO]: xcave has just earned the achievement [The End?]
 [03:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[03:35:06] [Server thread/INFO]: xcave has just earned the achievement [The End.]
+[03:37:19] [Server thread/INFO]: <McPhage> night all, see you next weekend
+[03:37:22] [Server thread/INFO]: <ryanbates> night
+[03:37:23] [Server thread/INFO]: <fishtoaster> Later!
+[03:37:25] [Server thread/INFO]: McPhage lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:37:25] [Server thread/INFO]: McPhage left the game
+[03:38:58] [Server thread/INFO]: tyrosinase lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:38:58] [Server thread/INFO]: tyrosinase left the game
+[03:39:22] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[03:39:32] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[03:39:39] [Server thread/INFO]: <xcave> I'm not
+[03:39:52] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
 [03:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[03:40:06] [Server thread/INFO]: <ryanbates> you have the default skin when I hit tab
+[03:40:35] [Server thread/INFO]: <ryanbates> maybe mojang skin servers are acting up
+[03:41:20] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[03:41:39] [Server thread/INFO]: <xcave> they do have the default Adam skin or whatever that is
+[03:42:18] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
 [03:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[03:46:57] [User Authenticator #160/INFO]: UUID of player hootyhoostin is 7ccde049-68c0-4148-a519-77674040e354
+[03:46:57] [Server thread/INFO]: hootyhoostin[/97.103.204.94:60728] logged in with entity id 11429460 at (-50.38661017182005, 63.5, 1651.9392587125571)
+[03:46:57] [Server thread/INFO]: hootyhoostin joined the game
+[03:47:48] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
 [03:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[03:51:58] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[03:52:35] [Server thread/WARN]: hootyhoostin moved wrongly!
+[03:53:16] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[03:53:27] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[03:53:59] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[03:54:24] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[03:54:30] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[03:54:46] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[03:55:00] [Server thread/INFO]: <ryanbates> nice
 [03:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[03:55:22] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[03:55:32] [Server thread/INFO]: <ryanbates> do you sometimes spy on us in spectator mode? ;P
+[03:55:41] [Server thread/INFO]: <xcave> all the tiem
+[03:55:44] [Server thread/INFO]: <xcave> time
+[03:55:45] [Server thread/INFO]: <ryanbates> lol
+[03:56:00] [Server thread/INFO]: <xcave> so make sure you're dressed when you look in the mirror
+[03:56:13] [Server thread/INFO]: <xcave> FULL ARMOR!
+[03:58:06] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[03:58:26] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[03:59:03] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[03:59:05] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[03:59:50] [Server thread/INFO]: <xcave> Ryan, thanks for the juice. I put back what I didn't juice up.
+[03:59:59] [Server thread/INFO]: <ryanbates> welcome
 [04:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[04:00:25] [Server thread/INFO]: <xcave> I felt invincible. Mostly because I wasn't being targeted much.
+[04:00:53] [Server thread/INFO]: <xcave> I think I did more damage to McPhage and fishtoaster than the wither did
+[04:01:01] [Server thread/INFO]: <ryanbates> lol
+[04:01:28] [Server thread/INFO]: <fishtoaster> I dunno, I took a pretty big beating the one time I tried to stand and fight when it went after me.
+[04:01:29] [Server thread/INFO]: <fishtoaster> :)
+[04:01:50] [Server thread/INFO]: <xcave> I think that's when I jumped it from above. You were in a hole I think
+[04:03:15] [Server thread/INFO]: <xcave> I posted a screenshot of the fight. you're in it fishtoaster
+[04:03:53] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:04:28] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:04:46] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:04:52] [Server thread/INFO]: <xcave> I only got hit a couple of times
 [04:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[04:06:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2703ms behind, skipping 54 tick(s)
+[04:05:04] [Server thread/INFO]: <xcave> and I had new armor
+[04:05:12] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:06:05] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:06:08] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:07:29] [Server thread/INFO]: <xcave> fixed the carrot row
+[04:08:25] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:08:56] [Server thread/INFO]: <fishtoaster> Yeah, that's pretty neat.
+[04:09:02] [Server thread/INFO]: <ryanbates> there are some afk farms where you just hold right click, but not as fun
+[04:09:22] [Server thread/INFO]: <xcave> can you auto plant?
+[04:09:26] [Server thread/INFO]: <fishtoaster> You can use villagers to plant for you and do full-auto.
+[04:09:37] [Server thread/INFO]: <xcave> ryan put speed potions by the farm, so it goes fast
+[04:09:42] [Server thread/INFO]: <ryanbates> oh yeah, forgot villagers plant now, do they plant carrots/potatoes?
+[04:09:48] [Server thread/INFO]: <fishtoaster> They do.
+[04:09:51] [Server thread/INFO]: <ryanbates> nice
 [04:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[04:13:16] [User Authenticator #313/INFO]: UUID of player UncleAdam is 89858048-4813-46ab-9120-872e5c5b4e91
-[04:13:16] [Server thread/INFO]: UncleAdam[/146.115.187.104:40073] logged in with entity id 22966061 at (-324.699999988079, 63.0, 182.22380571827526)
-[04:13:16] [Server thread/INFO]: UncleAdam joined the game
-[04:13:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3211ms behind, skipping 64 tick(s)
+[04:12:15] [Server thread/INFO]: <xcave> I see you moved the rail already
+[04:12:26] [Server thread/INFO]: <fishtoaster> One of them. And it's still in progress.
+[04:12:46] [User Authenticator #161/INFO]: UUID of player CobyR is e931627c-d0f1-44bd-99d8-e7e6e9128859
+[04:12:46] [Server thread/INFO]: CobyR[/208.100.161.128:64545] logged in with entity id 11677315 at (-46.201409988416415, 128.0, -9.94370822939753)
+[04:12:46] [Server thread/INFO]: CobyR joined the game
+[04:13:03] [Server thread/INFO]: CobyR lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[04:13:03] [Server thread/INFO]: CobyR left the game
 [04:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[04:15:07] [Server thread/INFO]: <xcave> anyone need glass?
+[04:15:30] [Server thread/INFO]: <fishtoaster> If you've got a bunch of it, I could use it to cover the westbound nether rail
+[04:15:43] [Server thread/INFO]: <xcave> come to atlantis. You're right by it
+[04:15:55] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:16:02] [Server thread/INFO]: <xcave> but doesn't it get blown up?
+[04:16:18] [Server thread/INFO]: <fishtoaster> It would, but ghasts won't fire at you through it.
+[04:16:27] [Server thread/INFO]: <fishtoaster> They can't see you.
+[04:16:30] [Server thread/INFO]: <xcave> ah. Well, then , have I got some glass for you
+[04:16:48] [Server thread/INFO]: <xcave> ramp had to get widened to get the horses out
+[04:16:50] [Server thread/INFO]: <fishtoaster> Awesome. :)
+[04:17:00] [User Authenticator #162/INFO]: UUID of player CobyR is e931627c-d0f1-44bd-99d8-e7e6e9128859
+[04:17:00] [Server thread/INFO]: CobyR[/208.100.161.128:64918] logged in with entity id 11724827 at (-46.201409988416415, 128.0, -9.94370822939753)
+[04:17:00] [Server thread/INFO]: CobyR joined the game
+[04:17:10] [Server thread/INFO]: <fishtoaster> Woah. Tha'ts a lot of glass.
+[04:17:12] [Server thread/INFO]: <xcave> and down here
+[04:17:25] [Server thread/INFO]: <xcave> take from teh top one since it's almost full
+[04:17:36] [Server thread/INFO]: <xcave> find a chest to put your stuff in. Should be room somewhere
+[04:17:36] [Server thread/INFO]: <fishtoaster> K
+[04:17:59] [Server thread/INFO]: <fishtoaster> This is prety close to the work; I can just come back for more. :)
+[04:18:04] [Server thread/INFO]: <fishtoaster> Thanks!
+[04:18:06] [Server thread/INFO]: <xcave> sounds good
+[04:18:09] [Server thread/INFO]: <xcave> help yourself
+[04:18:18] [Server thread/WARN]: CobyR moved wrongly!
 [04:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[04:21:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2316ms behind, skipping 46 tick(s)
+[04:21:43] [Server thread/INFO]: <ryanbates> so hard to get enough saplings from jungle trees
+[04:21:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6534ms behind, skipping 130 tick(s)
+[04:21:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3762ms behind, skipping 75 tick(s)
+[04:21:59] [Server thread/INFO]: <xcave> does looting help?
+[04:22:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3270ms behind, skipping 65 tick(s)
+[04:22:13] [Server thread/INFO]: <ryanbates> hmm, good question. I don't think so though
+[04:22:16] [Server thread/INFO]: <xcave> I gues it would be fortune
+[04:22:21] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:22:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2116ms behind, skipping 42 tick(s)
+[04:22:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2076ms behind, skipping 41 tick(s)
+[04:24:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2113ms behind, skipping 42 tick(s)
+[04:24:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4811ms behind, skipping 96 tick(s)
 [04:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[04:26:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2078ms behind, skipping 41 tick(s)
+[04:25:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3870ms behind, skipping 77 tick(s)
+[04:25:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6762ms behind, skipping 135 tick(s)
+[04:25:34] [Server thread/INFO]: <xcave> I keep forgetting to buy nametags
+[04:25:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3015ms behind, skipping 60 tick(s)
+[04:25:47] [Server thread/INFO]: <CobyR> can you buby nametags from villagers?
+[04:25:54] [Server thread/INFO]: <xcave> yes
+[04:25:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2154ms behind, skipping 43 tick(s)
+[04:26:06] [Server thread/INFO]: <CobyR> fortune on the axe should help with saplings
+[04:26:38] [Server thread/INFO]: baroquebobcat lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[04:26:38] [Server thread/INFO]: baroquebobcat left the game
+[04:27:58] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:28:19] [Server thread/INFO]: <xcave> haha
+[04:28:32] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:28:39] [Server thread/INFO]: <ryanbates> looked it up, fortune doesn't effect sapling drops unless that has changed recently
+[04:28:50] [Server thread/INFO]: <xcave> :(
+[04:28:59] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:29:14] [Server thread/INFO]: <ryanbates> oh, must have changed since the video I watched
+[04:29:15] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:29:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2168ms behind, skipping 43 tick(s)
+[04:29:23] [Server thread/INFO]: <ryanbates> right
+[04:29:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5193ms behind, skipping 103 tick(s)
+[04:29:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3761ms behind, skipping 75 tick(s)
 [04:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[04:30:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2005ms behind, skipping 40 tick(s)
-[04:33:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2277ms behind, skipping 45 tick(s)
-[04:34:48] [Server thread/INFO]: Girlylb lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[04:34:48] [Server thread/INFO]: Girlylb left the game
+[04:30:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4045ms behind, skipping 80 tick(s)
+[04:30:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2712ms behind, skipping 54 tick(s)
+[04:30:41] [Server thread/INFO]: <xcave> brought more glass
+[04:30:51] [Server thread/INFO]: <fishtoaster> Cool, thanks
+[04:31:51] [Server thread/INFO]: <xcave> willt hat clear a horse?
+[04:32:07] [Server thread/INFO]: <fishtoaster> Good question. How tall is a hore?
+[04:32:14] [Server thread/INFO]: <fishtoaster> This has three blocks of space
+[04:32:17] [Server thread/INFO]: <xcave> 3 blocks? Not sure w/ rider.
+[04:32:21] [Server thread/INFO]: <xcave> probably still
+[04:32:23] [Server thread/INFO]: <xcave> 3
+[04:32:37] [Server thread/INFO]: <CobyR> three blocks with rider, two blocks will suffocate the rider
+[04:32:40] [Server thread/INFO]: <fishtoaster> 3 tall, two wide. I think it's similar to the other tunnels.
+[04:32:47] [Server thread/INFO]: <fishtoaster> Cool, should fit then.
 [04:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[04:37:04] [Server thread/INFO]: ryanbates lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[04:37:04] [Server thread/INFO]: ryanbates left the game
+[04:37:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2287ms behind, skipping 45 tick(s)
 [04:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[04:44:23] [Server thread/INFO]: fishtoaster lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[04:44:23] [Server thread/INFO]: fishtoaster left the game
-[04:44:30] [User Authenticator #314/INFO]: UUID of player fishtoaster is 1719f5a1-cddd-4580-8ee9-ef02da343f38
-[04:44:30] [Server thread/INFO]: fishtoaster[/50.184.4.44:51035] logged in with entity id 23155906 at (-2237.014218741552, 83.0, 10.071051599928726)
-[04:44:30] [Server thread/INFO]: fishtoaster joined the game
+[04:40:12] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:40:29] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:40:50] [Server thread/INFO]: <fishtoaster> Good to know. :)
+[04:41:22] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:41:59] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:43:45] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:44:12] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:44:34] [Server thread/INFO]: <fishtoaster> Yeah, that makes travel a lot easier.
+[04:45:00] [Server thread/INFO]: <fishtoaster> Found any good way to cover tracks going up stairs?
 [04:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[04:45:39] [Server thread/INFO]: <ryanbates> I looked into that in the past, couldn't find a good way that prevents spawns
+[04:45:53] [Server thread/INFO]: <fishtoaster> Bummer.
+[04:46:05] [Server thread/INFO]: <ryanbates> some people say open gates work but turns out they can spawn still
+[04:46:54] [Server thread/INFO]: <ryanbates> you can put half slabs but it only goes up not down (iirc)
+[04:47:21] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:47:40] [Server thread/INFO]: <ryanbates> minecart can't go down then
+[04:47:52] [Server thread/INFO]: <xcave> lol
+[04:47:58] [Server thread/INFO]: <fishtoaster> Heh
+[04:48:14] [Server thread/INFO]: <ryanbates> here is an idea, add a detector rail that triggers pistons to move out of the way temporarily
+[04:48:17] [Server thread/INFO]: <xcave> lost a couple rail
+[04:48:19] [Server thread/INFO]: <ryanbates> sounds like a lot of work though
+[04:48:23] [Server thread/INFO]: <fishtoaster> That'd be pretty cool
+[04:48:38] [Server thread/INFO]: <fishtoaster> Probably not very survival friendly
+[04:48:40] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:49:25] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:49:40] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
 [04:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[04:52:27] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:52:44] [Server thread/INFO]: <fishtoaster> Might be worth experimenting with.
+[04:52:52] [Server thread/INFO]: <ryanbates> hmm, not sure if I tried that
+[04:53:04] [Server thread/INFO]: <ryanbates> now I'm curious, will brb in creative
+[04:53:05] [Server thread/INFO]: ryanbates lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[04:53:05] [Server thread/INFO]: ryanbates left the game
+[04:53:09] [Server thread/INFO]: <fishtoaster> Heh
+[04:53:19] [Server thread/INFO]: <fishtoaster> I save my creative experimenting for week days
+[04:53:31] [Server thread/INFO]: <xcave> I've never been in creative
+[04:53:49] [Server thread/INFO]: <fishtoaster> Great way to try out concepts.
+[04:53:56] [Server thread/INFO]: <xcave> yep. Just haven't had any yet. :)
+[04:54:01] [Server thread/INFO]: <xcave> still learning the basics
+[04:54:24] [Server thread/INFO]: <fishtoaster> I think you're past the basics when you're fighting withers. :P
+[04:54:42] [Server thread/INFO]: <xcave> haha. Ok. I had a lot of help getting over the learning curve.
+[04:54:58] [Server thread/INFO]: <xcave> but I only started playing mid February I think.
 [04:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[04:55:13] [User Authenticator #163/INFO]: UUID of player ryanbates is d1f2b5d0-4c74-4ff5-9cba-6644fc0a2c61
+[04:55:13] [Server thread/INFO]: ryanbates[/71.80.203.86:61847] logged in with entity id 12000957 at (-217.4579892529239, 63.0, 278.22622045210215)
+[04:55:13] [Server thread/INFO]: ryanbates joined the game
+[04:55:19] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:55:23] [Server thread/INFO]: <fishtoaster> I think I was pretty similar. One of my coworkers got into this game, and infected the whole office
+[04:55:31] [Server thread/INFO]: <fishtoaster> Ah, bummer.
+[04:55:34] [Server thread/INFO]: <ryanbates> nope, can't pass upsidown stairs or slabs
+[04:56:12] [Server thread/INFO]: <ryanbates> piston time :P
+[04:56:16] [Server thread/INFO]: <fishtoaster> :D
+[04:56:41] [Server thread/INFO]: <CobyR> man that was expensive - combine ef4 diamond pick axe with ef4 diamond pickaxe w fortune, ef4, ub3
+[04:56:45] [Server thread/INFO]: <CobyR> cost 23 levels
+[04:56:49] [Server thread/INFO]: <fishtoaster> Oof
+[04:56:55] [Server thread/INFO]: <ryanbates> did you repair either one before?
+[04:57:04] [Server thread/INFO]: <xcave> next one is TOO EXPENSIVE
+[04:57:08] [Server thread/INFO]: <CobyR> both were brand new, no usage
+[04:57:36] [Server thread/INFO]: <CobyR> but now I have an Ef5, Ub3, Fortune 3 pickaxe :)
+[04:57:56] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:57:58] [Server thread/INFO]: <fishtoaster> Don't break it- it'll cost a fortune to fix. :P
+[04:58:17] [Server thread/INFO]: <fishtoaster> Yeah, my loadout is about the same as tyrosinase's.
+[04:58:19] [Server thread/INFO]: <ryanbates> did you try switching them in the anvil?
+[04:58:24] [Server thread/INFO]: CobyR hit the ground too hard
+[04:58:26] [Server thread/INFO]: <xcave> Nice Tyro. That's what I carry too.
+[04:59:07] [Server thread/INFO]: <xcave> I have EF4 UB3 for regular work. I think have 3 right now. I repair w/ a plain one. Cheap that way.
+[04:59:17] [Server thread/INFO]: <fishtoaster> Yep.
+[04:59:35] [Server thread/INFO]: <fishtoaster> I have a handful of EF5s, though I can't really tell them from EF4s.
+[04:59:46] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[04:59:50] [Server thread/INFO]: <ryanbates> eff 5s are great if you have haste 2
+[04:59:57] [Server thread/INFO]: <xcave> I don't have any EF5s. But I've been using my silk touch to collect redstone ore.
 [05:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[05:00:05] [Server thread/INFO]: <xcave> I'm going to have a glowing floor in my building.
+[05:00:17] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:00:32] [Server thread/INFO]: <ryanbates> yeah, that is satisfying
+[05:00:36] [Server thread/INFO]: <xcave> I went through several of those gathering the sand for Atlantis, then clearing it.
+[05:00:41] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:00:44] [Server thread/INFO]: <CobyR> just got stuck in the ender farm and died :(
+[05:00:49] [Server thread/INFO]: <xcave> EF4 w/ UB3 and it still would wear out super fast
+[05:01:09] [Server thread/INFO]: <fishtoaster> Yeah, I was gathering sand with EF5 shovels. Burns through them so fast.
+[05:01:11] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:01:22] [Server thread/INFO]: <xcave> yep
+[05:01:38] [Server thread/INFO]: <xcave> but it's fun
+[05:01:50] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:02:12] [Server thread/INFO]: <xcave> I think it goes fast because you go through so much sand so fast. So you get your use out of it fast
+[05:02:33] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:02:41] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:02:53] [Server thread/INFO]: <xcave> I got to where they wouldn't repair, so I had to let Spader Man and Spader Man 2 break.
+[05:03:28] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:03:55] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:04:06] [Server thread/INFO]: <xcave> we hauled about 45K blocks of sand for atlantis. Probably more. So speed helped.
+[05:04:28] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:04:29] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:05:00] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
 [05:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[05:05:26] [Server thread/INFO]: fishtoaster lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[05:05:26] [Server thread/INFO]: fishtoaster left the game
+[05:05:23] [Server thread/INFO]: <ryanbates> is that the plan?
+[05:05:32] [Server thread/INFO]: <xcave> first order of business will be fishtoaster's XP farm. Somehow need to get back on roof.
+[05:06:14] [Server thread/INFO]: <ryanbates> I'm off, see you all next week
+[05:06:15] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:06:22] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:07:33] [Server thread/INFO]: ryanbates lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[05:07:33] [Server thread/INFO]: ryanbates left the game
+[05:07:40] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:08:20] [Server thread/INFO]: xcave lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[05:08:20] [Server thread/INFO]: xcave left the game
+[05:10:00] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
 [05:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[05:10:10] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:10:12] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:10:20] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:10:58] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:12:38] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:13:35] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:13:58] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:14:02] [Server thread/INFO]: <fishtoaster> Heh
+[05:14:20] [Server thread/INFO]: <CobyR> yea no lava on top of the nether
+[05:14:43] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:14:51] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:14:53] [Server thread/INFO]: <fishtoaster> Fewer than I expected.
 [05:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[05:15:04] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:15:24] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:15:25] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:15:32] [Server thread/INFO]: <fishtoaster> Good plan. :)
+[05:15:46] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:15:54] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:15:58] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:16:03] [Server thread/INFO]: <fishtoaster> It helped that I had already built one of those in solo survival. I died a *lot* there.
+[05:16:11] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:16:51] [Server thread/INFO]: <CobyR> yea I have 40 or so slime blocks now - would do that before attempting this - bigger safety zone
+[05:17:00] [Server thread/INFO]: <fishtoaster> Good idea
+[05:17:35] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:17:38] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:18:03] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:18:22] [Server thread/INFO]: <fishtoaster> I tried to clear out some of the spawnable area behind the chests todya.
+[05:18:27] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:19:26] [Server thread/INFO]: hootyhoostin suffocated in a wall
+[05:19:32] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
 [05:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[05:20:32] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:20:44] [Server thread/INFO]: <fishtoaster> lol
+[05:20:50] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:21:01] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:21:07] [RCON Listener #1/INFO]: Rcon connection from: /54.147.180.49
+[05:21:26] [Server thread/INFO]: <fishtoaster> I've got another couple hours, but I should probably go get things done at some point.
+[05:21:47] [Server thread/INFO]: <fishtoaster> I'm supposed to be learning saltstack, but minecraft tempted me away.
+[05:21:48] [Server thread/INFO]: hootyhoostin lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[05:21:48] [Server thread/INFO]: hootyhoostin left the game
+[05:22:09] [Server thread/WARN]: CobyR moved wrongly!
 [05:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[05:27:07] [Server thread/WARN]: CobyR moved wrongly!
+[05:27:07] [Server thread/WARN]: CobyR moved wrongly!
 [05:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[05:33:01] [Server thread/INFO]: fishtoaster lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[05:33:01] [Server thread/INFO]: fishtoaster left the game
 [05:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [05:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[05:40:47] [User Authenticator #315/INFO]: UUID of player fishtoaster is 1719f5a1-cddd-4580-8ee9-ef02da343f38
-[05:40:47] [Server thread/INFO]: fishtoaster[/50.184.4.44:50252] logged in with entity id 23321220 at (-2293.7009108086427, 80.0, 33.300000011920936)
-[05:40:47] [Server thread/INFO]: fishtoaster joined the game
 [05:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[05:49:05] [Server thread/INFO]: UncleAdam lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[05:49:05] [Server thread/INFO]: UncleAdam left the game
+[05:47:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3343ms behind, skipping 66 tick(s)
 [05:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[05:51:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3547ms behind, skipping 70 tick(s)
+[05:53:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3623ms behind, skipping 72 tick(s)
+[05:54:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3736ms behind, skipping 74 tick(s)
+[05:54:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4036ms behind, skipping 80 tick(s)
 [05:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[05:55:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3118ms behind, skipping 62 tick(s)
+[05:56:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3177ms behind, skipping 63 tick(s)
+[05:57:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3228ms behind, skipping 64 tick(s)
+[05:57:35] [User Authenticator #164/INFO]: UUID of player fishtoaster is 1719f5a1-cddd-4580-8ee9-ef02da343f38
+[05:57:35] [Server thread/INFO]: fishtoaster[/50.184.4.44:64478] logged in with entity id 12134314 at (-262.5598255392045, 43.0, 27.202805299269524)
+[05:57:35] [Server thread/INFO]: fishtoaster joined the game
 [06:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [06:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[06:05:31] [Server thread/INFO]: hootyhoostin lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[06:05:31] [Server thread/INFO]: hootyhoostin left the game
 [06:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[06:12:16] [Server thread/INFO]: fishtoaster lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[06:12:16] [Server thread/INFO]: fishtoaster left the game
 [06:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[06:16:50] [User Authenticator #165/INFO]: UUID of player fishtoaster is 1719f5a1-cddd-4580-8ee9-ef02da343f38
+[06:16:50] [Server thread/INFO]: fishtoaster[/50.184.4.44:64847] logged in with entity id 12151814 at (-2231.841323643473, 78.0, 14.696865748074973)
+[06:16:50] [Server thread/INFO]: fishtoaster joined the game
 [06:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[06:22:41] [Server thread/INFO]: fishtoaster lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[06:22:41] [Server thread/INFO]: fishtoaster left the game
-[06:22:44] [User Authenticator #316/INFO]: UUID of player fishtoaster is 1719f5a1-cddd-4580-8ee9-ef02da343f38
-[06:22:44] [Server thread/INFO]: fishtoaster[/50.184.4.44:51564] logged in with entity id 23404583 at (-278.8568495118062, 127.85565048819379, 3.5)
-[06:22:44] [Server thread/INFO]: fishtoaster joined the game
 [06:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[06:28:15] [User Authenticator #166/INFO]: UUID of player Krystallite is 35ed8dc6-6353-4942-8cfb-6e8e5e35ef79
+[06:28:15] [Server thread/INFO]: Krystallite[/86.15.114.229:35602] logged in with entity id 12171613 at (709.6999999880791, 24.0, 3670.6370493574927)
+[06:28:15] [Server thread/INFO]: Krystallite joined the game
 [06:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[06:32:31] [Server thread/INFO]: fishtoaster lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[06:32:31] [Server thread/INFO]: fishtoaster left the game
+[06:34:32] [User Authenticator #167/INFO]: UUID of player fishtoaster is 1719f5a1-cddd-4580-8ee9-ef02da343f38
+[06:34:32] [Server thread/INFO]: fishtoaster[/50.184.4.44:65179] logged in with entity id 12180769 at (-2233.526176142587, 83.0, 5.670019475715991)
+[06:34:32] [Server thread/INFO]: fishtoaster joined the game
 [06:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[06:35:13] [RCON Listener #1/INFO]: Rcon connection from: /54.145.42.150
-[06:35:13] [RCON Listener #1/INFO]: Rcon connection from: /54.145.42.150
-[06:35:42] [RCON Listener #1/INFO]: Rcon connection from: /54.145.42.150
-[06:36:25] [RCON Listener #1/INFO]: Rcon connection from: /54.145.42.150
-[06:36:43] [RCON Listener #1/INFO]: Rcon connection from: /54.145.42.150
 [06:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[06:40:41] [Server thread/INFO]: There are 3/20 players online:
+[06:40:41] [Server thread/INFO]: CobyR, Krystallite, fishtoaster
+[06:41:05] [RCON Listener #1/INFO]: Rcon connection from: /54.145.230.47
+[06:41:09] [RCON Listener #1/INFO]: Rcon connection from: /54.145.230.47
+[06:41:39] [RCON Listener #1/INFO]: Rcon connection from: /54.145.230.47
 [06:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [06:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [06:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [07:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
 [07:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
-[07:09:03] [RCON Listener #1/INFO]: Rcon connection from: /54.145.42.150
-[07:09:04] [RCON Listener #1/INFO]: Rcon connection from: /54.145.42.150
-[07:09:18] [RCON Listener #1/INFO]: Rcon connection from: /54.145.42.150
-[07:09:36] [RCON Listener #1/INFO]: Rcon connection from: /54.145.42.150
-[07:09:42] [Server thread/INFO]: fishtoaster lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[07:09:42] [Server thread/INFO]: fishtoaster left the game
-[07:10:00] [Server thread/INFO]: Stopping the server
-[07:10:00] [Server thread/INFO]: Stopping server
-[07:10:00] [Server thread/INFO]: Saving players
-[07:10:00] [Server thread/INFO]: Saving worlds
-[07:10:00] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[07:10:00] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[07:10:00] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[07:10:00] [Server Shutdown Thread/INFO]: Stopping server
-[07:10:00] [Server Shutdown Thread/INFO]: Saving players
-[07:10:00] [Server Shutdown Thread/INFO]: Saving worlds
-[07:10:00] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
+[07:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:11:16] [Server thread/INFO]: fishtoaster lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[07:11:16] [Server thread/INFO]: fishtoaster left the game
+[07:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:19:33] [Server thread/WARN]: Krystallite moved wrongly!
+[08:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[09:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[09:04:38] [Server thread/INFO]: There are 2/20 players online:
+[09:04:38] [Server thread/INFO]: CobyR, Krystallite
+[09:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[09:08:53] [RCON Listener #1/INFO]: Rcon connection from: /54.162.74.69
+[09:08:53] [RCON Listener #1/INFO]: Rcon connection from: /54.162.74.69
+[09:09:24] [Server thread/INFO]: Stopping the server
+[09:09:24] [Server thread/INFO]: Stopping server
+[09:09:24] [Server thread/INFO]: Saving players
+[09:09:24] [Server thread/INFO]: Saving worlds
+[09:09:24] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[09:09:24] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[09:09:24] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[09:09:25] [Server Shutdown Thread/INFO]: Stopping server
+[09:09:25] [Server Shutdown Thread/INFO]: Saving players
