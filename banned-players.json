@@ -6,5 +6,13 @@
     "source": "Server",
     "expires": "forever",
     "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "5a831090-3b01-4a14-8815-46eda6c3fa2c",
+    "name": "AvenHob",
+    "created": "2015-09-05 15:08:23 +0000",
+    "source": "tyrosinase",
+    "expires": "forever",
+    "reason": "Tearing up the redstone."
   }
 ]
