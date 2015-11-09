@@ -1,24 +1,387 @@
-[13:46:36] [Server thread/INFO]: Starting minecraft server version 1.8.7
-[13:46:36] [Server thread/INFO]: Loading properties
-[13:46:36] [Server thread/INFO]: Default game type: SURVIVAL
-[13:46:36] [Server thread/INFO]: Generating keypair
-[13:46:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:46:37] [Server thread/INFO]: Using epoll channel type
-[13:46:37] [Server thread/INFO]: Preparing level "world"
-[13:46:37] [Server thread/INFO]: Preparing start region for level 0
-[13:46:39] [Server thread/INFO]: Preparing spawn area: 0%
-[13:46:40] [Server thread/INFO]: Preparing spawn area: 22%
-[13:46:41] [Server thread/INFO]: Done (4.369s)! For help, type "help" or "?"
-[13:46:41] [Server thread/INFO]: Starting remote control listener
-[13:46:41] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
-[13:46:41] [Server thread/INFO]: Stopping the server
-[13:46:42] [Server thread/INFO]: Stopping server
-[13:46:42] [Server thread/INFO]: Saving players
-[13:46:42] [Server thread/INFO]: Saving worlds
-[13:46:42] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[13:46:42] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[13:46:42] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[13:46:42] [Server Shutdown Thread/INFO]: Stopping server
-[13:46:42] [Server Shutdown Thread/INFO]: Saving players
-[13:46:42] [Server Shutdown Thread/INFO]: Saving worlds
-[13:46:42] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
+[00:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[00:01:15] [Server thread/INFO]: Krystallite lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:01:15] [Server thread/INFO]: Krystallite left the game
+[00:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[00:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[00:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[00:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[00:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[00:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[00:32:17] [User Authenticator #221/INFO]: UUID of player jeremiahfelt is 36ccd64d-fe6f-40c1-811b-1b3970e09605
+[00:32:17] [Server thread/INFO]: jeremiahfelt[/69.207.130.204:41265] logged in with entity id 14585408 at (-46.193760686440896, 70.0, 367.511382148066)
+[00:32:17] [Server thread/INFO]: jeremiahfelt joined the game
+[00:33:48] [Server thread/INFO]: wuapinmon lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:33:48] [Server thread/INFO]: wuapinmon left the game
+[00:34:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@6e6c8650[id=<null>,name=wuapinmon,properties={},legacy=false] (/66.26.114.54:50761) lost connection: Disconnected
+[00:34:25] [Server thread/INFO]: com.mojang.authlib.GameProfile@6889fde6[id=<null>,name=wuapinmon,properties={},legacy=false] (/66.26.114.54:50763) lost connection: Disconnected
+[00:34:48] [User Authenticator #222/INFO]: UUID of player wuapinmon is b3ab4001-dc05-4a06-a8bb-2edb5766892a
+[00:34:48] [Server thread/INFO]: wuapinmon[/66.26.114.54:50798] logged in with entity id 14599221 at (1416.1889217935566, 63.0625, -6344.7590749566025)
+[00:34:48] [Server thread/INFO]: wuapinmon joined the game
+[00:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[00:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[00:40:22] [User Authenticator #223/INFO]: UUID of player masav is 294e63b1-1f91-486b-8ba3-6568f2411a19
+[00:40:22] [Server thread/INFO]: masav[/64.151.8.254:50585] logged in with entity id 14649898 at (1291.0550529467205, 11.0, -6279.518706729729)
+[00:40:22] [Server thread/INFO]: masav joined the game
+[00:40:54] [Server thread/INFO]: wuapinmon lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:40:54] [Server thread/INFO]: wuapinmon left the game
+[00:41:18] [User Authenticator #224/INFO]: UUID of player wuapinmon is b3ab4001-dc05-4a06-a8bb-2edb5766892a
+[00:41:18] [Server thread/INFO]: wuapinmon[/66.26.114.54:50832] logged in with entity id 14654157 at (1418.6482054518242, 63.0, -6370.5093245500975)
+[00:41:18] [Server thread/INFO]: wuapinmon joined the game
+[00:43:56] [Server thread/INFO]: wuapinmon lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:43:56] [Server thread/INFO]: wuapinmon left the game
+[00:44:36] [User Authenticator #225/INFO]: UUID of player wuapinmon is b3ab4001-dc05-4a06-a8bb-2edb5766892a
+[00:44:36] [Server thread/INFO]: wuapinmon[/66.26.114.54:50864] logged in with entity id 14677379 at (1423.300000011921, 63.0, -6354.6010469553385)
+[00:44:36] [Server thread/INFO]: wuapinmon joined the game
+[00:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[00:49:57] [Server thread/INFO]: wuapinmon lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:49:57] [Server thread/INFO]: wuapinmon left the game
+[00:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[00:51:41] [Server thread/WARN]: jeremiahfelt moved wrongly!
+[00:52:09] [User Authenticator #226/INFO]: UUID of player wuapinmon is b3ab4001-dc05-4a06-a8bb-2edb5766892a
+[00:52:09] [Server thread/INFO]: wuapinmon[/66.26.114.54:50928] logged in with entity id 14748730 at (1398.4802802124664, 63.0, -6331.387604418563)
+[00:52:09] [Server thread/INFO]: wuapinmon joined the game
+[00:52:29] [Server thread/INFO]: masav lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:52:29] [Server thread/INFO]: masav left the game
+[00:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[01:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[01:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[01:05:56] [User Authenticator #227/INFO]: UUID of player xcave is a622e5a1-e4f2-4011-94dc-d0580de911e9
+[01:05:56] [Server thread/INFO]: xcave[/64.151.8.254:52510] logged in with entity id 14838767 at (1306.699999988079, 56.0, -6265.432417436495)
+[01:05:56] [Server thread/INFO]: xcave joined the game
+[01:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[01:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[01:17:03] [Server thread/INFO]: jeremiahfelt lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:17:03] [Server thread/INFO]: jeremiahfelt left the game
+[01:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[01:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[01:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[01:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[01:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[01:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[01:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[01:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[02:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[02:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[02:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[02:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[02:15:24] [Server thread/INFO]: Gorgalore lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:15:24] [Server thread/INFO]: Gorgalore left the game
+[02:18:16] [Server thread/INFO]: <wuapinmon> night all jack my dad is on later
+[02:18:21] [Server thread/INFO]: <wuapinmon> o/
+[02:18:39] [Server thread/INFO]: wuapinmon lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[02:18:39] [Server thread/INFO]: wuapinmon left the game
+[02:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[02:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[02:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[02:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[02:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[02:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[02:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[02:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[03:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[03:01:28] [Server thread/INFO]: xcave lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[03:01:28] [Server thread/INFO]: xcave left the game
+[03:01:33] [User Authenticator #228/INFO]: UUID of player xcave is a622e5a1-e4f2-4011-94dc-d0580de911e9
+[03:01:33] [Server thread/INFO]: xcave[/64.151.8.254:52605] logged in with entity id 15095453 at (1305.5975636597454, 40.0, -6258.168124702227)
+[03:01:33] [Server thread/INFO]: xcave joined the game
+[03:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[03:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[03:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[03:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[03:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[03:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[03:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[03:35:41] [User Authenticator #229/INFO]: UUID of player wuapinmon is b3ab4001-dc05-4a06-a8bb-2edb5766892a
+[03:35:41] [Server thread/INFO]: wuapinmon[/66.26.114.54:51656] logged in with entity id 15116009 at (1401.4022962676795, 63.0, -6326.185026067231)
+[03:35:41] [Server thread/INFO]: wuapinmon joined the game
+[03:38:16] [User Authenticator #230/INFO]: UUID of player PhilBates is 9fd25e03-bb02-410b-91b4-ee615346ef87
+[03:38:16] [Server thread/INFO]: PhilBates[/71.80.201.255:64817] logged in with entity id 15120137 at (-39.60191389605177, 10.0, -498.8104393452377)
+[03:38:16] [Server thread/INFO]: PhilBates joined the game
+[03:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[03:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[03:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[03:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[03:57:35] [Server thread/WARN]: PhilBates moved wrongly!
+[03:57:37] [Server thread/WARN]: PhilBates moved wrongly!
+[04:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[04:01:18] [Server thread/INFO]: wuapinmon lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[04:01:18] [Server thread/INFO]: wuapinmon left the game
+[04:02:19] [Server thread/INFO]: xcave lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[04:02:19] [Server thread/INFO]: xcave left the game
+[04:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[04:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[04:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[04:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[04:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[04:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[04:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[04:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[04:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[04:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[04:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[05:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[05:02:03] [Server thread/INFO]: PhilBates lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[05:02:03] [Server thread/INFO]: PhilBates left the game
+[05:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[05:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[05:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[05:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[05:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[05:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[05:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[05:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[05:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[05:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[05:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[06:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[06:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[06:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[06:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[06:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[06:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[06:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[06:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[06:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[06:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[06:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[06:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:49:41] [User Authenticator #231/INFO]: UUID of player CobyR is e931627c-d0f1-44bd-99d8-e7e6e9128859
+[07:49:41] [Server thread/INFO]: CobyR[/97.94.230.75:58236] logged in with entity id 15334185 at (51924.2280404703, 67.0, 5028.804909356565)
+[07:49:41] [Server thread/INFO]: CobyR joined the game
+[07:49:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3971ms behind, skipping 79 tick(s)
+[07:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:52:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4042ms behind, skipping 80 tick(s)
+[07:53:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3965ms behind, skipping 79 tick(s)
+[07:54:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3950ms behind, skipping 79 tick(s)
+[07:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[07:55:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3940ms behind, skipping 78 tick(s)
+[07:55:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4175ms behind, skipping 83 tick(s)
+[07:56:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3950ms behind, skipping 79 tick(s)
+[07:57:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3991ms behind, skipping 79 tick(s)
+[08:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[08:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[09:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[09:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[09:05:56] [Server thread/WARN]: CobyR moved wrongly!
+[09:05:56] [Server thread/WARN]: CobyR moved wrongly!
+[09:05:56] [Server thread/WARN]: CobyR moved wrongly!
+[09:05:56] [Server thread/WARN]: CobyR moved wrongly!
+[09:05:57] [Server thread/WARN]: CobyR moved wrongly!
+[09:08:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3919ms behind, skipping 78 tick(s)
+[09:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[09:13:25] [User Authenticator #232/INFO]: UUID of player Krystallite is 35ed8dc6-6353-4942-8cfb-6e8e5e35ef79
+[09:13:25] [Server thread/INFO]: Krystallite[/86.15.114.229:43221] logged in with entity id 15402049 at (712.2540339872976, 40.0, 3381.6834271140397)
+[09:13:25] [Server thread/INFO]: Krystallite joined the game
+[09:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[09:19:37] [User Authenticator #233/INFO]: UUID of player ElvaBlueEyes is 360ac216-8b92-4f4b-884a-856b6b748035
+[09:19:37] [Server thread/INFO]: ElvaBlueEyes[/86.15.114.229:44828] logged in with entity id 15410986 at (701.3352622528519, 38.0, 3366.8052868303876)
+[09:19:37] [Server thread/INFO]: ElvaBlueEyes joined the game
+[09:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[09:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[09:28:11] [Server thread/WARN]: CobyR moved wrongly!
+[09:28:11] [Server thread/WARN]: CobyR moved wrongly!
+[09:28:11] [Server thread/WARN]: CobyR moved wrongly!
+[09:28:11] [Server thread/WARN]: CobyR moved wrongly!
+[09:28:11] [Server thread/WARN]: CobyR moved wrongly!
+[09:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[09:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[09:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[09:41:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3978ms behind, skipping 79 tick(s)
+[09:41:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3975ms behind, skipping 79 tick(s)
+[09:41:55] [Server thread/WARN]: Krystallite moved wrongly!
+[09:42:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3972ms behind, skipping 79 tick(s)
+[09:42:46] [Server thread/INFO]: CobyR lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[09:42:46] [Server thread/INFO]: CobyR left the game
+[09:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[09:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[09:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[10:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[10:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[10:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[10:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[10:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[10:21:16] [Server thread/INFO]: ElvaBlueEyes has just earned the achievement [Getting Wood]
+[10:23:11] [Server thread/INFO]: ElvaBlueEyes has just earned the achievement [Benchmarking]
+[10:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[10:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[10:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[10:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[10:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[10:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[10:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[10:59:56] [RCON Listener #1/INFO]: Rcon connection from: /54.144.219.211
+[11:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[11:00:19] [Server thread/INFO]: <ElvaBlueEyes> hi xcave
+[11:00:47] [RCON Listener #1/INFO]: Rcon connection from: /54.144.219.211
+[11:00:57] [Server thread/INFO]: <ElvaBlueEyes> cool
+[11:01:25] [Server thread/INFO]: <ElvaBlueEyes> you can find me in shufalo
+[11:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[11:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[11:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[11:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[11:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[11:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[11:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[11:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[11:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[11:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[11:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:08:15] [Server thread/INFO]: ElvaBlueEyes lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:08:15] [Server thread/INFO]: ElvaBlueEyes left the game
+[12:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:48:38] [User Authenticator #234/INFO]: UUID of player bensawyer is 52ce3fba-1aa1-4548-8841-15b7e942687d
+[12:48:38] [Server thread/INFO]: bensawyer[/76.23.222.194:48633] logged in with entity id 16559450 at (-177.60022045789196, 65.0, -1740.7737599200393)
+[12:48:38] [Server thread/INFO]: bensawyer joined the game
+[12:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[12:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:00:19] [Server thread/INFO]: bensawyer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:00:19] [Server thread/INFO]: bensawyer left the game
+[13:02:20] [User Authenticator #235/INFO]: UUID of player ElvaBlueEyes is 360ac216-8b92-4f4b-884a-856b6b748035
+[13:02:20] [Server thread/INFO]: ElvaBlueEyes[/86.15.114.229:44526] logged in with entity id 16651364 at (-188.69999998807907, 70.0, -1924.300000011921)
+[13:02:20] [Server thread/INFO]: ElvaBlueEyes joined the game
+[13:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:15:46] [User Authenticator #236/INFO]: UUID of player bensawyer is 52ce3fba-1aa1-4548-8841-15b7e942687d
+[13:15:46] [Server thread/INFO]: bensawyer[/76.23.222.194:46212] logged in with entity id 16773509 at (-178.30724221071472, 65.5, -1759.072356932733)
+[13:15:46] [Server thread/INFO]: bensawyer joined the game
+[13:15:51] [Server thread/INFO]: <ElvaBlueEyes> hi
+[13:16:01] [Server thread/INFO]: <bensawyer> o/
+[13:16:11] [Server thread/INFO]: <Krystallite> heya
+[13:17:23] [Server thread/INFO]: <ElvaBlueEyes> are you okay bensawyer
+[13:18:53] [Server thread/INFO]: <ElvaBlueEyes> you can see me in shufalo
+[13:19:07] [Server thread/INFO]: <bensawyer> yep
+[13:19:31] [Server thread/INFO]: <bensawyer> just online for a bit helping work on Ames' Grocery store
+[13:19:42] [Server thread/INFO]: <ElvaBlueEyes> okay
+[13:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:22:22] [Server thread/INFO]: <ElvaBlueEyes> just built a house in shufalo
+[13:22:28] [Server thread/INFO]: <bensawyer> cool!
+[13:23:34] [Server thread/INFO]: <ElvaBlueEyes> when you done the store youcan see me in shufalo
+[13:23:48] [Server thread/INFO]: <bensawyer> ok will do!
+[13:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:25:59] [Server thread/INFO]: <bensawyer> where is your house?
+[13:26:15] [Server thread/INFO]: <Krystallite> behind mine
+[13:26:21] [Server thread/INFO]: <bensawyer> sole food?
+[13:26:28] [Server thread/INFO]: <ElvaBlueEyes> yes
+[13:26:31] [Server thread/INFO]: <Krystallite> aye
+[13:27:57] [Server thread/INFO]: <bensawyer> nice
+[13:28:15] [Server thread/INFO]: <bensawyer> I like the lime green windows
+[13:28:36] [Server thread/INFO]: <bensawyer> they really need to add a sitting pose to the game
+[13:28:38] [Server thread/INFO]: <ElvaBlueEyes> cool right
+[13:28:49] [Server thread/INFO]: <bensawyer> nice table too
+[13:29:02] [Server thread/INFO]: <ElvaBlueEyes> thanks
+[13:29:07] [Server thread/INFO]: <bensawyer> looking good
+[13:29:11] [Server thread/WARN]: bensawyer moved wrongly!
+[13:29:44] [Server thread/INFO]: <ElvaBlueEyes> its my shed
+[13:29:49] [Server thread/INFO]: <bensawyer> right!
+[13:29:58] [Server thread/INFO]: <bensawyer> single chests here would be good
+[13:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:30:07] [Server thread/INFO]: <ElvaBlueEyes> yes
+[13:30:15] [Server thread/INFO]: <bensawyer> or dispenser maybe
+[13:30:36] [Server thread/INFO]: <bensawyer> this is everett's place here
+[13:31:00] [Server thread/INFO]: <bensawyer> I think it's an unfinished bank
+[13:31:22] [Server thread/INFO]: <ElvaBlueEyes> why
+[13:31:38] [Server thread/INFO]: <bensawyer> why is it a bank or why is it unfinished?
+[13:32:05] [Server thread/INFO]: <ElvaBlueEyes> unfinished
+[13:32:06] [Server thread/INFO]: <bensawyer> nice shot
+[13:32:25] [Server thread/INFO]: <bensawyer> he's decoration
+[13:32:40] [Server thread/INFO]: <bensawyer> got to go Ames needs help before school
+[13:32:45] [Server thread/INFO]: bensawyer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:32:45] [Server thread/INFO]: bensawyer left the game
+[13:32:49] [Server thread/INFO]: <Krystallite> laters hun
+[13:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:37:06] [User Authenticator #237/INFO]: UUID of player bensawyer is 52ce3fba-1aa1-4548-8841-15b7e942687d
+[13:37:06] [Server thread/INFO]: bensawyer[/76.23.222.194:43603] logged in with entity id 16963812 at (-159.67385763762314, 70.5, -1909.3274640188529)
+[13:37:06] [Server thread/INFO]: bensawyer joined the game
+[13:37:23] [Server thread/INFO]: <ElvaBlueEyes> hey again
+[13:37:27] [Server thread/INFO]: <bensawyer> hiya
+[13:38:21] [Server thread/INFO]: <ElvaBlueEyes> where is the store
+[13:38:32] [Server thread/INFO]: <bensawyer> by the gas station front of town
+[13:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:44:21] [Server thread/INFO]: bensawyer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:44:21] [Server thread/INFO]: bensawyer left the game
+[13:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:45:30] [User Authenticator #238/INFO]: UUID of player bensawyer is 52ce3fba-1aa1-4548-8841-15b7e942687d
+[13:45:30] [Server thread/INFO]: bensawyer[/76.23.222.194:44775] logged in with entity id 17031178 at (-177.98142691532175, 72.0, -1753.7163763640867)
+[13:45:30] [Server thread/INFO]: bensawyer joined the game
+[13:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[13:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[14:00:02] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[14:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[14:08:58] [Server thread/INFO]: bensawyer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:08:58] [Server thread/INFO]: bensawyer left the game
+[14:10:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[14:15:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[14:20:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[14:25:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[14:30:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[14:35:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[14:40:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[14:45:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[14:49:20] [User Authenticator #239/INFO]: UUID of player xcave is a622e5a1-e4f2-4011-94dc-d0580de911e9
+[14:49:20] [Server thread/INFO]: xcave[/64.151.8.254:57643] logged in with entity id 17191400 at (1303.506786779813, 40.0, -6246.9583634469145)
+[14:49:20] [Server thread/INFO]: xcave joined the game
+[14:49:37] [User Authenticator #240/INFO]: UUID of player tyrosinase is efb6fc35-604e-4dd8-93f9-ccdd1593ff69
+[14:49:37] [Server thread/INFO]: tyrosinase[/73.215.157.183:48505] logged in with entity id 17191816 at (-185.09640083485118, 71.0, 216.42961377035456)
+[14:49:37] [Server thread/INFO]: tyrosinase joined the game
+[14:50:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[14:50:43] [Server thread/INFO]: ElvaBlueEyes lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:50:43] [Server thread/INFO]: ElvaBlueEyes left the game
+[14:50:51] [User Authenticator #241/INFO]: UUID of player ElvaBlueEyes is 360ac216-8b92-4f4b-884a-856b6b748035
+[14:50:52] [Server thread/INFO]: ElvaBlueEyes[/86.15.114.229:34053] logged in with entity id 17196148 at (177.184698333186, 64.0, 3328.7174246265017)
+[14:50:52] [Server thread/INFO]: ElvaBlueEyes joined the game
+[14:51:36] [Server thread/INFO]: <ElvaBlueEyes> heya guys
+[14:51:46] [Server thread/INFO]: <xcave> o/
+[14:52:31] [Server thread/INFO]: <ElvaBlueEyes> Xcave
+[14:52:58] [Server thread/INFO]: [tyrosinase: Set own game mode to Spectator Mode]
+[14:54:34] [Server thread/INFO]: [tyrosinase: Set own game mode to Survival Mode]
+[14:55:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[14:58:33] [Server thread/INFO]: <xcave> Hi ElvaBlueEyes
+[15:00:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[15:05:01] [RCON Listener #1/INFO]: Rcon connection from: /0:0:0:0:0:0:0:1
+[15:06:42] [Server thread/INFO]: There are 4/20 players online:
+[15:06:42] [Server thread/INFO]: Krystallite, xcave, tyrosinase, ElvaBlueEyes
+[15:06:44] [Server thread/INFO]: [Server] shutting down
+[15:06:48] [Server thread/INFO]: tyrosinase lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:06:48] [Server thread/INFO]: tyrosinase left the game
+[15:07:01] [Server thread/INFO]: xcave lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:07:01] [Server thread/INFO]: xcave left the game
+[15:07:57] [Server thread/INFO]: Stopping the server
+[15:07:57] [Server thread/INFO]: Stopping server
+[15:07:57] [Server thread/INFO]: Saving players
+[15:07:57] [Server thread/INFO]: Saving worlds
+[15:07:57] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[15:07:57] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[15:07:57] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[15:07:58] [Server Shutdown Thread/INFO]: Stopping server
+[15:07:58] [Server Shutdown Thread/INFO]: Saving players
