@@ -24,6 +24,12 @@ The basic gist is: Be nice, don't destroy or steal, build where there's open spa
 
 ![](https://raw.githubusercontent.com/qrush/pickaxechat/master/screenshot.png)
 
+# Cloning
+
+You may need [git-lfs](https://git-lfs.github.com) to clone this repo. It's pretty large (40GB+)! This might help for cloning it too:
+
+    git clone https://github.com/qrush/pickaxe.club.git --depth=1
+
 # Links
 
 * [Map](http://pickaxe.club): Generated after every weekend
