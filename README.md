@@ -26,17 +26,15 @@ The basic gist is: Be nice, don't destroy or steal, build where there's open spa
 
 # Links
 
-* [Trello Guide & Instructions](https://trello.com/b/BPH4MaZs/pickaxe-club-guide): Info about builds & regions on the server
-* [Pickaxe Slack](https://pickaxe.slack.com/): Auto-inviter pending!
+* [Map](http://pickaxe.club): Generated after every weekend
+* [Trello](https://trello.com/b/BPH4MaZs/pickaxe-club-guide): Guides, instructions, info about builds & regions on the server
+* [Slack](https://pickaxe.slack.com/): Auto-inviter pending!
 * [Wither](https://github.com/qrush/wither): Our Slack-to-Minecraft chat gateway
-* [TinyLetter Updates](http://tinyletter.com/pickaxe-club): Occasional/infrequent email updates about the server location.
-
+* [TinyLetter](http://tinyletter.com/pickaxe-club): Occasional/infrequent email updates about the server location.
 
 # License
 
-This world is now open source! Since it's mostly content, and not code, its license is [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-Feel free to:
+This world is now open source! Since it's mostly content, and not code, its license is [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/). Feel free to:
 
 * Share
 * Remix (with credit)
