@@ -22,7 +22,7 @@ Want to play? If you'd like to play with everyone: You'll have to get on Slack t
 
 The basic gist is: Be nice, don't destroy or steal, build where there's open space. Oh and don't be afraid to ask questions! We'll be happy to answer them via our chat bot, [wither](https://github.com/qrush/wither):
 
-![](https://raw.githubusercontent.com/qrush/pickaxechat/master/screenshot.png)
+![](https://raw.githubusercontent.com/qrush/pickaxechat/master/gateway.gif)
 
 # Cloning
 
