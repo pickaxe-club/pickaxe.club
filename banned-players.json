@@ -2,7 +2,7 @@
   {
     "uuid": "060db9ed-0c6b-4f1d-be59-98696802891b",
     "name": "flyingbeaver",
-    "created": "2015-01-11 17:54:13 +0000",
+    "created": "2015-01-11 12:54:13 -0500",
     "source": "Server",
     "expires": "forever",
     "reason": "Banned by an operator."
@@ -10,7 +10,7 @@
   {
     "uuid": "5a831090-3b01-4a14-8815-46eda6c3fa2c",
     "name": "AvenHob",
-    "created": "2015-09-05 15:08:23 +0000",
+    "created": "2015-09-05 11:08:23 -0400",
     "source": "tyrosinase",
     "expires": "forever",
     "reason": "Tearing up the redstone."
