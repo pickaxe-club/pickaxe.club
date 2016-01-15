@@ -35,7 +35,7 @@ You may need [git-lfs](https://git-lfs.github.com) to clone this repo. It's pret
     
 # Links
 
-* [Map](http://www.pickaxe.club): Generated after every weekend. Template is [open source](https://github.com/qrush/www.pickaxe.club)
+* [Map](http://www.pickaxe.club): Generated after every weekend. Template is [open source](https://github.com/qrush/www.pickaxe.club)!
 * [Trello](http://guide.pickaxe.club): Guides, instructions, info about builds & regions on the server
 * [Slack](http://guide.pickaxe.club/): Auto-inviter pending!
 * [Wither](https://github.com/qrush/wither): Our Slack-to-Minecraft chat gateway
