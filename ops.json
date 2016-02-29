@@ -24,6 +24,12 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "a622e5a1-e4f2-4011-94dc-d0580de911e9",
+    "name": "xcave",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "efb6fc35-604e-4dd8-93f9-ccdd1593ff69",
     "name": "tyrosinase",
     "level": 3,
