@@ -12,6 +12,7 @@
 
 config-version: 8
 settings:
+  debug: false
   save-user-cache-on-stop-only: false
   bungeecord: false
   late-bind: false
@@ -33,7 +34,6 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  debug: false
 commands:
   tab-complete: 0
   log: true
@@ -58,7 +58,6 @@ stats:
 world-settings:
   default:
     verbose: true
-    mob-spawn-range: 4
     nerf-spawner-mobs: false
     growth:
       cactus-modifier: 100
@@ -98,6 +97,7 @@ world-settings:
     max-tick-time:
       tile: 50
       entity: 50
+    mob-spawn-range: 4
     item-despawn-rate: 6000
     merge-radius:
       item: 2.5
