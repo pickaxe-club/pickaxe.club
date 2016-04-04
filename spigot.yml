@@ -13,17 +13,7 @@
 config-version: 8
 settings:
   save-user-cache-on-stop-only: false
-  attribute:
-    maxHealth:
-      max: 2048.0
-    movementSpeed:
-      max: 2048.0
-    attackDamage:
-      max: 2048.0
-  timeout-time: 60
-  restart-on-crash: true
-  restart-script: ./spigot.sh
-  netty-threads: 4
+  bungeecord: false
   late-bind: false
   sample-count: 12
   player-shuffle: 0
@@ -31,9 +21,20 @@ settings:
   user-cache-size: 1000
   int-cache-limit: 1024
   moved-wrongly-threshold: 0.0625
-  moved-too-quickly-threshold: 100.0
-  bungeecord: false
+  moved-too-quickly-multiplier: 10.0
+  timeout-time: 60
+  restart-on-crash: true
+  restart-script: ./spigot.sh
+  netty-threads: 4
+  attribute:
+    maxHealth:
+      max: 2048.0
+    movementSpeed:
+      max: 2048.0
+    attackDamage:
+      max: 2048.0
   debug: false
+  moved-too-quickly-threshold: 100.0
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
@@ -43,6 +44,7 @@ messages:
   restart: Server is restarting
 commands:
   tab-complete: 0
+  log: true
   spam-exclusions:
   - /skill
   silent-commandblock-console: false
@@ -51,7 +53,6 @@ commands:
   - summon
   - testforblock
   - tellraw
-  log: true
 stats:
   disable-saving: false
   forced-stats: {}
@@ -102,11 +103,11 @@ world-settings:
     merge-radius:
       item: 2.5
       exp: 3.0
-    hanging-tick-frequency: 100
     arrow-despawn-rate: 1200
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
     view-distance: 9
+    hanging-tick-frequency: 100
     zombie-aggressive-towards-villager: true
     anti-xray:
       enabled: true
