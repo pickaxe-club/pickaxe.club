@@ -59,6 +59,13 @@ stats:
 world-settings:
   default:
     verbose: true
+    mob-spawn-range: 4
+    entity-tracking-range:
+      players: 48
+      animals: 48
+      monsters: 48
+      misc: 32
+      other: 64
     ticks-per:
       hopper-transfer: 8
       hopper-check: 8
@@ -92,13 +99,6 @@ world-settings:
       animals: 32
       monsters: 32
       misc: 16
-    entity-tracking-range:
-      players: 48
-      animals: 48
-      monsters: 48
-      misc: 32
-      other: 64
-    mob-spawn-range: 4
     item-despawn-rate: 6000
     merge-radius:
       item: 2.5
