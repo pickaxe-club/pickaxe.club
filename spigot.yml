@@ -12,7 +12,6 @@
 
 config-version: 8
 settings:
-  debug: false
   save-user-cache-on-stop-only: false
   bungeecord: false
   late-bind: false
@@ -34,6 +33,7 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
+  debug: false
   moved-too-quickly-threshold: 100.0
 commands:
   tab-complete: 0
@@ -105,8 +105,8 @@ world-settings:
       exp: 3.0
     arrow-despawn-rate: 1200
     enable-zombie-pigmen-portal-spawns: true
-    view-distance: 9
     wither-spawn-sound-radius: 0
+    view-distance: 9
     hanging-tick-frequency: 100
     zombie-aggressive-towards-villager: true
     anti-xray:
