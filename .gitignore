@@ -1,2 +1,4 @@
 *.log
 *.log.gz
+*.mca
+*.tar.gz
