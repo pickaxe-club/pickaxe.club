@@ -22,10 +22,6 @@ settings:
   int-cache-limit: 1024
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
-  timeout-time: 60
-  restart-on-crash: true
-  restart-script: ./spigot.sh
-  netty-threads: 4
   attribute:
     maxHealth:
       max: 2048.0
@@ -33,11 +29,14 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
+  timeout-time: 60
+  restart-on-crash: true
+  restart-script: ./spigot.sh
+  netty-threads: 4
   debug: false
   moved-too-quickly-threshold: 100.0
 commands:
   tab-complete: 0
-  log: true
   spam-exclusions:
   - /skill
   silent-commandblock-console: false
@@ -46,6 +45,7 @@ commands:
   - summon
   - testforblock
   - tellraw
+  log: true
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
@@ -59,7 +59,6 @@ stats:
 world-settings:
   default:
     verbose: true
-    mob-spawn-range: 4
     nerf-spawner-mobs: false
     growth:
       cactus-modifier: 100
@@ -70,6 +69,7 @@ world-settings:
       sapling-modifier: 100
       wheat-modifier: 100
       netherwart-modifier: 100
+    mob-spawn-range: 4
     entity-activation-range:
       animals: 32
       monsters: 32
@@ -99,15 +99,15 @@ world-settings:
     max-tick-time:
       tile: 50
       entity: 50
-    enable-zombie-pigmen-portal-spawns: true
+    hanging-tick-frequency: 100
     item-despawn-rate: 6000
     merge-radius:
       item: 2.5
       exp: 3.0
     arrow-despawn-rate: 1200
+    enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
     view-distance: 9
-    hanging-tick-frequency: 100
     zombie-aggressive-towards-villager: true
     anti-xray:
       enabled: true
