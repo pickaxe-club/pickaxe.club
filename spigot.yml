@@ -12,7 +12,6 @@
 
 config-version: 8
 settings:
-  debug: false
   save-user-cache-on-stop-only: false
   bungeecord: false
   late-bind: false
@@ -34,6 +33,7 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
+  debug: false
   moved-too-quickly-threshold: 100.0
 commands:
   tab-complete: 0
@@ -59,6 +59,7 @@ stats:
 world-settings:
   default:
     verbose: true
+    mob-spawn-range: 4
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -84,7 +85,6 @@ world-settings:
     hopper-amount: 1
     random-light-updates: false
     save-structure-info: true
-    mob-spawn-range: 4
     max-entity-collisions: 8
     dragon-death-sound-radius: 0
     seed-village: 10387312
