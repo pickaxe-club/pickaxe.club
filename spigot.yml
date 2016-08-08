@@ -12,17 +12,18 @@
 
 config-version: 8
 settings:
+  debug: false
   save-user-cache-on-stop-only: false
-  bungeecord: false
-  late-bind: false
-  sample-count: 12
-  player-shuffle: 0
   filter-creative-items: true
   user-cache-size: 1000
   int-cache-limit: 1024
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
   item-dirty-ticks: 20
+  bungeecord: false
+  late-bind: false
+  sample-count: 12
+  player-shuffle: 0
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./spigot.sh
@@ -34,11 +35,9 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  debug: false
   moved-too-quickly-threshold: 100.0
 commands:
   tab-complete: 0
-  log: true
   spam-exclusions:
   - /skill
   silent-commandblock-console: false
@@ -47,6 +46,7 @@ commands:
   - summon
   - testforblock
   - tellraw
+  log: true
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
@@ -83,7 +83,6 @@ world-settings:
       hopper-transfer: 8
       hopper-check: 8
     hopper-amount: 1
-    mob-spawn-range: 4
     random-light-updates: false
     save-structure-info: true
     max-entity-collisions: 8
@@ -99,6 +98,7 @@ world-settings:
     max-tick-time:
       tile: 50
       entity: 50
+    mob-spawn-range: 4
     item-despawn-rate: 6000
     merge-radius:
       item: 2.5
