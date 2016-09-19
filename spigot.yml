@@ -12,10 +12,8 @@
 
 config-version: 8
 settings:
+  debug: false
   save-user-cache-on-stop-only: false
-  timeout-time: 60
-  restart-on-crash: true
-  restart-script: ./spigot.sh
   netty-threads: 4
   attribute:
     maxHealth:
@@ -34,7 +32,9 @@ settings:
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
   item-dirty-ticks: 20
-  debug: false
+  timeout-time: 60
+  restart-on-crash: true
+  restart-script: ./spigot.sh
   moved-too-quickly-threshold: 100.0
 commands:
   tab-complete: 0
