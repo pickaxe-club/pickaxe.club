@@ -12,7 +12,16 @@
 
 config-version: 8
 settings:
+  debug: false
   save-user-cache-on-stop-only: false
+  netty-threads: 4
+  attribute:
+    maxHealth:
+      max: 2048.0
+    movementSpeed:
+      max: 2048.0
+    attackDamage:
+      max: 2048.0
   bungeecord: false
   late-bind: false
   sample-count: 12
@@ -26,23 +35,7 @@ settings:
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./spigot.sh
-  netty-threads: 4
-  attribute:
-    maxHealth:
-      max: 2048.0
-    movementSpeed:
-      max: 2048.0
-    attackDamage:
-      max: 2048.0
-  debug: false
   moved-too-quickly-threshold: 100.0
-messages:
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
-  outdated-client: Outdated client! Please use {0}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
 commands:
   tab-complete: 0
   log: true
@@ -54,6 +47,13 @@ commands:
   - summon
   - testforblock
   - tellraw
+messages:
+  whitelist: You are not whitelisted on this server!
+  unknown-command: Unknown command. Type "/help" for help.
+  server-full: The server is full!
+  outdated-client: Outdated client! Please use {0}
+  outdated-server: Outdated server! I'm still on {0}
+  restart: Server is restarting
 stats:
   disable-saving: false
   forced-stats: {}
