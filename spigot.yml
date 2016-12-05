@@ -10,9 +10,19 @@
 # IRC: #spigot @ irc.spi.gt ( http://www.spigotmc.org/pages/irc/ )
 # Forums: http://www.spigotmc.org/
 
-config-version: 8
+config-version: 9
+commands:
+  tab-complete: 0
+  log: true
+  spam-exclusions:
+  - /skill
+  silent-commandblock-console: false
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
 settings:
-  debug: false
   save-user-cache-on-stop-only: false
   bungeecord: false
   late-bind: false
@@ -35,6 +45,7 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
+  debug: false
   moved-too-quickly-threshold: 100.0
 messages:
   whitelist: You are not whitelisted on this server!
@@ -43,17 +54,6 @@ messages:
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
-commands:
-  tab-complete: 0
-  log: true
-  spam-exclusions:
-  - /skill
-  silent-commandblock-console: false
-  replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
 stats:
   disable-saving: false
   forced-stats: {}
@@ -92,10 +92,10 @@ world-settings:
     seed-village: 10387312
     seed-feature: 14357617
     hunger:
-      walk-exhaustion: 0.2
-      sprint-exhaustion: 0.8
-      combat-exhaustion: 0.3
-      regen-exhaustion: 3.0
+      walk-exhaustion: 0.05
+      sprint-exhaustion: 0.2
+      combat-exhaustion: 0.1
+      regen-exhaustion: 6.0
     max-tnt-per-tick: 100
     max-tick-time:
       tile: 50
