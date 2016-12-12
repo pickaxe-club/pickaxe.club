@@ -11,17 +11,6 @@
 # Forums: http://www.spigotmc.org/
 
 config-version: 9
-commands:
-  tab-complete: 0
-  log: true
-  spam-exclusions:
-  - /skill
-  silent-commandblock-console: false
-  replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
 settings:
   save-user-cache-on-stop-only: false
   bungeecord: false
@@ -54,6 +43,17 @@ messages:
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
+commands:
+  tab-complete: 0
+  log: true
+  spam-exclusions:
+  - /skill
+  silent-commandblock-console: false
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
 stats:
   disable-saving: false
   forced-stats: {}
