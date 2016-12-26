@@ -10,9 +10,15 @@
 # IRC: #spigot @ irc.spi.gt ( http://www.spigotmc.org/pages/irc/ )
 # Forums: http://www.spigotmc.org/
 
-config-version: 9
+config-version: 10
+messages:
+  whitelist: You are not whitelisted on this server!
+  unknown-command: Unknown command. Type "/help" for help.
+  server-full: The server is full!
+  outdated-client: Outdated client! Please use {0}
+  outdated-server: Outdated server! I'm still on {0}
+  restart: Server is restarting
 settings:
-  debug: false
   save-user-cache-on-stop-only: false
   bungeecord: false
   late-bind: false
@@ -35,6 +41,7 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
+  debug: false
   moved-too-quickly-threshold: 100.0
 commands:
   tab-complete: 0
@@ -47,13 +54,6 @@ commands:
   - summon
   - testforblock
   - tellraw
-messages:
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
-  outdated-client: Outdated client! Please use {0}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
 stats:
   disable-saving: false
   forced-stats: {}
@@ -61,6 +61,17 @@ world-settings:
   default:
     verbose: true
     mob-spawn-range: 4
+    growth:
+      cactus-modifier: 100
+      cane-modifier: 100
+      melon-modifier: 100
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      wheat-modifier: 100
+      netherwart-modifier: 100
+      vine-modifier: 100
+      cocoa-modifier: 100
     entity-activation-range:
       animals: 32
       monsters: 32
@@ -81,25 +92,17 @@ world-settings:
     seed-village: 10387312
     seed-feature: 14357617
     hunger:
-      walk-exhaustion: 0.05
-      sprint-exhaustion: 0.2
+      jump-walk-exhaustion: 0.05
+      jump-sprint-exhaustion: 0.2
       combat-exhaustion: 0.1
       regen-exhaustion: 6.0
+      swim-multiplier: 0.01
+      sprint-multiplier: 0.1
+      other-multiplier: 0.0
     max-tnt-per-tick: 100
     max-tick-time:
       tile: 50
       entity: 50
-    growth:
-      cactus-modifier: 100
-      cane-modifier: 100
-      melon-modifier: 100
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 100
-      wheat-modifier: 100
-      netherwart-modifier: 100
-      vine-modifier: 100
-      cocoa-modifier: 100
     item-despawn-rate: 6000
     merge-radius:
       item: 2.5
