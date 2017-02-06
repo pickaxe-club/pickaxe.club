@@ -11,15 +11,19 @@
 # Forums: http://www.spigotmc.org/
 
 config-version: 10
-messages:
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
-  outdated-client: Outdated client! Please use {0}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
 settings:
+  debug: false
   save-user-cache-on-stop-only: false
+  bungeecord: false
+  late-bind: false
+  sample-count: 12
+  player-shuffle: 0
+  filter-creative-items: true
+  user-cache-size: 1000
+  int-cache-limit: 1024
+  moved-wrongly-threshold: 0.0625
+  moved-too-quickly-multiplier: 10.0
+  item-dirty-ticks: 20
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./spigot.sh
@@ -31,18 +35,14 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  bungeecord: false
-  late-bind: false
-  sample-count: 12
-  player-shuffle: 0
-  filter-creative-items: true
-  user-cache-size: 1000
-  int-cache-limit: 1024
-  moved-wrongly-threshold: 0.0625
-  moved-too-quickly-multiplier: 10.0
-  item-dirty-ticks: 20
-  debug: false
   moved-too-quickly-threshold: 100.0
+messages:
+  whitelist: You are not whitelisted on this server!
+  unknown-command: Unknown command. Type "/help" for help.
+  server-full: The server is full!
+  outdated-client: Outdated client! Please use {0}
+  outdated-server: Outdated server! I'm still on {0}
+  restart: Server is restarting
 commands:
   tab-complete: 0
   log: true
@@ -105,14 +105,14 @@ world-settings:
     max-tick-time:
       tile: 50
       entity: 50
-    enable-zombie-pigmen-portal-spawns: true
-    wither-spawn-sound-radius: 0
-    view-distance: 9
+    arrow-despawn-rate: 1200
     item-despawn-rate: 6000
     merge-radius:
       item: 2.5
       exp: 3.0
-    arrow-despawn-rate: 1200
+    enable-zombie-pigmen-portal-spawns: true
+    wither-spawn-sound-radius: 0
+    view-distance: 9
     hanging-tick-frequency: 100
     zombie-aggressive-towards-villager: true
     nerf-spawner-mobs: false
