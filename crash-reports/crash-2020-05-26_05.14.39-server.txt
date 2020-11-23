@@ -1,0 +1,110 @@
+---- Minecraft Crash Report ----
+// I feel sad now :(
+
+Time: 5/26/20 5:14 AM
+Description: Exception while updating neighbours
+
+java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1445)
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1469)
+	at net.minecraft.server.v1_15_R1.WorldServer.notify(WorldServer.java:1259)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:300)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:276)
+	at net.minecraft.server.v1_15_R1.BlockDoor.doPhysics(BlockDoor.java:198)
+	at net.minecraft.server.v1_15_R1.IBlockData.doPhysics(SourceFile:243)
+	at net.minecraft.server.v1_15_R1.World.a(World.java:436)
+	at net.minecraft.server.v1_15_R1.World.applyPhysics(World.java:385)
+	at net.minecraft.server.v1_15_R1.BlockPressurePlateAbstract.a(BlockPressurePlateAbstract.java:120)
+	at net.minecraft.server.v1_15_R1.BlockPressurePlateAbstract.a(BlockPressurePlateAbstract.java:88)
+	at net.minecraft.server.v1_15_R1.BlockPressurePlateAbstract.tick(BlockPressurePlateAbstract.java:49)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:263)
+	at net.minecraft.server.v1_15_R1.WorldServer.b(WorldServer.java:599)
+	at net.minecraft.server.v1_15_R1.TickListServer.b(TickListServer.java:82)
+	at net.minecraft.server.v1_15_R1.WorldServer.doTick(WorldServer.java:312)
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1082)
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:406)
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:984)
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:824)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1445)
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1469)
+	at net.minecraft.server.v1_15_R1.WorldServer.notify(WorldServer.java:1259)
+	at net.minecraft.server.v1_15_R1.World.notifyAndUpdatePhysics(World.java:300)
+	at net.minecraft.server.v1_15_R1.World.setTypeAndData(World.java:276)
+	at net.minecraft.server.v1_15_R1.BlockDoor.doPhysics(BlockDoor.java:198)
+	at net.minecraft.server.v1_15_R1.IBlockData.doPhysics(SourceFile:243)
+
+-- Block being updated --
+Details:
+	Source block type: ID #minecraft:spruce_pressure_plate (block.minecraft.spruce_pressure_plate // net.minecraft.server.v1_15_R1.BlockPressurePlateBinary)
+	Block: Block{minecraft:dark_oak_door}[facing=east,half=lower,hinge=left,open=true,powered=true]
+	Block location: World: (1112,64,-6883), Chunk: (at 8,4,13 in 69,-431; contains blocks 1104,0,-6896 to 1119,255,-6881), Region: (2,-14; contains chunks 64,-448 to 95,-417, blocks 1024,0,-7168 to 1535,255,-6657)
+Stacktrace:
+	at net.minecraft.server.v1_15_R1.World.a(World.java:436)
+	at net.minecraft.server.v1_15_R1.World.applyPhysics(World.java:385)
+	at net.minecraft.server.v1_15_R1.BlockPressurePlateAbstract.a(BlockPressurePlateAbstract.java:120)
+	at net.minecraft.server.v1_15_R1.BlockPressurePlateAbstract.a(BlockPressurePlateAbstract.java:88)
+	at net.minecraft.server.v1_15_R1.BlockPressurePlateAbstract.tick(BlockPressurePlateAbstract.java:49)
+	at net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:263)
+	at net.minecraft.server.v1_15_R1.WorldServer.b(WorldServer.java:599)
+
+-- Block being ticked --
+Details:
+	Block location: World: (1113,64,-6883), Chunk: (at 9,4,13 in 69,-431; contains blocks 1104,0,-6896 to 1119,255,-6881), Region: (2,-14; contains chunks 64,-448 to 95,-417, blocks 1024,0,-7168 to 1535,255,-6657)
+Stacktrace:
+	at net.minecraft.server.v1_15_R1.TickListServer.b(TickListServer.java:82)
+	at net.minecraft.server.v1_15_R1.WorldServer.doTick(WorldServer.java:312)
+
+-- Affected level --
+Details:
+	All players: 3 total; [EntityPlayer['velarsaraptor'/41857, l='world', x=1581.39, y=63.00, z=-9414.70](velarsaraptor at 1581.3858490921612,63.0,-9414.699999988079), EntityPlayer['wuapinmon'/99973, l='world', x=1430.74, y=52.00, z=-6516.26](wuapinmon at 1430.7435990523834,52.0,-6516.261452482892), EntityPlayer['toucanjack'/179249, l='world', x=1128.75, y=63.00, z=-6917.43](toucanjack at 1128.7480487229188,63.0,-6917.433711613273)]
+	Chunk stats: ServerChunkCache: 5196
+	Level dimension: minecraft:overworld
+	Level name: world
+	Level seed: 92455445616471451
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: {}
+	Level spawn location: World: (-162,71,258), Chunk: (at 14,4,2 in -11,16; contains blocks -176,0,256 to -161,255,271), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,0,0 to -1,255,511)
+	Level time: 1482155257 game time, 86653653 day time
+	Known server brands: 
+	Level was modded: false
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 62095 (now: false), thunder time: 34098 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1082)
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:406)
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:984)
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:824)
+	at java.lang.Thread.run(Thread.java:748)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.15.2
+	Minecraft Version ID: 1.15.2
+	Operating System: Linux (amd64) version 4.4.0-169-generic
+	Java Version: 1.8.0_252, Private Build
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+	Memory: 10423935864 bytes (9941 MB) / 16106127360 bytes (15360 MB) up to 16106127360 bytes (15360 MB)
+	CPUs: 4
+	JVM Flags: 12 total; -Xms15G -Xmx15G -XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:MaxGCPauseMillis=50 -XX:+DisableExplicitGC -XX:TargetSurvivorRatio=90 -XX:G1NewSizePercent=50 -XX:G1MaxNewSizePercent=80 -XX:InitiatingHeapOccupancyPercent=10 -XX:G1MixedGCLiveThresholdPercent=50 -XX:+AggressiveOpts
+	CraftBukkit Information: 
+   Running: CraftBukkit version git-Spigot-2f5d615-d07a78b (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT) true
+   Plugins: {}
+   Warnings: DEFAULT
+   Reload Count: 0
+   Threads: { WAITING Finalizer: [java.lang.Object.wait(Native Method), java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144), java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:165), java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:216)], TIMED_WAITING Server-Worker-2: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1824), java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1693), java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)], WAITING chunk IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(LockSupport.java:175), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2124/396940515.run(Unknown Source), java.lang.Thread.run(Thread.java:748)], WAITING poi IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(LockSupport.java:175), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2124/396940515.run(Unknown Source), java.lang.Thread.run(Thread.java:748)], RUNNABLE Server thread: [java.lang.Thread.dumpThreads(Native Method), java.lang.Thread.getAllStackTraces(Thread.java:1610), org.bukkit.craftbukkit.v1_15_R1.CraftCrashReport.call(CraftCrashReport.java:33), net.minecraft.server.v1_15_R1.CrashReportSystemDetails.a(SourceFile:79), net.minecraft.server.v1_15_R1.CrashReport.i(CrashReport.java:71), net.minecraft.server.v1_15_R1.CrashReport.<init>(CrashReport.java:35), net.minecraft.server.v1_15_R1.CrashReport.a(CrashReport.java:269), net.minecraft.server.v1_15_R1.World.a(World.java:442), net.minecraft.server.v1_15_R1.World.applyPhysics(World.java:385), net.minecraft.server.v1_15_R1.BlockPressurePlateAbstract.a(BlockPressurePlateAbstract.java:120), net.minecraft.server.v1_15_R1.BlockPressurePlateAbstract.a(BlockPressurePlateAbstract.java:88), net.minecraft.server.v1_15_R1.BlockPressurePlateAbstract.tick(BlockPressurePlateAbstract.java:49), net.minecraft.server.v1_15_R1.IBlockData.a(SourceFile:263), net.minecraft.server.v1_15_R1.WorldServer.b(WorldServer.java:599), net.minecraft.server.v1_15_R1.WorldServer$$Lambda$2144/38522796.accept(Unknown Source), net.minecraft.server.v1_15_R1.TickListServer.b(TickListServer.java:82), net.minecraft.server.v1_15_R1.WorldServer.doTick(WorldServer.java:312), net.minecraft.server.v1_15_R1.MinecraftServer.b(MinecraftServer.java:1082), net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:406), net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:984), net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:824), java.lang.Thread.run(Thread.java:748)], WAITING Snooper Timer: [java.lang.Object.wait(Native Method), java.lang.Object.wait(Object.java:502), java.util.TimerThread.mainLoop(Timer.java:526), java.util.TimerThread.run(Timer.java:505)], RUNNABLE Netty Epoll Server IO #3: [io.netty.channel.epoll.Native.epollWait0(Native Method), io.netty.channel.epoll.Native.epollWait(Native.java:114), io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239), io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Thread.java:748)], TIMED_WAITING Spigot Metrics Thread: [java.lang.Object.wait(Native Method), java.util.TimerThread.mainLoop(Timer.java:552), java.util.TimerThread.run(Timer.java:505)], RUNNABLE Netty Epoll Server IO #1: [io.netty.channel.epoll.Native.epollWait0(Native Method), io.netty.channel.epoll.Native.epollWait(Native.java:114), io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239), io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Thread.java:748)], TIMED_WAITING ObjectCleanerThread: [java.lang.Object.wait(Native Method), java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144), io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54), io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30), java.lang.Thread.run(Thread.java:748)], WAITING poi IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(LockSupport.java:175), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2124/396940515.run(Unknown Source), java.lang.Thread.run(Thread.java:748)], TIMED_WAITING Server Infinisleeper: [java.lang.Thread.sleep(Native Method), net.minecraft.server.v1_15_R1.DedicatedServer$1.run(DedicatedServer.java:70)], WAITING TerminalConsoleWriter: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(LockSupport.java:175), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039), java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442), com.mojang.util.QueueLogAppender.getNextLogEvent(QueueLogAppender.java:77), org.bukkit.craftbukkit.v1_15_R1.util.TerminalConsoleWriterThread.run(TerminalConsoleWriterThread.java:31)], TIMED_WAITING Spigot Watchdog Thread: [java.lang.Thread.sleep(Native Method), org.spigotmc.WatchdogThread.run(WatchdogThread.java:102)], RUNNABLE RCON Listener #1: [java.net.PlainSocketImpl.socketAccept(Native Method), java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:409), java.net.ServerSocket.implAccept(ServerSocket.java:560), java.net.ServerSocket.accept(ServerSocket.java:528), net.minecraft.server.v1_15_R1.RemoteControlListener.run(SourceFile:58), java.lang.Thread.run(Thread.java:748)], WAITING chunk IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(LockSupport.java:175), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2124/396940515.run(Unknown Source), java.lang.Thread.run(Thread.java:748)], RUNNABLE Netty Epoll Server IO #2: [io.netty.channel.epoll.Native.epollWait0(Native Method), io.netty.channel.epoll.Native.epollWait(Native.java:114), io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239), io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Thread.java:748)], WAITING Reference Handler: [java.lang.Object.wait(Native Method), java.lang.Object.wait(Object.java:502), java.lang.ref.Reference.tryHandlePending(Reference.java:191), java.lang.ref.Reference$ReferenceHandler.run(Reference.java:153)], WAITING NonBlockingInputStreamThread: [java.lang.Object.wait(Native Method), org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.run(NonBlockingInputStream.java:278), java.lang.Thread.run(Thread.java:748)], RUNNABLE Server console handler: [java.io.FileInputStream.readBytes(Native Method), java.io.FileInputStream.read(FileInputStream.java:255), java.io.BufferedInputStream.fill(BufferedInputStream.java:246), java.io.BufferedInputStream.read(BufferedInputStream.java:265), org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169), org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137), org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246), org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261), org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198), org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145), org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2349), net.minecraft.server.v1_15_R1.DedicatedServer$2.run(DedicatedServer.java:103)], WAITING chunk IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(LockSupport.java:175), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2124/396940515.run(Unknown Source), java.lang.Thread.run(Thread.java:748)], WAITING Server-Worker-1: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1824), java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1693), java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)], RUNNABLE DestroyJavaVM: [], WAITING Server-Worker-3: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1824), java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1693), java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)], WAITING poi IO worker: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(LockSupport.java:175), net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124), net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134), net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2124/396940515.run(Unknown Source), java.lang.Thread.run(Thread.java:748)], RUNNABLE Signal Dispatcher: [], RUNNABLE Netty Epoll Server IO #0: [io.netty.channel.epoll.Native.epollWait0(Native Method), io.netty.channel.epoll.Native.epollWait(Native.java:114), io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239), io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Thread.java:748)],}
+   Recent tasks from 1049432-1049462{}
+   Force Loaded Chunks: { world: {}, world_nether: {}, world_the_end: {},}
+	Player Count: 3 / 20; [EntityPlayer['velarsaraptor'/41857, l='world', x=1581.39, y=63.00, z=-9414.70](velarsaraptor at 1581.3858490921612,63.0,-9414.699999988079), EntityPlayer['wuapinmon'/99973, l='world', x=1430.74, y=52.00, z=-6516.26](wuapinmon at 1430.7435990523834,52.0,-6516.261452482892), EntityPlayer['toucanjack'/179249, l='world', x=1128.75, y=63.00, z=-6917.43](toucanjack at 1128.7480487229188,63.0,-6917.433711613273)]
+	Data Packs: vanilla, file/bukkit
+	Is Modded: Definitely; Server brand changed to 'Spigot'
+	Type: Dedicated Server (map_server.txt)

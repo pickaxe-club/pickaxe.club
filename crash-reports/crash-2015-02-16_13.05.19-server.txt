@@ -1,0 +1,108 @@
+---- Minecraft Crash Report ----
+// Everything's going to plan. No, really, that was supposed to happen.
+
+Time: 2/16/15 1:05 PM
+Description: Exception ticking world
+
+java.lang.NullPointerException: Exception ticking world
+	at azi.a(SourceFile:124)
+	at azi.apply(SourceFile:121)
+	at beh.a(SourceFile:53)
+	at beh.apply(SourceFile:50)
+	at bei.a(SourceFile:67)
+	at bei.a(SourceFile:90)
+	at azh.f(SourceFile:49)
+	at azh.c(SourceFile:39)
+	at bff.a(SourceFile:551)
+	at aqr.a(SourceFile:290)
+	at bif.b(SourceFile:20)
+	at arv.a(SourceFile:261)
+	at arv.a(SourceFile:49)
+	at arj.a(SourceFile:389)
+	at ary.a(SourceFile:47)
+	at bgt.a(SourceFile:472)
+	at qt.a(SourceFile:174)
+	at bff.a(SourceFile:854)
+	at qt.c(SourceFile:104)
+	at qt.d(SourceFile:116)
+	at aqr.a(SourceFile:276)
+	at aqr.f(SourceFile:272)
+	at aqr.p(SourceFile:657)
+	at awk.b(SourceFile:66)
+	at ato.a(SourceFile:445)
+	at qu.h(SourceFile:383)
+	at qu.c(SourceFile:202)
+	at net.minecraft.server.MinecraftServer.A(SourceFile:600)
+	at pp.A(SourceFile:299)
+	at net.minecraft.server.MinecraftServer.z(SourceFile:532)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:448)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at azi.a(SourceFile:124)
+	at azi.apply(SourceFile:121)
+	at beh.a(SourceFile:53)
+	at beh.apply(SourceFile:50)
+	at bei.a(SourceFile:67)
+	at bei.a(SourceFile:90)
+	at azh.f(SourceFile:49)
+	at azh.c(SourceFile:39)
+	at bff.a(SourceFile:551)
+	at aqr.a(SourceFile:290)
+	at bif.b(SourceFile:20)
+	at arv.a(SourceFile:261)
+	at arv.a(SourceFile:49)
+	at arj.a(SourceFile:389)
+	at ary.a(SourceFile:47)
+	at bgt.a(SourceFile:472)
+	at qt.a(SourceFile:174)
+	at bff.a(SourceFile:854)
+	at qt.c(SourceFile:104)
+	at qt.d(SourceFile:116)
+	at aqr.a(SourceFile:276)
+	at aqr.f(SourceFile:272)
+	at aqr.p(SourceFile:657)
+	at awk.b(SourceFile:66)
+	at ato.a(SourceFile:445)
+	at qu.h(SourceFile:383)
+	at qu.c(SourceFile:202)
+
+-- Affected level --
+Details:
+	Level name: world
+	All players: 2 total; [qx['McPhage'/478, l='world', x=-503.50, y=11.10, z=-209.50], qx['bensawyer'/2219000, l='world', x=-7531.90, y=84.00, z=-4348.56]]
+	Chunk stats: ServerChunkCache: 1235 Drop: 0
+	Level seed: 92455445616471451
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: 
+	Level spawn location: -156.00,64.00,256.00 - World: (-156,64,256), Chunk: (at 4,4,0 in -10,16; contains blocks -160,0,256 to -145,255,271), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,0,0 to -1,255,511)
+	Level time: 55017805 game time, 55448189 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 49698 (now: false), thunder time: 146771 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.A(SourceFile:600)
+	at pp.A(SourceFile:299)
+	at net.minecraft.server.MinecraftServer.z(SourceFile:532)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:448)
+	at java.lang.Thread.run(Thread.java:745)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.8.1
+	Operating System: Linux (amd64) version 3.18.5-x86_64-linode52
+	Java Version: 1.7.0_76, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 764019144 bytes (728 MB) / 4227858432 bytes (4032 MB) up to 16862150656 bytes (16081 MB)
+	JVM Flags: 11 total; -Xms4G -Xmx16G -XX:+UseFastAccessorMethods -XX:+AggressiveOpts -XX:+DisableExplicitGC -XX:+UseAdaptiveGCBoundary -XX:MaxGCPauseMillis=500 -XX:SurvivorRatio=16 -XX:+UseParallelGC -XX:UseSSE=3 -XX:ParallelGCThreads=8
+	IntCache: cache: 0, tcache: 0, allocated: 13, tallocated: 95
+	Profiler Position: N/A (disabled)
+	Player Count: 2 / 20; [qx['McPhage'/478, l='world', x=-503.50, y=11.10, z=-209.50], qx['bensawyer'/2219000, l='world', x=-7531.90, y=84.00, z=-4348.56]]
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)

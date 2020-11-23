@@ -1,0 +1,84 @@
+---- Minecraft Crash Report ----
+// This is a token for 1 free hug. Redeem at your nearest Mojangsta: [~~HUG~~]
+
+Time: 2/16/15 2:50 AM
+Description: Exception ticking world
+
+java.lang.RuntimeException: Already decorating
+	at arv.a(SourceFile:25)
+	at arj.a(SourceFile:389)
+	at asr.a(SourceFile:86)
+	at bgt.a(SourceFile:472)
+	at qt.a(SourceFile:174)
+	at bff.a(SourceFile:872)
+	at qt.c(SourceFile:104)
+	at qt.d(SourceFile:116)
+	at aqr.a(SourceFile:276)
+	at aqr.f(SourceFile:272)
+	at aqr.p(SourceFile:657)
+	at awk.b(SourceFile:66)
+	at ato.a(SourceFile:445)
+	at qu.h(SourceFile:383)
+	at qu.c(SourceFile:202)
+	at net.minecraft.server.MinecraftServer.A(SourceFile:600)
+	at pp.A(SourceFile:299)
+	at net.minecraft.server.MinecraftServer.z(SourceFile:532)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:448)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at arv.a(SourceFile:25)
+	at arj.a(SourceFile:389)
+	at asr.a(SourceFile:86)
+	at bgt.a(SourceFile:472)
+	at qt.a(SourceFile:174)
+	at bff.a(SourceFile:872)
+	at qt.c(SourceFile:104)
+	at qt.d(SourceFile:116)
+	at aqr.a(SourceFile:276)
+	at aqr.f(SourceFile:272)
+	at aqr.p(SourceFile:657)
+	at awk.b(SourceFile:66)
+	at ato.a(SourceFile:445)
+	at qu.h(SourceFile:383)
+	at qu.c(SourceFile:202)
+
+-- Affected level --
+Details:
+	Level name: world
+	All players: 15 total; [qx['npdoty'/20577220, l='world', x=-1434.55, y=40.00, z=163.70], qx['p1agu3'/21415572, l='world', x=-203.42, y=71.00, z=198.42], qx['uxp'/21342920, l='world', x=132.62, y=61.00, z=246.95], qx['lt_waffle'/21449285, l='world', x=82.22, y=69.00, z=1687.80], qx['turtlr'/21467030, l='world', x=182.96, y=64.00, z=2115.56], qx['Olizam'/21516644, l='world', x=2216.13, y=63.00, z=58.21], qx['fillerz0r'/21660119, l='world', x=158.49, y=47.00, z=316.73], qx['jhawthorn'/21939517, l='world', x=-67.89, y=54.00, z=187.55], qx['CobyR'/21826163, l='world', x=2240.30, y=54.00, z=3864.30], qx['kokopelli_'/19942816, l='world', x=-22.13, y=67.00, z=1710.86], qx['qrush'/22074474, l='world', x=-2476.55, y=80.00, z=-1707.27], qx['aquaranto'/22094802, l='world', x=-2476.86, y=79.00, z=-1701.65], qx['bensawyer'/22249566, l='world', x=-2531.24, y=67.00, z=2002.23], qx['tyrosinase'/22258267, l='world', x=-196.55, y=71.88, z=233.85], qx['Ipslore'/21483618, l='world', x=2215.19, y=63.00, z=54.30]]
+	Chunk stats: ServerChunkCache: 3937 Drop: 0
+	Level seed: 92455445616471451
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: 
+	Level spawn location: -156.00,64.00,256.00 - World: (-156,64,256), Chunk: (at 4,4,0 in -10,16; contains blocks -160,0,256 to -145,255,271), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,0,0 to -1,255,511)
+	Level time: 54289840 game time, 54720224 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 2346 (now: true), thunder time: 6061 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.A(SourceFile:600)
+	at pp.A(SourceFile:299)
+	at net.minecraft.server.MinecraftServer.z(SourceFile:532)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:448)
+	at java.lang.Thread.run(Thread.java:745)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.8.1
+	Operating System: Linux (amd64) version 3.18.5-x86_64-linode52
+	Java Version: 1.7.0_76, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1680006872 bytes (1602 MB) / 4174905344 bytes (3981 MB) up to 16862150656 bytes (16081 MB)
+	JVM Flags: 11 total; -Xms4G -Xmx16G -XX:+UseFastAccessorMethods -XX:+AggressiveOpts -XX:+DisableExplicitGC -XX:+UseAdaptiveGCBoundary -XX:MaxGCPauseMillis=500 -XX:SurvivorRatio=16 -XX:+UseParallelGC -XX:UseSSE=3 -XX:ParallelGCThreads=8
+	IntCache: cache: 1, tcache: 1, allocated: 12, tallocated: 94
+	Profiler Position: N/A (disabled)
+	Player Count: 16 / 20; [qx['npdoty'/20577220, l='world', x=-1434.55, y=40.00, z=163.70], qx['p1agu3'/21415572, l='world', x=-203.42, y=71.00, z=198.42], qx['uxp'/21342920, l='world', x=132.62, y=61.00, z=246.95], qx['lt_waffle'/21449285, l='world', x=82.22, y=69.00, z=1687.80], qx['turtlr'/21467030, l='world', x=182.96, y=64.00, z=2115.56], qx['Ipslore'/21483618, l='world', x=2215.19, y=63.00, z=54.30], qx['Olizam'/21516644, l='world', x=2216.13, y=63.00, z=58.21], qx['fillerz0r'/21660119, l='world', x=158.49, y=47.00, z=316.73], qx['jhawthorn'/21939517, l='world', x=-67.89, y=54.00, z=187.55], qx['McPhage'/21950352, l='world', x=227.70, y=48.50, z=5.23], qx['CobyR'/21826163, l='world', x=2240.30, y=54.00, z=3864.30], qx['kokopelli_'/19942816, l='world', x=-22.13, y=67.00, z=1710.86], qx['qrush'/22074474, l='world', x=-2476.55, y=80.00, z=-1707.27], qx['aquaranto'/22094802, l='world', x=-2476.86, y=79.00, z=-1701.65], qx['bensawyer'/22249566, l='world', x=-2531.24, y=67.00, z=2002.23], qx['tyrosinase'/22258267, l='world', x=-196.55, y=71.88, z=233.85]]
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)

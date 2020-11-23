@@ -1,0 +1,78 @@
+---- Minecraft Crash Report ----
+// This doesn't make any sense!
+
+Time: 2/25/19 6:13 PM
+Description: Exception ticking world
+
+java.util.ConcurrentModificationException
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:909)
+	at java.util.ArrayList$Itr.next(ArrayList.java:859)
+	at net.minecraft.server.v1_13_R2.PlayerChunkMap$1.computeNext(PlayerChunkMap.java:57)
+	at net.minecraft.server.v1_13_R2.PlayerChunkMap$1.computeNext(PlayerChunkMap.java:1)
+	at com.google.common.collect.AbstractIterator.tryToComputeNext(AbstractIterator.java:145)
+	at com.google.common.collect.AbstractIterator.hasNext(AbstractIterator.java:140)
+	at net.minecraft.server.v1_13_R2.WorldServer.n_(WorldServer.java:460)
+	at net.minecraft.server.v1_13_R2.WorldServer.doTick(WorldServer.java:287)
+	at net.minecraft.server.v1_13_R2.MinecraftServer.b(MinecraftServer.java:952)
+	at net.minecraft.server.v1_13_R2.DedicatedServer.b(DedicatedServer.java:417)
+	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:831)
+	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:729)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at java.util.ArrayList$Itr.checkForComodification(ArrayList.java:909)
+	at java.util.ArrayList$Itr.next(ArrayList.java:859)
+	at net.minecraft.server.v1_13_R2.PlayerChunkMap$1.computeNext(PlayerChunkMap.java:57)
+	at net.minecraft.server.v1_13_R2.PlayerChunkMap$1.computeNext(PlayerChunkMap.java:1)
+	at com.google.common.collect.AbstractIterator.tryToComputeNext(AbstractIterator.java:145)
+	at com.google.common.collect.AbstractIterator.hasNext(AbstractIterator.java:140)
+	at net.minecraft.server.v1_13_R2.WorldServer.n_(WorldServer.java:460)
+	at net.minecraft.server.v1_13_R2.WorldServer.doTick(WorldServer.java:287)
+
+-- Affected level --
+Details:
+	Level name: world_nether
+	All players: 0 total; []
+	Chunk stats: ServerChunkCache: 368 Drop: 361
+	Level seed: 92455445616471451
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: {}
+	Level spawn location: World: (-156,64,256), Chunk: (at 4,4,0 in -10,16; contains blocks -160,0,256 to -145,255,271), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,0,0 to -1,255,511)
+	Level time: 1174866785 game time, 7481843 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 0 (now: true), thunder time: 0 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.v1_13_R2.MinecraftServer.b(MinecraftServer.java:952)
+	at net.minecraft.server.v1_13_R2.DedicatedServer.b(DedicatedServer.java:417)
+	at net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:831)
+	at net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:729)
+	at java.lang.Thread.run(Thread.java:748)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.13.2
+	Operating System: Linux (amd64) version 4.4.0-142-generic
+	Java Version: 1.8.0_201, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 5556911784 bytes (5299 MB) / 16106127360 bytes (15360 MB) up to 16106127360 bytes (15360 MB)
+	JVM Flags: 12 total; -Xms15G -Xmx15G -XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:MaxGCPauseMillis=50 -XX:+DisableExplicitGC -XX:TargetSurvivorRatio=90 -XX:G1NewSizePercent=50 -XX:G1MaxNewSizePercent=80 -XX:InitiatingHeapOccupancyPercent=10 -XX:G1MixedGCLiveThresholdPercent=50 -XX:+AggressiveOpts
+	CraftBukkit Information: 
+   Running: CraftBukkit version git-Spigot-e5e5c7c-c24abab (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT) true
+   Plugins: {}
+   Warnings: DEFAULT
+   Reload Count: 0
+   Threads: { TIMED_WAITING Spigot Metrics Thread: [java.lang.Object.wait(Native Method), java.util.TimerThread.mainLoop(Timer.java:552), java.util.TimerThread.run(Timer.java:505)], RUNNABLE Server thread: [java.lang.Thread.dumpThreads(Native Method), java.lang.Thread.getAllStackTraces(Thread.java:1610), org.bukkit.craftbukkit.v1_13_R2.CraftCrashReport.call(CraftCrashReport.java:32), net.minecraft.server.v1_13_R2.CrashReportSystemDetails.a(SourceFile:79), net.minecraft.server.v1_13_R2.CrashReport.h(CrashReport.java:66), net.minecraft.server.v1_13_R2.CrashReport.<init>(CrashReport.java:34), net.minecraft.server.v1_13_R2.CrashReport.a(CrashReport.java:260), net.minecraft.server.v1_13_R2.MinecraftServer.b(MinecraftServer.java:957), net.minecraft.server.v1_13_R2.DedicatedServer.b(DedicatedServer.java:417), net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:831), net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:729), java.lang.Thread.run(Thread.java:748)], TIMED_WAITING Server Infinisleeper: [java.lang.Thread.sleep(Native Method), net.minecraft.server.v1_13_R2.DedicatedServer$1.run(DedicatedServer.java:66)], WAITING Thread-4: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.park(LockSupport.java:175), java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039), java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442), com.mojang.util.QueueLogAppender.getNextLogEvent(QueueLogAppender.java:77), org.bukkit.craftbukkit.v1_13_R2.util.TerminalConsoleWriterThread.run(TerminalConsoleWriterThread.java:27), java.lang.Thread.run(Thread.java:748)], TIMED_WAITING Downloader 350: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215), java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460), java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362), java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941), java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1073), java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134), java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624), java.lang.Thread.run(Thread.java:748)], WAITING Reference Handler: [java.lang.Object.wait(Native Method), java.lang.Object.wait(Object.java:502), java.lang.ref.Reference.tryHandlePending(Reference.java:191), java.lang.ref.Reference$ReferenceHandler.run(Reference.java:153)], WAITING Snooper Timer: [java.lang.Object.wait(Native Method), java.lang.Object.wait(Object.java:502), java.util.TimerThread.mainLoop(Timer.java:526), java.util.TimerThread.run(Timer.java:505)], RUNNABLE Netty Epoll Server IO #1: [io.netty.channel.epoll.Native.epollWait0(Native Method), io.netty.channel.epoll.Native.epollWait(Native.java:114), io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239), io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Thread.java:748)], RUNNABLE Netty Epoll Server IO #0: [io.netty.channel.epoll.Native.epollWait0(Native Method), io.netty.channel.epoll.Native.epollWait(Native.java:114), io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239), io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Thread.java:748)], TIMED_WAITING process reaper: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215), java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460), java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362), java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941), java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1073), java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134), java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624), java.lang.Thread.run(Thread.java:748)], WAITING NonBlockingInputStreamThread: [java.lang.Object.wait(Native Method), org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.run(NonBlockingInputStream.java:278), java.lang.Thread.run(Thread.java:748)], RUNNABLE Netty Epoll Server IO #3: [io.netty.channel.epoll.Native.epollWait0(Native Method), io.netty.channel.epoll.Native.epollWait(Native.java:114), io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239), io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Thread.java:748)], RUNNABLE RCON Client #89: [java.net.SocketInputStream.socketRead0(Native Method), java.net.SocketInputStream.socketRead(SocketInputStream.java:116), java.net.SocketInputStream.read(SocketInputStream.java:171), java.net.SocketInputStream.read(SocketInputStream.java:141), java.io.BufferedInputStream.fill(BufferedInputStream.java:246), java.io.BufferedInputStream.read1(BufferedInputStream.java:286), java.io.BufferedInputStream.read(BufferedInputStream.java:345), net.minecraft.server.v1_13_R2.RemoteControlSession.run(SourceFile:46), java.lang.Thread.run(Thread.java:748)], TIMED_WAITING Downloader 351: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215), java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460), java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362), java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941), java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1073), java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134), java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624), java.lang.Thread.run(Thread.java:748)], TIMED_WAITING File IO Thread: [java.lang.Thread.sleep(Native Method), net.minecraft.server.v1_13_R2.FileIOThread.c(SourceFile:59), net.minecraft.server.v1_13_R2.FileIOThread.run(SourceFile:35), java.lang.Thread.run(Thread.java:748)], RUNNABLE RCON Listener #1: [java.net.PlainSocketImpl.socketAccept(Native Method), java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:409), java.net.ServerSocket.implAccept(ServerSocket.java:545), java.net.ServerSocket.accept(ServerSocket.java:513), net.minecraft.server.v1_13_R2.RemoteControlListener.run(SourceFile:69), java.lang.Thread.run(Thread.java:748)], RUNNABLE Netty Epoll Server IO #2: [io.netty.channel.epoll.Native.epollWait0(Native Method), io.netty.channel.epoll.Native.epollWait(Native.java:114), io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239), io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256), io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.lang.Thread.run(Thread.java:748)], TIMED_WAITING Downloader 348: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215), java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460), java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362), java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941), java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1073), java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134), java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624), java.lang.Thread.run(Thread.java:748)], TIMED_WAITING ObjectCleanerThread: [java.lang.Object.wait(Native Method), java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144), io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54), io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30), java.lang.Thread.run(Thread.java:748)], TIMED_WAITING Downloader 352: [sun.misc.Unsafe.park(Native Method), java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215), java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:460), java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:362), java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:941), java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1073), java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134), java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624), java.lang.Thread.run(Thread.java:748)], RUNNABLE DestroyJavaVM: [], RUNNABLE Signal Dispatcher: [], TIMED_WAITING Thread-3: [java.lang.Thread.sleep(Native Method), net.minecraft.server.v1_13_R2.MinecraftServer.stop(MinecraftServer.java:632), org.bukkit.craftbukkit.v1_13_R2.util.ServerShutdownThread.run(ServerShutdownThread.java:17)], WAITING SIGINT handler: [java.lang.Object.wait(Native Method), java.lang.Thread.join(Thread.java:1252), java.lang.Thread.join(Thread.java:1326), java.lang.ApplicationShutdownHooks.runHooks(ApplicationShutdownHooks.java:107), java.lang.ApplicationShutdownHooks$1.run(ApplicationShutdownHooks.java:46), java.lang.Shutdown.runHooks(Shutdown.java:123), java.lang.Shutdown.sequence(Shutdown.java:167), java.lang.Shutdown.exit(Shutdown.java:212), java.lang.Terminator$1.handle(Terminator.java:52), sun.misc.Signal$1.run(Signal.java:212), java.lang.Thread.run(Thread.java:748)], TIMED_WAITING Spigot Watchdog Thread: [java.lang.Thread.sleep(Native Method), org.spigotmc.WatchdogThread.run(WatchdogThread.java:102)], WAITING Finalizer: [java.lang.Object.wait(Native Method), java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144), java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:165), java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:216)],}
+   Recent tasks from 1168030-1168060{}
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 20; []
+	Data Packs: vanilla, file/bukkit (incompatible)
+	Is Modded: Definitely; Server brand changed to 'Spigot'
+	Type: Dedicated Server (map_server.txt)

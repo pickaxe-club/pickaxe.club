@@ -1,0 +1,210 @@
+---- Minecraft Crash Report ----
+// Surprise! Haha. Well, this is awkward.
+
+Time: 12/13/14 3:36 PM
+Description: Watching Server
+
+java.lang.Error
+	at ut.a(SourceFile:49)
+	at qt.d(SourceFile:112)
+	at aqr.a(SourceFile:276)
+	at aqr.a(SourceFile:2227)
+	at xo.bL(SourceFile:1474)
+	at xo.m(SourceFile:1465)
+	at aha.m(SourceFile:493)
+	at xo.t_(SourceFile:1300)
+	at aha.t_(SourceFile:277)
+	at qx.l(SourceFile:250)
+	at rl.a(SourceFile:301)
+	at mh.a(SourceFile:126)
+	at mj.a(SourceFile:18)
+	at ii.run(SourceFile:13)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at net.minecraft.server.MinecraftServer.A(SourceFile:577)
+	at pp.A(SourceFile:299)
+	at net.minecraft.server.MinecraftServer.z(SourceFile:532)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:448)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at ut.a(SourceFile:49)
+	at qt.d(SourceFile:112)
+	at aqr.a(SourceFile:276)
+	at aqr.a(SourceFile:2227)
+	at xo.bL(SourceFile:1474)
+	at xo.m(SourceFile:1465)
+	at aha.m(SourceFile:493)
+	at xo.t_(SourceFile:1300)
+	at aha.t_(SourceFile:277)
+	at qx.l(SourceFile:250)
+	at rl.a(SourceFile:301)
+	at mh.a(SourceFile:126)
+	at mj.a(SourceFile:18)
+	at ii.run(SourceFile:13)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at net.minecraft.server.MinecraftServer.A(SourceFile:577)
+	at pp.A(SourceFile:299)
+	at net.minecraft.server.MinecraftServer.z(SourceFile:532)
+
+-- Thread Dump --
+Details:
+	Threads: "RCON Client #289" Id=741 RUNNABLE
+
+
+"RCON Client #288" Id=740 RUNNABLE
+	at java.io.BufferedInputStream.<init>(BufferedInputStream.java:195)
+	at java.io.BufferedInputStream.<init>(BufferedInputStream.java:175)
+	at tj.run(SourceFile:45)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+"RCON Client #287" Id=739 RUNNABLE
+	at java.net.Socket.close(Socket.java:1437)
+	-  locked java.net.Socket@6a41bd60
+	at tj.g(SourceFile:148)
+	at tj.run(SourceFile:99)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+"Netty Epoll Server IO #3" Id=21 RUNNABLE (in native)
+	at io.netty.channel.epoll.Native.epollWait(Native Method)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:194)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:219)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+"Netty Epoll Server IO #2" Id=20 RUNNABLE (in native)
+	at io.netty.channel.epoll.Native.epollWait(Native Method)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:194)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:219)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+"Netty Epoll Server IO #1" Id=19 RUNNABLE (in native)
+	at io.netty.channel.epoll.Native.epollWait(Native Method)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:194)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:219)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+"File IO Thread" Id=26 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at brn.c(SourceFile:51)
+	at brn.run(SourceFile:30)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+"Server Watchdog" Id=24 RUNNABLE
+	at sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:446)
+	at pu.run(SourceFile:43)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+"RCON Listener #1" Id=23 RUNNABLE
+	at org.apache.logging.log4j.core.impl.Log4jLogEvent.<init>(Log4jLogEvent.java:90)
+	at org.apache.logging.log4j.core.impl.DefaultLogEventFactory.createEvent(DefaultLogEventFactory.java:49)
+	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:365)
+	at org.apache.logging.log4j.core.Logger.log(Logger.java:110)
+	at org.apache.logging.log4j.spi.AbstractLogger.info(AbstractLogger.java:1011)
+	at net.minecraft.server.MinecraftServer.e(SourceFile:734)
+	at tg.b(SourceFile:83)
+	at tj.<init>(SourceFile:38)
+	...
+
+
+"Netty Epoll Server IO #0" Id=18 RUNNABLE (in native)
+	at io.netty.channel.epoll.Native.epollWait(Native Method)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:194)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:219)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+"Server console handler" Id=15 RUNNABLE (in native)
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(FileInputStream.java:272)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:273)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:334)
+	-  locked java.io.BufferedInputStream@1f82020
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:283)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:325)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:177)
+	-  locked java.io.InputStreamReader@1662bb06
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	...
+
+
+"DestroyJavaVM" Id=14 RUNNABLE
+
+
+"Server thread" Id=12 RUNNABLE
+	at ut.a(SourceFile:49)
+	at qt.d(SourceFile:112)
+	at aqr.a(SourceFile:276)
+	at aqr.a(SourceFile:2227)
+	at xo.bL(SourceFile:1474)
+	at xo.m(SourceFile:1465)
+	at aha.m(SourceFile:493)
+	at xo.t_(SourceFile:1300)
+	...
+
+
+"Server Infinisleeper" Id=11 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at pq.run(SourceFile:65)
+
+
+"Snooper Timer" Id=10 TIMED_WAITING on java.util.TaskQueue@2b473b66
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@2b473b66
+	at java.util.TimerThread.mainLoop(Timer.java:552)
+	at java.util.TimerThread.run(Timer.java:505)
+
+
+"Signal Dispatcher" Id=4 RUNNABLE
+
+
+"Finalizer" Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@518cbbbc
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@518cbbbc
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:135)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:151)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:209)
+
+
+"Reference Handler" Id=2 WAITING on java.lang.ref.Reference$Lock@6e795d77
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.Reference$Lock@6e795d77
+	at java.lang.Object.wait(Object.java:503)
+	at java.lang.ref.Reference$ReferenceHandler.run(Reference.java:133)
+
+
+
+Stacktrace:
+	at pu.run(SourceFile:59)
+	at java.lang.Thread.run(Thread.java:745)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.8.1
+	Operating System: Linux (amd64) version 3.13.0-37-generic
+	Java Version: 1.7.0_65, Oracle Corporation
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 519883168 bytes (495 MB) / 1064828928 bytes (1015 MB) up to 1908932608 bytes (1820 MB)
+	JVM Flags: 2 total; -Xms1G -Xmx2G
+	IntCache: cache: 0, tcache: 0, allocated: 13, tallocated: 95
+	Profiler Position: N/A (disabled)
+	Player Count: 3 / 20; [qx['timdiggerm'/3354271, l='world', x=28.70, y=64.00, z=187.61], qx['owookie'/3497643, l='world', x=-14.70, y=71.00, z=-87.15], qx['therobert'/3506155, l='world', x=-172.28, y=71.00, z=228.13]]
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)

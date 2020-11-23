@@ -1,0 +1,13 @@
+enabledWorlds:
+- world
+- world_nether
+- world_the_end
+allowNaturalSpawn: false
+onlyNerfNatural: true
+muteSound: false
+disableAI: false
+health: 20.0
+damageModifier: 1.0
+fixedSize:
+  enabled: false
+  value: 1
