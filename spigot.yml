@@ -170,3 +170,5 @@ world-settings:
     clear-tick-list: false
     squid-spawn-range:
       min: 45.0
+players:
+  disable-saving: false

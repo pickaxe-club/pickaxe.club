@@ -1079,6 +1079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2020-12-05 03:35:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2017-10-21 01:58:26 +0000"
@@ -1160,6 +1166,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2020-03-20 22:11:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2020-12-05 03:35:19 +0000"
     },
     "done": true
   },
@@ -5560,5 +5572,5 @@
     },
     "done": true
   },
-  "DataVersion": 2567
+  "DataVersion": 2584
 }
