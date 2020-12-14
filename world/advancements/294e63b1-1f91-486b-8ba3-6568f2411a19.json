@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2020-12-13 02:42:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-03-13 17:33:17 +0000"
@@ -365,6 +371,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2017-06-09 21:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2020-12-13 17:20:10 +0000"
     },
     "done": true
   },
@@ -755,6 +767,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2017-06-09 21:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2020-12-13 17:11:24 +0000"
     },
     "done": true
   },
@@ -1239,6 +1257,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2020-03-23 19:42:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2020-12-13 02:08:00 +0000"
     },
     "done": true
   },
@@ -2340,6 +2364,12 @@
     },
     "done": true
   },
+  "minecraft:nether/charge_respawn_anchor": {
+    "criteria": {
+      "charge_respawn_anchor": "2020-12-13 04:04:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2017-06-09 20:59:43 +0000"
@@ -2818,11 +2848,13 @@
       "minecraft:skeleton": "2017-06-09 23:49:14 +0000",
       "minecraft:ravager": "2020-03-23 23:50:38 +0000",
       "minecraft:ghast": "2017-06-09 20:57:26 +0000",
+      "minecraft:hoglin": "2020-12-13 02:42:23 +0000",
       "minecraft:guardian": "2017-06-09 22:10:19 +0000",
       "minecraft:vindicator": "2017-07-15 15:36:59 +0000",
       "minecraft:magma_cube": "2017-06-09 21:36:19 +0000",
       "minecraft:spider": "2017-06-09 22:22:20 +0000",
       "minecraft:creeper": "2017-06-09 22:22:47 +0000",
+      "minecraft:wither": "2020-12-13 20:26:39 +0000",
       "minecraft:slime": "2017-06-09 21:44:05 +0000",
       "minecraft:evoker": "2017-07-15 15:38:32 +0000",
       "minecraft:phantom": "2019-09-28 01:29:41 +0000",
@@ -2851,6 +2883,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-03-23 19:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2020-12-13 02:08:00 +0000"
     },
     "done": true
   },
@@ -3220,6 +3258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2020-12-13 17:14:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine_brick": "2020-03-14 04:11:15 +0000"
@@ -3471,6 +3515,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-03-13 17:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2020-12-13 02:25:50 +0000"
     },
     "done": true
   },
@@ -3756,6 +3806,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2020-12-13 02:08:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2017-06-24 16:10:44 +0000"
@@ -4038,6 +4094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2020-12-13 04:04:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2017-07-15 16:51:15 +0000"
@@ -4137,6 +4199,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2020-04-07 01:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2020-12-13 04:05:39 +0000"
     },
     "done": true
   },
@@ -4662,6 +4730,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2020-12-13 16:31:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2017-06-10 17:15:57 +0000"
@@ -4863,5 +4937,5 @@
     },
     "done": true
   },
-  "DataVersion": 2567
+  "DataVersion": 2584
 }
