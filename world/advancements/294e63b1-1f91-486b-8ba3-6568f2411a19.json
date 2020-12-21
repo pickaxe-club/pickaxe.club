@@ -794,6 +794,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2020-12-19 17:36:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2017-06-12 01:29:30 +0000"
@@ -1812,6 +1818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2020-12-19 21:45:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2017-06-10 17:15:57 +0000"
@@ -2103,6 +2115,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2017-06-12 01:30:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2020-12-19 16:31:46 +0000"
     },
     "done": true
   },
@@ -2853,6 +2871,7 @@
       "minecraft:vindicator": "2017-07-15 15:36:59 +0000",
       "minecraft:magma_cube": "2017-06-09 21:36:19 +0000",
       "minecraft:spider": "2017-06-09 22:22:20 +0000",
+      "minecraft:piglin_brute": "2020-12-19 22:08:06 +0000",
       "minecraft:creeper": "2017-06-09 22:22:47 +0000",
       "minecraft:wither": "2020-12-13 20:26:39 +0000",
       "minecraft:slime": "2017-06-09 21:44:05 +0000",
