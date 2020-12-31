@@ -167,17 +167,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2017-06-09 18:35:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2017-06-09 18:35:27 +0000",
       "diamond_helmet": "2017-06-09 18:35:27 +0000",
       "diamond_boots": "2017-06-09 18:35:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2017-06-09 18:35:27 +0000"
     },
     "done": true
   },
@@ -544,7 +544,7 @@
   },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "has_log": "2017-06-09 18:35:27 +0000"
+      "has_logs": "2020-12-29 19:22:18 +0000"
     },
     "done": true
   },
@@ -654,7 +654,6 @@
     "criteria": {
       "minecraft:blaze": "2017-07-15 16:35:04 +0000",
       "minecraft:skeleton": "2017-06-09 19:27:20 +0000",
-      "minecraft:zombie_pigman": "2017-06-09 22:56:26 +0000",
       "minecraft:ghast": "2017-06-09 22:11:33 +0000",
       "minecraft:guardian": "2017-06-09 21:43:47 +0000",
       "minecraft:vindicator": "2017-07-15 15:38:27 +0000",
@@ -663,6 +662,7 @@
       "minecraft:creeper": "2017-06-09 21:40:21 +0000",
       "minecraft:slime": "2017-06-10 05:37:20 +0000",
       "minecraft:evoker": "2017-07-15 15:36:58 +0000",
+      "minecraft:zombified_piglin": "2017-06-09 22:56:26 +0000",
       "minecraft:witch": "2017-06-10 06:37:30 +0000",
       "minecraft:wither_skeleton": "2017-07-15 16:33:15 +0000",
       "minecraft:husk": "2017-06-10 06:21:05 +0000",
@@ -946,12 +946,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_log": "2017-06-17 04:31:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2017-06-09 18:35:27 +0000"
@@ -1000,12 +994,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_log": "2017-06-09 18:51:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2017-06-09 18:56:38 +0000"
@@ -1045,12 +1033,6 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2017-06-11 02:51:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_log": "2018-02-24 23:15:06 +0000"
     },
     "done": true
   },
@@ -1987,6 +1969,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2017-06-09 18:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2020-12-29 19:22:18 +0000"
     },
     "done": true
   },
@@ -2981,5 +2969,5 @@
     },
     "done": true
   },
-  "DataVersion": 2230
+  "DataVersion": 2584
 }
