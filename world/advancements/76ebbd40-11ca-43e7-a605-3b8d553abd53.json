@@ -367,6 +367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-01-19 04:37:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2017-06-18 05:11:32 +0000"
@@ -808,6 +814,7 @@
       "minecraft:magma_cube": "2017-08-05 21:44:28 +0000",
       "minecraft:spider": "2017-06-18 01:29:36 +0000",
       "minecraft:creeper": "2017-06-17 05:52:11 +0000",
+      "minecraft:wither": "2021-01-19 05:46:59 +0000",
       "minecraft:slime": "2017-08-05 21:20:54 +0000",
       "minecraft:phantom": "2019-03-30 02:26:24 +0000",
       "minecraft:zombified_piglin": "2017-06-18 03:02:09 +0000",
@@ -2090,6 +2097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2021-01-19 05:46:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2020-05-21 00:27:15 +0000"
@@ -2261,6 +2274,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2017-09-11 06:29:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-01-19 04:37:51 +0000"
     },
     "done": true
   },
@@ -4049,6 +4068,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2017-06-12 03:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-01-19 04:37:51 +0000"
     },
     "done": true
   },
