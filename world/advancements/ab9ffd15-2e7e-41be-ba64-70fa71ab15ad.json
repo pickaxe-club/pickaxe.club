@@ -346,8 +346,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2021-02-28 17:52:15 +0000",
       "baked_potato": "2017-06-10 15:43:07 +0000",
       "cooked_cod": "2021-02-07 18:01:44 +0000",
+      "cooked_chicken": "2021-02-28 16:55:14 +0000",
       "carrot": "2021-02-07 18:35:02 +0000"
     },
     "done": false
@@ -475,6 +477,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2017-12-16 01:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-02-27 15:41:02 +0000"
     },
     "done": true
   },
@@ -649,6 +657,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2021-02-07 17:17:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2021-02-27 15:41:02 +0000"
     },
     "done": true
   },
@@ -910,6 +924,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2021-02-27 15:41:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-02-07 17:17:11 +0000"
@@ -937,6 +957,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2017-06-10 15:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2021-02-27 15:41:02 +0000"
     },
     "done": true
   },
@@ -1258,6 +1284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2021-02-27 15:41:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2017-06-11 20:57:40 +0000"
@@ -1419,6 +1451,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2021-02-20 14:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2021-02-27 15:41:02 +0000"
     },
     "done": true
   },
