@@ -2028,6 +2028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2021-03-20 04:03:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-05-11 22:19:38 +0000"
@@ -2589,6 +2595,7 @@
       "potato": "2018-02-03 18:33:16 +0000",
       "cooked_cod": "2017-06-09 18:51:35 +0000",
       "bread": "2018-02-25 20:56:28 +0000",
+      "melon_slice": "2021-03-20 18:35:37 +0000",
       "cooked_rabbit": "2018-05-05 15:21:44 +0000",
       "cooked_chicken": "2018-04-13 23:53:19 +0000",
       "cod": "2019-02-25 04:07:47 +0000",
