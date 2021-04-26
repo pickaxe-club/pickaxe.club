@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2021-04-23 23:18:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2017-06-12 01:10:47 +0000"
@@ -1986,6 +1992,12 @@
   "minecraft:end/dragon_egg": {
     "criteria": {
       "dragon_egg": "2020-04-17 00:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2021-04-25 06:14:55 +0000"
     },
     "done": true
   },
