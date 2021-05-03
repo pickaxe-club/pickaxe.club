@@ -1753,6 +1753,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:jungle_edge": "2020-02-17 18:32:23 +0000",
+      "minecraft:cold_ocean": "2021-05-02 22:11:54 +0000",
       "minecraft:snowy_mountains": "2017-06-12 00:58:01 +0000",
       "minecraft:mountains": "2017-06-12 00:59:37 +0000",
       "minecraft:mushroom_fields": "2017-07-01 23:39:03 +0000",
