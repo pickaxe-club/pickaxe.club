@@ -1460,6 +1460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2021-05-08 21:06:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2017-06-09 19:25:46 +0000"
@@ -3139,8 +3145,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2017-06-24 00:39:52 +0000",
+      "minecraft:pillager": "2021-05-08 20:24:47 +0000",
       "minecraft:skeleton": "2017-06-24 00:39:42 +0000",
+      "minecraft:ravager": "2021-05-08 20:46:29 +0000",
       "minecraft:ghast": "2018-11-18 00:08:00 +0000",
+      "minecraft:vindicator": "2021-05-08 20:42:53 +0000",
       "minecraft:magma_cube": "2017-10-14 23:42:57 +0000",
       "minecraft:spider": "2017-06-17 18:19:10 +0000",
       "minecraft:creeper": "2017-06-12 02:11:04 +0000",
@@ -3221,6 +3230,12 @@
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_crimson_planks": "2020-07-25 17:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2021-05-08 20:24:47 +0000"
     },
     "done": true
   },
@@ -4114,6 +4129,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_the_recipe": "2017-06-09 19:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2021-05-08 20:46:45 +0000"
     },
     "done": true
   },

@@ -838,6 +838,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2017-08-07 17:45:44 +0000",
+      "minecraft:pillager": "2021-05-08 20:31:14 +0000",
       "minecraft:skeleton": "2017-06-26 05:37:19 +0000",
       "minecraft:ghast": "2017-12-28 07:07:55 +0000",
       "minecraft:guardian": "2019-03-09 21:39:19 +0000",
@@ -991,6 +992,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2020-09-12 17:39:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2021-05-08 20:41:26 +0000"
     },
     "done": true
   },
@@ -2391,6 +2398,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2020-03-04 07:16:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2021-05-08 20:46:45 +0000"
     },
     "done": true
   },
