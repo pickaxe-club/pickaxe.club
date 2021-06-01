@@ -781,6 +781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2021-05-31 19:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2017-09-17 22:45:15 +0000"
@@ -872,6 +878,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-04-22 05:42:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2021-06-01 01:16:05 +0000"
     },
     "done": true
   },
@@ -2085,9 +2097,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2021-03-20 19:38:14 +0000",
       "minecraft:nether_wastes": "2020-08-08 23:18:09 +0000",
-      "minecraft:soul_sand_valley": "2021-03-20 19:36:30 +0000"
+      "minecraft:soul_sand_valley": "2021-03-20 19:36:30 +0000",
+      "minecraft:warped_forest": "2021-05-31 19:57:04 +0000",
+      "minecraft:basalt_deltas": "2021-05-31 19:53:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
@@ -2479,6 +2493,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2021-06-01 01:16:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2020-03-28 04:49:13 +0000"
@@ -2506,6 +2526,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-04-07 23:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2021-06-01 01:16:05 +0000"
     },
     "done": true
   },
@@ -3862,6 +3888,12 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2020-03-03 02:38:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2021-05-31 19:54:13 +0000"
     },
     "done": true
   },
