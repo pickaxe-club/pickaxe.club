@@ -1507,6 +1507,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/bullseye": {
+    "criteria": {
+      "bullseye": "2021-07-05 18:25:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-03-22 21:59:21 +0000"
@@ -1627,6 +1633,7 @@
       "minecraft:pig": "2020-03-31 22:10:24 +0000",
       "minecraft:turtle": "2020-04-16 21:40:40 +0000",
       "minecraft:sheep": "2020-03-30 21:16:42 +0000",
+      "minecraft:hoglin": "2021-07-05 20:27:27 +0000",
       "minecraft:mooshroom": "2020-05-07 22:24:46 +0000",
       "minecraft:cow": "2020-04-08 21:24:18 +0000",
       "minecraft:chicken": "2020-04-09 22:00:01 +0000",
@@ -1908,6 +1915,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2020-03-21 23:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2021-07-05 21:05:01 +0000"
     },
     "done": true
   },
@@ -3006,6 +3019,7 @@
       "minecraft:pillager": "2020-03-26 20:55:20 +0000",
       "minecraft:skeleton": "2018-10-27 20:50:03 +0000",
       "minecraft:elder_guardian": "2020-11-21 07:28:36 +0000",
+      "minecraft:zoglin": "2021-07-05 18:43:34 +0000",
       "minecraft:ravager": "2020-03-27 22:01:09 +0000",
       "minecraft:ghast": "2020-03-22 21:42:36 +0000",
       "minecraft:hoglin": "2020-07-25 21:23:12 +0000",
@@ -3617,26 +3631,32 @@
       "minecraft:mountains": "2020-03-15 21:51:09 +0000",
       "minecraft:taiga": "2018-10-27 21:05:41 +0000",
       "minecraft:desert_hills": "2020-03-15 20:26:59 +0000",
+      "minecraft:giant_tree_taiga": "2021-07-05 20:38:41 +0000",
       "minecraft:snowy_tundra": "2020-04-18 06:04:33 +0000",
       "minecraft:taiga_hills": "2020-03-22 21:40:08 +0000",
       "minecraft:desert": "2020-03-15 20:26:52 +0000",
+      "minecraft:frozen_river": "2021-07-05 21:01:13 +0000",
       "minecraft:jungle": "2018-03-02 23:51:59 +0000",
       "minecraft:birch_forest": "2020-03-21 23:03:43 +0000",
       "minecraft:jungle_hills": "2020-04-16 22:17:08 +0000",
       "minecraft:snowy_beach": "2020-04-17 20:52:33 +0000",
       "minecraft:bamboo_jungle": "2020-04-29 21:14:46 +0000",
+      "minecraft:deep_lukewarm_ocean": "2021-07-05 20:55:25 +0000",
       "minecraft:savanna_plateau": "2020-03-15 22:13:13 +0000",
       "minecraft:beach": "2018-03-03 00:18:22 +0000",
       "minecraft:dark_forest": "2020-03-22 21:07:45 +0000",
       "minecraft:river": "2018-03-03 00:22:34 +0000",
+      "minecraft:lukewarm_ocean": "2021-07-05 20:55:23 +0000",
       "minecraft:snowy_taiga": "2020-04-17 20:52:37 +0000",
       "minecraft:birch_forest_hills": "2020-03-27 21:28:07 +0000",
       "minecraft:wooded_mountains": "2020-03-22 21:01:40 +0000",
       "minecraft:bamboo_jungle_hills": "2020-04-29 21:16:02 +0000",
       "minecraft:wooded_hills": "2018-10-27 21:03:30 +0000",
       "minecraft:stone_shore": "2020-04-03 22:41:42 +0000",
+      "minecraft:giant_tree_taiga_hills": "2021-07-05 20:50:18 +0000",
       "minecraft:wooded_badlands_plateau": "2020-04-29 20:38:48 +0000",
       "minecraft:swamp": "2020-03-24 21:46:29 +0000",
+      "minecraft:snowy_taiga_hills": "2021-07-05 21:01:05 +0000",
       "minecraft:savanna": "2018-03-03 00:38:07 +0000",
       "minecraft:plains": "2018-03-02 23:50:33 +0000"
     },
@@ -4411,6 +4431,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2020-04-11 20:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2021-07-05 18:17:14 +0000"
     },
     "done": true
   },
