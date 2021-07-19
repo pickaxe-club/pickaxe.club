@@ -2770,6 +2770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_log": "2021-07-18 22:27:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2020-03-03 23:06:23 +0000"
@@ -4072,6 +4078,7 @@
       "sweet_berries": "2020-04-10 00:47:35 +0000",
       "cooked_beef": "2019-02-02 18:43:44 +0000",
       "chorus_fruit": "2019-04-14 19:16:12 +0000",
+      "baked_potato": "2021-07-18 17:35:13 +0000",
       "apple": "2020-10-24 20:32:49 +0000",
       "spider_eye": "2019-01-26 23:24:21 +0000",
       "potato": "2018-09-02 02:41:50 +0000",
@@ -5045,6 +5052,12 @@
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2020-08-18 01:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2021-07-18 20:18:23 +0000"
     },
     "done": true
   },
